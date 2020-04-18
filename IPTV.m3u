@@ -135,19 +135,6 @@ http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="http://www.jiajiakt.com/images/global/logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",嘉佳卡通卫视
 http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NR3DhDu.png" tvg-country="CN" tvg-url="" group-title="国际",CGTN-中国环球电视网阿拉伯语
-http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/g2qz3Fh.png" tvg-country="CN" tvg-url="" group-title="国际",CGTN-中国环球电视网法语
-http://live.cgtn.com/cctv-f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",CGTN-中国环球电视网西班牙语
-http://live.cgtn.com/cctv-e.m3u8
-#EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-language="Chinese" tvg-logo="https://i.imgur.com/TSG6WBy.png" tvg-country="CN" tvg-url="" group-title="国际",CGTN-中国环球电视网纪录
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",CGNTV-华人媒体宣教电视台
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",CGNTV-华人媒体宣教中文台
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/chunklist_w1705401687.m3u8
-
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-language="Chinese" tvg-logo="http://www.zhiboba.org/zbbimg/btv-12jishi.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方",北京冬奥纪实 HD
 http://112.50.243.8/PLTV/88888888/224/3221225944/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV文艺" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="地方",北京文艺频道 HD
@@ -280,3 +267,31 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://121.31.30.90:8085/ysten-business/live/yangguangstv/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="耀才财经" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="亚洲新闻台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际",亚洲新闻台 HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新加坡U频道" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际",新加坡U频道 HD
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新加坡8频道" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际",新加坡8频道 HD
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新加坡5频道" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际",新加坡5频道 HD
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",CGNTV-华人媒体宣教 HD
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGNTV中文" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",CGNTV-华人媒体宣教中文 HD
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/chunklist_w1705401687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGNTV日本" tvg-language="Japanese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",CGNTV-华人媒体宣教日本 HD
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK华语视界" tvg-language="Japanese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",NHK华语视界 HD
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHKWORLD" tvg-language="Japanese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",NHK环球国际 HD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NR3DhDu.png" tvg-country="CN" tvg-url="" group-title="国际",CGTN-中国环球电视网阿拉伯语
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Fre" tvg-logo="https://i.imgur.com/g2qz3Fh.png" tvg-country="CN" tvg-url="" group-title="国际",CGTN-中国环球电视网法语
+http://live.cgtn.com/cctv-f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",CGTN-中国环球电视网西班牙语
+http://live.cgtn.com/cctv-e.m3u8
+#EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-language="Chinese" tvg-logo="https://i.imgur.com/TSG6WBy.png" tvg-country="CN" tvg-url="" group-title="国际",CGTN-中国环球电视网纪录
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
