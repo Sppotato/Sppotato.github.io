@@ -45,9 +45,11 @@ http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV15" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CCTV-15音乐频道 HD
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV17" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CCTV-17农村农业频道 HD
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="4K",CCTV-4K超高清频道
+http://39.135.34.132:8080/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="4K",CCTV-4K高清频道
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="4K",CCTV-4K超高清频道
+http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/c5Yj2to.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CGTN-中国环球电视网新闻 HD
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CHC高清电影
