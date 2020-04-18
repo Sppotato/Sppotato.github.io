@@ -258,10 +258,20 @@ https://live.ntdimg.com/live400/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" tvg-country="CN" tvg-url="" group-title="台湾",新唐人美西台
 https://live.ntdimg.com/uwlive990/playlist.m3u8
 
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",凤凰卫视中文台 HD
+http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",凤凰卫视资讯台 HD
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",凤凰卫视香港台 HD
+http://223.82.250.72/live/fhhongkong/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港亚视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",香港亚视 HD
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="亚旅卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",亚旅卫视 HD
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",有线财经资讯台 HD
+https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/index.m3u8
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",有线新闻台 HD
+https://ottproxy2.mott.tv/livehls/MOB-NGW/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港C+" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",香港C+频道 HD
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="香港卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",香港卫视
