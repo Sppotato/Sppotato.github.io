@@ -257,11 +257,13 @@ https://live.ntdimg.com/live400/playlist.m3u8
 https://live.ntdimg.com/uwlive990/playlist.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",凤凰卫视中文台 HD
-http://220.158.149.26:8180/TV00000000000000000067@HHZT;LIVE
+http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8
 #EXTINF:-1 tvg-id="144" tvg-name="凤凰资讯" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",凤凰卫视资讯台 HD
-http://220.158.149.26:8180/TV00000000000000000066@HHZT;LIVE
+http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
 #EXTINF:-1 tvg-id="144" tvg-name="凤凰香港" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",凤凰卫视香港台 HD
-http://220.158.149.26:8180/TV00000000000000000068@HHZT;LIVE
+http://220.158.149.26:8182/hls/TV00000000000000000068@HHZT.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="香港卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="144" tvg-name="阳光卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",阳光卫视
 http://121.31.30.90:8085/ysten-business/live/yangguangstv/1.m3u8
 
