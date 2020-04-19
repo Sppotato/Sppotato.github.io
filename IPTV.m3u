@@ -13,6 +13,10 @@ http://39.134.52.183/wh7f454c46tw3669132437_-1850260639/hwottcdn.ln.chinamobile.
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="4K",纯享 4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑莓电影" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="数字",黑莓电影 HD
+http://39.135.32.143:6610/000000001000/8785669936177902664/1.m3u8?
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="数字",五星体育 HD
+http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2biD7%2bHgi9LcszGFRGa51uAqiHNpkS5d0%2fEIXqMyy8J6GNpZ%2bE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2fkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2fYjl4A
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CCTV-1综合频道 HD
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
@@ -25,19 +29,19 @@ http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CCTV-5体育频道 HD
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CCTV-5+体育赛事频道 HD
-http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CCTV-6电影频道 HD
 http://39.135.32.27:6610/000000001000/1000000001000001737/index.m3u8?i
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CCTV-7军事频道 HD
-http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CCTV-8电视剧频道 HD
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CCTV-9纪录频道 HD
-http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CCTV-10科教频道 HD
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CCTV-11戏曲频道 HD
-http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CCTV-12社会与法频道 HD
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CCTV-13新闻频道 HD
@@ -47,7 +51,7 @@ http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CCTV-15音乐频道 HD
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CCTV-17农村农业频道 HD
-http://39.135.34.132:8080/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="4K",CCTV-4K高清频道
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="4K",CCTV-4K超高清频道
@@ -56,41 +60,45 @@ http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CHC动作电影
+http://125.210.152.18:9090/live/DZDYHD.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CHC家庭影院
+http://125.210.152.18:9090/live/JTYYHD.m3u8
 
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",湖南卫视 HD
-http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",东方卫视 HD
-http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="http://img01.cztv.com/201606/29/af4bb930e4ce3ec3528bdebdd88fdac3.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",浙江卫视 HD
-http://112.50.243.8/PLTV/88888888/224/3221225934/3.m3u8
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",江苏卫视 HD
-http://ivi.bupt.edu.cn/hls/jshd.m3u8
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="http://image2.sina.com.cn/ent/v/2006-04-28/U1343P28T3D1068267F326DT20060428153108.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",北京卫视 HD
-http://112.50.243.8/PLTV/88888888/224/3221225937/3.m3u8
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",安徽卫视 HD
-http://112.50.243.8/PLTV/88888888/224/3221225945/3.m3u8
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/GRT_Satellite_Channel_2016_logo.jpg/400px-GRT_Satellite_Channel_2016_logo.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",广东卫视 HD
-http://112.50.243.8/PLTV/88888888/224/3221225824/1.m3u8
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",东南卫视 HD
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",深圳卫视 HD
-http://112.50.243.8/PLTV/88888888/224/3221225848/1.m3u8
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a2/Xiamen_Star_Logo.png/330px-Xiamen_Star_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",厦门卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221226781/3.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="http://www.ijizhi.com/img/UploadFile/201112515747511.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",天津卫视 HD
-http://112.50.243.8/PLTV/88888888/224/3221225941/3.m3u8
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",山东卫视 HD
-http://112.50.243.8/PLTV/88888888/224/3221225943/3.m3u8
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",江西卫视 HD
-http://112.50.243.8/PLTV/88888888/224/3221225868/1.m3u8
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",湖北卫视 HD
-http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/liaoningtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",辽宁卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225947/3.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/CQTV_new_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",重庆卫视
-http://112.50.243.8/PLTV/88888888/224/3221225949/3.m3u8
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/HLJTV_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",黑龙江卫视
-http://112.50.243.8/PLTV/88888888/224/3221225940/3.m3u8
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",广西卫视 HD
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",河北卫视 HD
@@ -109,7 +117,7 @@ http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000284703.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0d/Shaanxi_Satellite_TV.png/220px-Shaanxi_Satellite_TV.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",陕西卫视
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294403.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",云南卫视
-http://ivi.bupt.edu.cn/hls/yntv.m3u8
+http://39.130.218.239:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",甘肃卫视
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294603.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",兵团卫视
@@ -121,9 +129,9 @@ http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294703.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",内蒙古卫视
 http://121.31.30.90:8085/ysten-business/live/neimenggustv/yst.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",新疆卫视
-http://ivi.bupt.edu.cn/hls/xjtv.m3u8
+http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=009&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/07/Tibet_TV_logo.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",西藏卫视
-http://121.31.30.90:8085/ysten-business/live/xizangstv/1.m3u8
+http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Shanxi_Television.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",山西卫视
 http://125.210.152.10:8060/live/SXWS.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",优漫卡通卫视
@@ -139,6 +147,11 @@ http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225944/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV文艺" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="地方",北京文艺频道 HD
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南潇湘电影" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="地方",湖南潇湘电影 HD
+http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="地方",广东体育频道 HD
+http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" tvg-country="CN" tvg-url="" group-title="地方",六安公共频道 HD
 http://live.china-latv.com/channel2/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" tvg-country="CN" tvg-url="" group-title="地方",六安新闻综合 HD
@@ -256,44 +269,49 @@ http://61.58.60.230:9319/live/191.m3u8
 http://61.58.60.230:9319/live/125.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",民視新聞台 HD
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="6150" tvg-name="靖天欢乐台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",靖天欢乐台 HD
+http://61.58.60.230:9319/live/201.m3u8
+#EXTINF:-1 tvg-id="6099" tvg-name="靖天资讯台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",靖天资讯台 HD
+http://61.58.60.230:9319/live/202.m3u8
+#EXTINF:-1 tvg-id="6151" tvg-name="靖天育乐台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",靖天育乐台 HD
+http://61.58.60.230:9319/live/204.m3u8
+#EXTINF:-1 tvg-id="6101" tvg-name="靖洋戏剧台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",靖洋戏剧台 HD
+http://61.58.60.230:9319/live/203.m3u8
+#EXTINF:-1 tvg-id="7187" tvg-name="靖天国际台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",靖天国际台 HD
+http://61.58.60.230:9319/live/205.m3u8
+#EXTINF:-1 tvg-id="6191" tvg-name="靖洋卡通台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",靖洋卡通台 HD
+http://61.58.60.230:9319/live/206.m3u8
+#EXTINF:-1 tvg-id="6192" tvg-name="靖天卡通台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",靖天卡通台 HD
+http://61.58.60.230:9319/live/207.m3u8
+#EXTINF:-1 tvg-id="6116" tvg-name="靖天映画台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",靖天映画台 HD
+http://61.58.60.230:9319/live/244.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",新唐人亚太台
-https://live.ntdimg.com/aplive200/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",新唐人加东台
-https://live.ntdimg.com/mllive860/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",新唐人加西台
-https://live.ntdimg.com/cwlive220/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",新唐人旧金山台
-https://live.ntdimg.com/sflive990/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",新唐人美东台
-https://live.ntdimg.com/live400/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",新唐人美西台
-https://live.ntdimg.com/uwlive990/playlist.m3u8
-
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",凤凰卫视中文台 HD
-http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",凤凰卫视资讯台 HD
-http://117.169.120.138:8080/live/fhzixun/.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",凤凰卫视香港台 HD
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",凤凰卫视中文台 HD
+http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",凤凰卫视资讯台 HD
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",凤凰卫视香港台 HD
 http://223.82.250.72/live/fhhongkong/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="香港亚视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",香港亚视 HD
+#EXTINF:-1 tvg-id="" tvg-name="香港亚视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",香港亚视 HD
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="亚旅卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",亚旅卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="亚旅卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",亚旅卫视 HD
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-#EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",有线财经资讯台 HD
+#EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",有线财经资讯台 HD
 https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/index.m3u8
-#EXTINF:-1 tvg-id="7122" tvg-name="有线娱乐台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",有线娱乐台 HD
+#EXTINF:-1 tvg-id="7122" tvg-name="有线娱乐台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",有线娱乐台 HD
 https://ottproxy2.mott.tv/livehls/MOB-NGW/01.m3u8
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",有线新闻台 HD
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",有线新闻台 HD
 https://ottproxy2.mott.tv/livehls/MOB-CN/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="香港C+" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",香港C+频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="香港C+" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",香港C+频道 HD
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
-#EXTINF:-1 tvg-id="412" tvg-name="香港卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",香港卫视
+#EXTINF:-1 tvg-id="412" tvg-name="香港卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="阳光卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",阳光卫视
+#EXTINF:-1 tvg-id="144" tvg-name="阳光卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",阳光卫视
 http://121.31.30.90:8085/ysten-business/live/yangguangstv/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="耀才财经" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="香港",耀才财经台
+#EXTINF:-1 tvg-id="" tvg-name="耀才财经" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-id="476" tvg-name="澳亚卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="亚洲新闻台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际",亚洲新闻台 HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -319,8 +337,6 @@ http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Japan Shop" tvg-language="Japanese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",日本购物频道 HD
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳大利亚天和电视台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",澳大利亚天和电视台
-http://rtvcdn.com.au:8082/TV_GG.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NR3DhDu.png" tvg-country="CN" tvg-url="" group-title="国际",CGTN-中国环球电视网阿拉伯语
 http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Fre" tvg-logo="https://i.imgur.com/g2qz3Fh.png" tvg-country="CN" tvg-url="" group-title="国际",CGTN-中国环球电视网法语
