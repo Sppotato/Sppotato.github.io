@@ -147,7 +147,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225944/3.m3u8
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南潇湘电影" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="地方",湖南潇湘电影 HD
 http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="地方",广东体育频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gdty.jpg" tvg-country="CN" tvg-url="" group-title="地方",广东体育频道 HD
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" tvg-country="CN" tvg-url="" group-title="地方",六安公共频道 HD
