@@ -245,7 +245,7 @@ http://live.qxndt.com/channel3/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="地方",黔西南综合频道 HD
 http://live.qxndt.com/channel2/sd/live.m3u8
 
-#EXTINF:-1 tvg-id="7179" tvg-name="CNEX" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",CNEX纪录片频道 HD
+#EXTINF:-1 tvg-id="7179" tvg-name="CNEX" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cnex.png" tvg-country="CN" tvg-url="" group-title="台湾",CNEX纪录片频道 HD
 http://61.58.60.230:9319/live/257.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",CYC世新綜合频道 HD
 http://61.58.60.230:9319/live/49.m3u8
