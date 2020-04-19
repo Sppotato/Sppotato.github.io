@@ -327,13 +327,13 @@ http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/chunklist_w1705401687
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK华语视界" tvg-language="Japanese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",NHK华语视界 HD
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHKWORLD" tvg-language="Japanese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",NHK环球国际 HD
+#EXTINF:-1 tvg-id="" tvg-name="NHKWORLD" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/nhk.jpg" tvg-country="CN" tvg-url="" group-title="国际",NHK环球国际 HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Narita Airport" tvg-language="Japanese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",成田机场LIVE HD
 http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Weather News" tvg-language="Japanese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",日本气象频道 HD
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Japan Shop" tvg-language="Japanese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",日本购物频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="Japan Shop" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/jpshop.jpg" tvg-country="CN" tvg-url="" group-title="国际",日本购物频道 HD
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://sppotato.github.io/icon/cgtna.jpg" tvg-country="CN" tvg-url="" group-title="国际",CGTN-CGTN-阿拉伯语
 http://livear.cgtn.com/1000a/prog_index.m3u8
