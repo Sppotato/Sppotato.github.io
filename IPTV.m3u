@@ -286,11 +286,11 @@ http://61.58.60.230:9319/live/207.m3u8
 #EXTINF:-1 tvg-id="6116" tvg-name="靖天映画台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",靖天映画台 HD
 http://61.58.60.230:9319/live/244.m3u8
 
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/pkzw.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",凤凰卫视中文台 HD
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/phzw.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",凤凰卫视中文台 HD
 http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/pkzx.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",凤凰卫视资讯台 HD
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/phzx.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",凤凰卫视资讯台 HD
 http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/pkhk.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",凤凰卫视香港台 HD
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/phhk.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",凤凰卫视香港台 HD
 http://223.82.250.72/live/fhhongkong/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港亚视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hkatv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",香港亚视 HD
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
@@ -333,10 +333,14 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Narita Airport" tvg-language="Japanese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",成田机场LIVE HD
 http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Weather News" tvg-language="Japanese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",日本气象频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="Weather News" tvg-language="Japanese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",日本气象 HD
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Japan Shop" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/jpshop.jpg" tvg-country="CN" tvg-url="" group-title="国际",日本购物频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="Japan Shop" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/jpshop.jpg" tvg-country="CN" tvg-url="" group-title="国际",日本购物 HD
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1HD Music TV" tvg-language="English" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",俄罗斯1音乐 HD
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://sppotato.github.io/icon/cgtna.jpg" tvg-country="CN" tvg-url="" group-title="国际",CGTN-CGTN-阿拉伯语
 http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Fre" tvg-logo="https://sppotato.github.io/icon/cgtnf.jpg" tvg-country="CN" tvg-url="" group-title="国际",CGTN-法语国际
