@@ -337,11 +337,11 @@ http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Japan Shop" tvg-language="Japanese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",日本购物频道 HD
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NR3DhDu.png" tvg-country="CN" tvg-url="" group-title="国际",CGTN-中国环球电视网阿拉伯语
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://sppotato.github.io/icon/cgtna.jpg" tvg-country="CN" tvg-url="" group-title="国际",CGTN-CGTN-阿拉伯语
 http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Fre" tvg-logo="https://i.imgur.com/g2qz3Fh.png" tvg-country="CN" tvg-url="" group-title="国际",CGTN-中国环球电视网法语
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Fre" tvg-logo="https://sppotato.github.io/icon/cgtnf.jpg" tvg-country="CN" tvg-url="" group-title="国际",CGTN-法语国际
 http://live.cgtn.com/cctv-f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctve.jpg" tvg-country="CN" tvg-url="" group-title="国际",CGTN-西语国际
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cgtne.jpg" tvg-country="CN" tvg-url="" group-title="国际",CGTN-西语国际
 http://live.cgtn.com/cctv-e.m3u8
-#EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-language="Chinese" tvg-logo="https://i.imgur.com/TSG6WBy.png" tvg-country="CN" tvg-url="" group-title="国际",CGTN-中国环球电视网纪录
+#EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cgtnd.jpg" tvg-country="CN" tvg-url="" group-title="国际",CGTN-环球纪录
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
