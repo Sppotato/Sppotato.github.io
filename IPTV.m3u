@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ipanda.jpg" tvg-country="CN" tvg-url="" group-title="数字",熊猫频道 HD
 http://gccnchwc.v.cdn20.com/gc/xiongmao01_1.flv
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/game.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字",游戏风云 HD
-http://112.17.40.140/PLTV/88888888/224/3221226726/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/caijing.jpg" tvg-country="CN" tvg-url="" group-title="数字",财经频道 HD
 http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bestv.jpg" tvg-country="CN" tvg-url="" group-title="数字",百事通学而思 HD
@@ -15,6 +13,28 @@ http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑莓电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/movie.jpg" tvg-country="CN" tvg-url="" group-title="数字",黑莓电影 HD
 http://39.135.32.143:6610/000000001000/8785669936177902664/1.m3u8?
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字",新视觉 HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字",动漫秀场 HD
+http://liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/game.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字",游戏风云 HD
+http://liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字",劲爆体育 HD
+http://liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字",魅力足球 HD
+http://liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字",欢笑剧场 HD
+http://liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1975" tvg-name="极速汽车" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字",极速汽车 HD
+http://liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字",生活时尚 HD
+http://liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字",全纪实 HD
+http://liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="6610" tvg-name="都市剧场" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字",都市剧场 HD
+http://liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字",幸福彩 HD
+http://liveplay-kk.rtxapp.com/live/program/live/xfchd/4000000/mnf.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv1.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视",CCTV-1综合 HD
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
@@ -143,21 +163,21 @@ http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
 
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/btv3.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方",北京冬奥纪实 HD
 http://112.50.243.8/PLTV/88888888/224/3221225944/3.m3u8
-#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/btv2.jpg" tvg-country="CN" tvg-url="" group-title="地方",北京文艺 HD
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/btv2.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方",北京文艺 HD
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海ICS" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="地方",上海ICS外语 HD
+#EXTINF:-1 tvg-id="1991" tvg-name="上视外语" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方",上海ICS外语 HD
 http://liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海东方影视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="地方",上海东方影视 HD
+#EXTINF:-1 tvg-id="1986" tvg-name="上海东方影视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方",上海东方影视 HD
 http://liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/wxty.jpg" tvg-country="CN" tvg-url="" group-title="地方",上海五星体育 HD
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/wxty.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方",上海五星体育 HD
 http://liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海第一财经" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="地方",上海第一财经 HD
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方",上海第一财经 HD
 http://liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海新闻综合" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="地方",上海新闻综合 HD
-http://liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海纪实人文" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="地方",上海纪实人文 HD
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方",上海新闻综合 HD
+http://liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方",上海纪实人文 HD
 http://liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海都市" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="地方",上海都市 HD
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方",上海都市 HD
 http://liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南潇湘电影" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="地方",湖南潇湘电影 HD
 http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
