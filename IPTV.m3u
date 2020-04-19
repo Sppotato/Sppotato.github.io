@@ -180,55 +180,71 @@ http://ivi.bupt.edu.cn/hls/btv10.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv1.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",CCTV-1综合 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226346/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000001000018602/1.m3u8?i
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv2.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",CCTV-2财经 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226371/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000001000023315/1.m3u8?i
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv3.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",CCTV-3综艺 HD
+http://39.135.32.24:6610/000000001000/1000000001000013682/1.m3u8?i
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv4.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",CCTV-4中文国际 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000002000031664/1.m3u8?i
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv5.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",CCTV-5体育 HD
+http://39.135.32.24:6610/000000001000/1000000001000004794/1.m3u8?i
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv5p.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",CCTV-5+体育赛事 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000001000020505/1.m3u8?i
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv6.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",CCTV-6电影 HD
+http://39.135.32.24:6610/000000001000/1000000001000001737/1.m3u8?i
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv7.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",CCTV-7军事 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000001000024341/1.m3u8?i
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv8.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",CCTV-8电视剧 HD
+http://39.135.32.24:6610/000000001000/1000000001000031433/1.m3u8?i
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv9.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",CCTV-9纪录 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000001000014583/1.m3u8?i
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv10.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",CCTV-10科教 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000001000023734/1.m3u8?i
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv11.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",CCTV-11戏曲 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000002000019789/1.m3u8?i
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv12.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",CCTV-12社会与法 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000001000032494/1.m3u8?i
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv14.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",CCTV-14少儿 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000001000008170/1.m3u8?i
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv15.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",CCTV-15音乐 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226317/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000002000008163/1.m3u8?i
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv17.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",CCTV-17农村农业 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000005000056836/1.m3u8?i
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dftv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",东方卫视 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000001000005866/1.m3u8?i
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/btv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",北京卫视 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000001000021288/1.m3u8?i
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/tjtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",天津卫视 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000001000003475/1.m3u8?i
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ahtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",安徽卫视 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000001000030159/1.m3u8?i
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sdtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",山东卫视 HD
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gdtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",广东卫视 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225878/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000001000014176/1.m3u8?i
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jstv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",江苏卫视 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000001000001828/1.m3u8?i
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",江西卫视 HD
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",浙江卫视 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226365/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000001000014260/1.m3u8?i
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sztv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",深圳卫视 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225897/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000001000009227/1.m3u8?i
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hbtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",湖北卫视 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000001000024621/1.m3u8?i
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hntv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",湖南卫视 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000001000032695/1.m3u8?i
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hljtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",黑龙江卫视 HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+http://39.135.32.24:6610/000000001000/1000000001000001925/1.m3u8?i
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dntv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",东南卫视 HD
+http://39.135.32.24:6610/000000001000/1000000002000009263/1.m3u8?i
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="CDN",上海纪实人文 HD
+http://39.135.32.24:6610/000000001000/1000000001000016545/1.m3u8?i
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/btv3.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",北京冬奥纪实 HD
+http://39.135.32.24:6610/000000001000/1000000001000001910/1.m3u8?i
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CDN",中国教育一台
+http://39.135.32.24:6610/000000001000/1000000002000027253/1.m3u8?i
 
 
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/btv3.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方",北京冬奥纪实 HD
