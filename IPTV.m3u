@@ -4,9 +4,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bestv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="4K",百事通4K
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/4kuhd.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="4K",纯享4K
-http://39.135.140.14:6610/PLTV/88888888/224/3221225786/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/4kuhd.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="4K",Dox4K
-http://39.135.16.160:6610/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
+http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv4k.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="4K",CCTV-4K超高清
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
 
@@ -320,8 +318,6 @@ http://tv1.wanfudaluye.com/live/live.m3u8
 http://61.58.60.230:9319/live/191.m3u8
 #EXTINF:-1 tvg-id="6138" tvg-name="幸福空间居家台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",幸福空間居家台 HD
 http://61.58.60.230:9319/live/125.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",民視新聞台 HD
-https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="6150" tvg-name="靖天欢乐台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",靖天欢乐台 HD
 http://61.58.60.230:9319/live/201.m3u8
 #EXTINF:-1 tvg-id="6099" tvg-name="靖天资讯台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",靖天资讯台 HD
