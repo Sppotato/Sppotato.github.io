@@ -390,8 +390,12 @@ http://stream.mastvnet.com/MASTV/sd/live.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Manoto HD" tvg-language="English" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际",伊朗娱乐台 HD
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arte HD" tvg-language="Korea" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际",韩国Arte HD
+http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="阿里郎" tvg-language="Korea" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际",韩国阿里郎 HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="韩国佛教广播" tvg-language="Korea" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际",韩国佛教广播 HD
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1HD Music TV" tvg-language="English" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际",俄罗斯1音乐 HD
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="新加坡U频道" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际",新加坡U频道 HD
