@@ -406,12 +406,18 @@ http://61.58.60.230:9319/live/207.m3u8
 #EXTINF:-1 tvg-id="6116" tvg-name="靖天映画台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="台湾",靖天映画台 HD
 http://61.58.60.230:9319/live/244.m3u8
 
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/phzw.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",凤凰卫视中文台 HD
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/phzw.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",凤凰中文 HD
 http://qlive.fengshows.cn/PCC.flv
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/phzx.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",凤凰卫视资讯台 HD
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/phzx.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",凤凰资讯 HD
 http://qlive.fengshows.cn/PIN.flv
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/phhk.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",凤凰卫视香港台 HD
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/phhk.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",凤凰香港 HD
 http://qlive.fengshows.cn/PHK.flv
+#EXTINF:-1 tvg-id="" tvg-name="有线综合娱乐" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",有线综合娱乐 HD
+https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="有线财经资讯" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",有线财经资讯 HD
+https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="有线新闻" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",有线新闻 HD
+http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港亚视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hkatv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",香港亚视 HD
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="亚旅卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳",亚旅卫视 HD
