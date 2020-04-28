@@ -96,11 +96,6 @@ http://39.135.140.14:6610/PLTV/88888888/224/3221225696/2/index.m3u8?fmt=ts2hls
 http://39.135.140.14:6610/PLTV/88888888/224/3221225692/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/lytv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",海南卫视 HD
 http://39.135.34.134:8080/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=00000250001B50800001B401420BC069
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jltv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",吉林卫视 HD
-http://39.135.16.160:6610/PLTV/88888888/224/3221225753/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gxtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",广西卫视 HD
-http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
-
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jishi.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="卫视",上海纪实人文 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225655/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xdkt.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",哈哈炫动卫视 HD
@@ -111,28 +106,34 @@ http://39.135.140.14:6610/PLTV/88888888/224/3221225595/2/index.m3u8?fmt=ts2hls
 http://39.135.140.14:6610/PLTV/88888888/224/3221225676/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cetv1.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",中国教育一台 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225917/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jltv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",吉林卫视
+http://39.135.140.14:6610/PLTV/88888888/224/3221225680/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gxtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",广西卫视
+http://39.135.140.14:6610/PLTV/88888888/224/3221225551/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nmgtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",内蒙古卫视
-http://39.135.32.24:6610/000000001000/1000000002000014080/1.m3u8?i
+http://39.135.140.14:6610/PLTV/88888888/224/3221225667/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sdjy.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",山东教育卫视
-http://39.135.32.24:6610/000000001000/1000000002000004097/1.m3u8?i
+http://39.135.140.14:6610/PLTV/88888888/224/3221225719/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sxws.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",山西卫视
-http://39.135.32.24:6610/000000001000/1000000002000021220/1.m3u8?i
+http://39.135.140.14:6610/PLTV/88888888/224/3221225730/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nftv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",南方卫视
 http://39.135.32.24:6610/000000001000/1000000002000011619/1.m3u8?i
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gstv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",甘肃卫视
-http://39.135.32.24:6610/000000001000/1000000002000017827/1.m3u8?i
+http://39.135.140.14:6610/PLTV/88888888/224/3221225724/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sxtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",陕西卫视
-http://39.135.32.24:6610/000000001000/1000000002000007495/1.m3u8?i
+http://39.135.140.14:6610/PLTV/88888888/224/3221225729/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qhtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",青海卫视
-http://39.135.32.24:6610/000000001000/1000000002000013359/1.m3u8?i
+http://39.135.140.14:6610/PLTV/88888888/224/3221225727/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xztv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",西藏卫视
-http://39.135.32.24:6610/000000001000/6603041244077933770/1.m3u8?i
+http://39.135.140.14:6610/PLTV/88888888/224/3221225723/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ymkt.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",优漫卡通卫视
-http://39.135.32.24:6610/000000001000/1000000002000010063/1.m3u8?i
+http://39.135.140.14:6610/PLTV/88888888/224/3221225665/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jjkt.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",嘉佳卡通卫视
 http://39.135.32.24:6610/000000001000/1000000002000025964/1.m3u8?i
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jykt.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",金鹰卡通卫视
-http://39.135.32.24:6610/000000001000/1000000002000016601/1.m3u8?i
+http://39.135.140.14:6610/PLTV/88888888/224/3221225721/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="69" tvg-name="卡酷少儿" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jykt.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",卡酷少儿卫视
+http://39.135.140.14:6610/PLTV/88888888/224/3221225677/2/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/btv3.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方",北京冬奥纪实 HD
 http://112.50.243.8/PLTV/88888888/224/3221225944/3.m3u8
@@ -240,8 +241,6 @@ http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 http://stream.pznews.com/pztv1/sd/live.m3u8
 #EXTINF:-1 tvg-id="邳州综合" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方",邳州综合 HD
 http://stream.pznews.com/pztv2/sd/live.m3u8
-#EXTINF:-1 tvg-id="贵阳新闻综合" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方",贵阳新闻综合 HD
-http://39.135.16.160:6610/PLTV/88888888/224/3221225743/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="孟连电视台" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方",孟连电视台 HD
 http://39.130.206.213:6410/gitv_live/G_MENGLIAN/G_MENGLIAN.m3u8
 #EXTINF:-1 tvg-id="宾川一台" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方",宾川一台 HD
