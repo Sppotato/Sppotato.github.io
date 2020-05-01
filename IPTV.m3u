@@ -183,7 +183,7 @@ http://124.232.231.246:6610/000000001001/201500000134/index.m3u8?&version=v1.0&I
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hntv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="湖南电信IPTV",湖南卫视 HD+
 http://124.232.231.246:6610/000000001001/201500000219/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hntv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="湖南电信IPTV",湖南卫视 HD
-http://124.232.231.246:6610/000000001001/201500000068/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
+http://124.232.231.246:6610/000000001001/201500000233/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jstv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="湖南电信IPTV",江苏卫视 HD
 http://124.232.231.246:6610/000000001001/201500000070/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dftv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="湖南电信IPTV",东方卫视 HD
