@@ -208,37 +208,37 @@ http://124.232.231.246:6610/000000001001/201500000072/index.m3u8?&version=v1.0&I
 http://124.232.231.246:6610/000000001001/201500000238/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jyjs.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",金鹰纪实 HD
 http://124.232.231.246:6610/000000001001/201500000240/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="湖南电影" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",湖南电影 HD
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hndy.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",湖南电影 HD
 http://124.232.231.246:6610/000000001001/201500000237/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",湖南电视剧 HD
+#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hndsj.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",湖南电视剧 HD
 http://124.232.231.246:6610/000000001001/201500000236/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="湖南都市" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",湖南都市 HD
+#EXTINF:-1 tvg-id="湖南都市" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hnds.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",湖南都市 HD
 http://124.232.231.246:6610/000000001001/201500000235/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",湖南娱乐 HD
+#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hnyl.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",湖南娱乐 HD
 http://124.232.231.246:6610/000000001001/201500000239/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="湖南国际" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",湖南国际 HD
+#EXTINF:-1 tvg-id="湖南国际" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hngj.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",湖南国际 HD
 http://124.232.231.246:6610/000000001001/201500000242/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="湖南公共" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",湖南公共 HD
+#EXTINF:-1 tvg-id="湖南公共" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hngg.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",湖南公共 HD
 http://124.232.231.246:6610/000000001001/201500000241/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="湖南经视" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",湖南经视 HD
+#EXTINF:-1 tvg-id="湖南经视" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hnjs.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",湖南经视 HD
 http://124.232.231.246:6610/000000001001/201500000234/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="长沙新闻" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",长沙新闻 HD
+#EXTINF:-1 tvg-id="长沙新闻" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/csxw.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",长沙新闻 HD
 http://124.232.231.246:6610/000000001001/201500000232/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="长沙政法" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",长沙政法 HD
+#EXTINF:-1 tvg-id="长沙政法" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cszf.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",长沙政法 HD
 http://124.232.231.246:6610/000000001001/201500000229/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="浏阳新闻" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",浏阳新闻 HD
+#EXTINF:-1 tvg-id="浏阳新闻" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/lyxw.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",浏阳新闻 HD
 http://124.232.231.246:6610/000000001001/201500000334/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="狗狗TV" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",狗狗TV HD
+#EXTINF:-1 tvg-id="狗狗TV" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dogtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",狗狗TV HD
 http://124.232.231.246:6610/000000001001/201500000333/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="芒果TV" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",芒果TV HD
+#EXTINF:-1 tvg-id="芒果TV" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/mgtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",芒果TV HD
 http://124.232.231.246:6610/000000001001/201500000329/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="IPTV电竞" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",IPTV电竞 HD
+#EXTINF:-1 tvg-id="IPTV电竞" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/iptv2.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",IPTV电竞 HD
 http://124.232.231.246:6610/000000001001/201500000306/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="IPTV好吃厨房" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",IPTV好吃厨房 HD
+#EXTINF:-1 tvg-id="IPTV好吃厨房" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/iptv2.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",IPTV好吃厨房 HD
 http://124.232.231.246:6610/000000001001/201500000085/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",快乐垂钓 HD
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/klcd.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",快乐垂钓 HD
 http://124.232.231.246:6610/000000001001/201500000245/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="快乐购" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",快乐购 HD
+#EXTINF:-1 tvg-id="快乐购" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/klg.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信IPTV",快乐购 HD
 http://124.232.231.246:6610/000000001001/201500000243/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/phzw.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="湖南电信IPTV",凤凰中文测试 HD
 http://124.232.231.246:6610/000000001001/201500000230/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
