@@ -315,13 +315,13 @@ http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
 http://liveplay-kk.rtxapp.com/live/program/live/hljwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/shanghaiwaiyu.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="上海百事通",上海ICS外语 HD
 http://liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1986" tvg-name="上海东方影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/shangshidianshiju.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="上海百事通",上海东方影视 HD
+#EXTINF:-1 tvg-id="1986" tvg-name="上海东方影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dfys.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="上海百事通",上海东方影视 HD
 http://liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/wxty.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="上海百事通",上海五星体育 HD
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/wxty.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="上海百事通",上海五星体育 HD
 http://liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/diyicaijing.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="上海百事通",上海第一财经 HD
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dycj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="上海百事通",上海第一财经 HD
 http://liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/shangshixinwen.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="上海百事通",上海新闻综合 HD
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dfxw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="上海百事通",上海新闻综合 HD
 http://liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jishi.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="上海百事通",上海纪实人文 HD
 http://liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
@@ -337,7 +337,7 @@ http://liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
 http://liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jbty.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="上海百事通",劲爆体育 HD
 http://liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/mlzq.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="上海百事通",魅力足球 HD
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/mlzq.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="上海百事通",魅力足球 HD
 http://liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hxjc.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="上海百事通",欢笑剧场 HD
 http://liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8
