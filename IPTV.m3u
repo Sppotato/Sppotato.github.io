@@ -522,13 +522,13 @@ http://39.135.34.134:8080/000000001000/1000000002000011619/1.m3u8?i
 http://39.135.34.134:8080/000000001000/1000000002000025964/1.m3u8?i
 
 
-#EXTINF:-1 tvg-id="" tvg-name="厦视综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xiamen1.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="福建移动IPTV",厦视综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="厦视综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xiamen1.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="福建移动",厦视综合 HD
 http://112.50.243.8/PLTV/88888888/224/3221226814/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="厦门海峡" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xiamen2.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="福建移动IPTV",厦门海峡 HD
+#EXTINF:-1 tvg-id="" tvg-name="厦门海峡" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xiamen2.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="福建移动",厦门海峡 HD
 http://112.50.243.8/PLTV/88888888/224/3221226777/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="厦门生活" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xiamen3.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="福建移动IPTV",厦门生活 HD
+#EXTINF:-1 tvg-id="" tvg-name="厦门生活" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xiamen3.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="福建移动",厦门生活 HD
 http://112.50.243.8/PLTV/88888888/224/3221226760/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="厦门影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xiamen4.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="福建移动IPTV",厦门影视 HD
+#EXTINF:-1 tvg-id="" tvg-name="厦门影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xiamen4.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="福建移动",厦门影视 HD
 http://112.50.243.8/PLTV/88888888/224/3221226764/3.m3u8
 
 
