@@ -354,27 +354,27 @@ http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/20002
 http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294203.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="浙江公共新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zhejiang.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江公共新闻 HD
-http://yf.m.l.cztv.com/channels/lantian/channel07/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zhejiang.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江国际 HD
-http://yf.m.l.cztv.com/channels/lantian/channel10/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江少儿" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zhejiang.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江少儿 HD
-http://yf.m.l.cztv.com/channels/lantian/channel08/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江影视娱乐" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zhejiang.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江影视娱乐 HD
-http://yf.m.l.cztv.com/channels/lantian/channel05/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江教育科技" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zhejiang.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江教育科技 HD
-http://yf.m.l.cztv.com/channels/lantian/channel04/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江数码时代" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zhejiang.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江数码时代 HD
-http://yf.m.l.cztv.com/channels/lantian/channel12/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江民生休闲" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zhejiang.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江民生休闲 HD
-http://yf.m.l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江留学世界" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zhejiang.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江留学世界 HD
-http://yf.m.l.cztv.com/channels/lantian/channel09/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江经济生活" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zhejiang.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江经济生活 HD
-http://yf.m.l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江钱江" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zhejiang.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江钱江 HD
-http://yf.m.l.cztv.com/channels/lantian/channel02/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江指南" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zhejiang.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江电视指南 HD
+#EXTINF:-1 tvg-id="" tvg-name="浙江公共新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjgg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江公共新闻 HD
+http://ali.m.l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjgj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江国际 HD
+http://ali.m.l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江少儿" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjse.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江少儿 HD
+http://ali.m.l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江影视娱乐" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjys.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江影视娱乐 HD
+http://ali.m.l.cztv.com/channels/lantian/channel005/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江教育科技" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjjy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江教育科技 HD
+http://ali.m.l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江数码时代" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjsm.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江数码时代 HD
+http://ali.m.l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江民生休闲" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjms.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江民生休闲 HD
+http://ali.m.l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江留学世界" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjlx.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江留学世界 HD
+http://ali.m.l.cztv.com/channels/lantian/channel009/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江经济生活" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjjj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江经济生活 HD
+http://ali.m.l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江钱江" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjqj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江钱江 HD
+http://ali.m.l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江指南" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjzn.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="浙江移动",浙江电视指南 HD
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229434/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv4k.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="浙江移动",CCTV-4K超高清
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
