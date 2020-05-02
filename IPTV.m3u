@@ -121,19 +121,19 @@ http://39.135.140.14:6610/PLTV/88888888/224/3221225665/2/index.m3u8?fmt=ts2hls
 http://39.135.140.14:6610/PLTV/88888888/224/3221225721/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷少儿" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/kkkt.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",卡酷少儿
 http://39.135.140.14:6610/PLTV/88888888/224/3221225677/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="NewTV超级电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/newtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",NewTV超级电影 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV超级电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cjdy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",NewTV超级电影 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225766/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="NewTV超级电视剧" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/newtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",NewTV超级电视剧 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV超级电视剧" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cjdsj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",NewTV超级电视剧 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225765/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="NewTV超级体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/newtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",NewTV超级体育 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV超级体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cjty.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",NewTV超级体育 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225767/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="NewTV超级综艺" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/newtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",NewTV超级综艺 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV超级综艺" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cjzy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",NewTV超级综艺 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225768/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="NewTV金牌综艺" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/newtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",NewTV金牌综艺 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV金牌综艺" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jpzy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",NewTV金牌综艺 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225711/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="NewTV精品大剧" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/newtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",NewTV精品大剧 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV精品大剧" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jpdj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",NewTV精品大剧 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225714/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="NewTV潮妈辣婆" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/newtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",NewTV潮妈辣婆 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV潮妈辣婆" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cmlp.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",NewTV潮妈辣婆 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225708/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="NewTV农业致富" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nyzf.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",NewTV农业致富 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225670/2/index.m3u8?fmt=ts2hls
