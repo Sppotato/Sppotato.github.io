@@ -111,7 +111,7 @@ http://39.135.140.14:6610/PLTV/88888888/224/3221225723/2/index.m3u8?fmt=ts2hls
 http://39.135.140.14:6610/PLTV/88888888/224/3221225665/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jykt.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",金鹰卡通
 http://39.135.140.14:6610/PLTV/88888888/224/3221225721/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷少儿" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/kkkt.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",卡酷少儿
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷少儿" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/kkkt.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",卡酷少儿
 http://39.135.140.14:6610/PLTV/88888888/224/3221225677/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="NewTV超级电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/newtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",NewTV超级电影 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225766/2/index.m3u8?fmt=ts2hls
@@ -401,17 +401,17 @@ http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123002
 #EXTINF:-1 tvg-id="" tvg-name="iHot爱院线" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="浙江移动",iHot爱院线 HD
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/01.m3u8?fmt=ts2hls
 
-#EXTINF:-1 tvg-id="" tvg-name="云南都市" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynds.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="云南移动",云南都市 HD
+#EXTINF:-1 tvg-id="" tvg-name="云南都市" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynds.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="云南移动",云南都市 HD
 http://39.130.206.213:6410/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="云南娱乐" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynyl.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="云南移动",云南娱乐 HD
+#EXTINF:-1 tvg-id="" tvg-name="云南娱乐" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynyl.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="云南移动",云南娱乐 HD
 http://39.130.206.213:6410/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="云南生活资讯" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynsh.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="云南移动",云南生活资讯 HD
+#EXTINF:-1 tvg-id="" tvg-name="云南生活资讯" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynsh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="云南移动",云南生活资讯 HD
 http://39.130.206.213:6410/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="云南影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynys.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="云南移动",云南影视 HD
+#EXTINF:-1 tvg-id="" tvg-name="云南影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynys.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="云南移动",云南影视 HD
 http://39.130.206.213:6410/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="云南公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/yngg.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="云南移动",云南公共 HD
+#EXTINF:-1 tvg-id="" tvg-name="云南公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/yngg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="云南移动",云南公共 HD
 http://39.130.206.213:6410/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="云南少儿" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynse.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="云南移动",云南少儿 HD
+#EXTINF:-1 tvg-id="" tvg-name="云南少儿" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynse.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="云南移动",云南少儿 HD
 http://39.130.206.213:6410/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8
 #EXTINF:-1 tvg-id="孟连电视台" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="云南移动",孟连电视台 HD
 http://39.130.206.213:6410/gitv_live/G_MENGLIAN/G_MENGLIAN.m3u8
