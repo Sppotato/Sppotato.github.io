@@ -89,13 +89,13 @@ http://39.135.140.14:6610/PLTV/88888888/224/3221225595/2/index.m3u8?fmt=ts2hls
 http://39.135.140.14:6610/PLTV/88888888/224/3221225676/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="江西新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxtv7.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",江西新闻 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225615/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="九江新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jjxw.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",九江新闻综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="九江新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jjxw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",九江新闻综合 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225774/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="九江公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jjgg.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",九江公共 HD
+#EXTINF:-1 tvg-id="" tvg-name="九江公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jjgg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",九江公共 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225775/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="吉安吉州" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jztv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",吉安吉州 HD
+#EXTINF:-1 tvg-id="" tvg-name="吉安吉州" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jztv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",吉安吉州 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225679/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="纯享4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/4kuhd.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",纯享4K
+#EXTINF:-1 tvg-id="" tvg-name="纯享4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cx4k.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",纯享4K
 http://39.135.140.14:6610/PLTV/88888888/224/3221225786/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jltv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",吉林卫视
 http://39.135.140.14:6610/PLTV/88888888/224/3221225680/2/index.m3u8?fmt=ts2hls
@@ -127,15 +127,15 @@ http://39.135.140.14:6610/PLTV/88888888/224/3221225665/2/index.m3u8?fmt=ts2hls
 http://39.135.140.14:6610/PLTV/88888888/224/3221225721/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷少儿" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/kkkt.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",卡酷少儿
 http://39.135.140.14:6610/PLTV/88888888/224/3221225677/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="江西都市" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/kkkt.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西都市",江西都市
+#EXTINF:-1 tvg-id="" tvg-name="江西都市" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxds.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",江西都市
 http://39.135.140.14:6610/PLTV/88888888/224/3221225584/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="江西经济生活" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/kkkt.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西都市",江西经济生活
+#EXTINF:-1 tvg-id="" tvg-name="江西经济生活" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxsh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",江西经济生活
 http://39.135.140.14:6610/PLTV/88888888/224/3221225580/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="江西影视旅游" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/kkkt.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西都市",江西影视旅游
+#EXTINF:-1 tvg-id="" tvg-name="江西影视旅游" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxys.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",江西影视旅游
 http://39.135.140.14:6610/PLTV/88888888/224/3221225579/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="江西公共农业" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/kkkt.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西都市",江西公共农业
+#EXTINF:-1 tvg-id="" tvg-name="江西公共农业" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxgg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",江西公共农业
 http://39.135.140.14:6610/PLTV/88888888/224/3221225578/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="江西少儿" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/kkkt.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西都市",江西少儿
+#EXTINF:-1 tvg-id="" tvg-name="江西少儿" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxse.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",江西少儿
 http://39.135.140.14:6610/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="NewTV超级电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cjdy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="江西移动",NewTV超级电影 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225766/2/index.m3u8?fmt=ts2hls
@@ -252,11 +252,11 @@ http://124.232.231.246:6610/000000001001/201500000242/index.m3u8?&version=v1.0&I
 http://124.232.231.246:6610/000000001001/201500000241/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hnjs.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信",湖南经视 HD
 http://124.232.231.246:6610/000000001001/201500000234/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="长沙新闻" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/csxw.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信",长沙新闻 HD
+#EXTINF:-1 tvg-id="长沙新闻" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/csxw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信",长沙新闻 HD
 http://124.232.231.246:6610/000000001001/201500000232/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="长沙政法" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cszf.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信",长沙政法 HD
+#EXTINF:-1 tvg-id="长沙政法" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cszf.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信",长沙政法 HD
 http://124.232.231.246:6610/000000001001/201500000229/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="浏阳新闻" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/lyxw.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信",浏阳新闻 HD
+#EXTINF:-1 tvg-id="浏阳新闻" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/lyxw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信",浏阳新闻 HD
 http://124.232.231.246:6610/000000001001/201500000334/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 tvg-id="狗狗TV" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dogtv.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信",狗狗TV HD
 http://124.232.231.246:6610/000000001001/201500000333/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
@@ -268,13 +268,13 @@ http://124.232.231.246:6610/000000001001/201500000306/index.m3u8?&version=v1.0&I
 http://124.232.231.246:6610/000000001001/201500000085/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/klcd.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信",快乐垂钓 HD
 http://124.232.231.246:6610/000000001001/201500000245/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="快乐购" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/klg.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信",快乐购 HD
+#EXTINF:-1 tvg-id="快乐购" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/klg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="湖南电信",快乐购 HD
 http://124.232.231.246:6610/000000001001/201500000243/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/phzw.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="湖南电信",凤凰中文测试 HD
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fhzw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="湖南电信",凤凰中文测试 HD
 http://124.232.231.246:6610/000000001001/201500000230/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/phzx.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="湖南电信",凤凰资讯测试 HD
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fhzx.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="湖南电信",凤凰资讯测试 HD
 http://124.232.231.246:6610/000000001001/201500000231/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="" tvg-name="湖南IPTV4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/4kuhd.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="湖南电信",湖南IPTV 4K
+#EXTINF:-1 tvg-id="" tvg-name="湖南IPTV4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hn4k.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="湖南电信",湖南IPTV 4K
 http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dszn.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="湖南电信",CCTV-电视指南
 http://124.232.231.246:6610/000000001001/201500000312/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
