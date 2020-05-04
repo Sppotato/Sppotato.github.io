@@ -519,6 +519,8 @@ http://jsylivealone302.iqilu.com/live/jiyang_tv02.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gdty.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",广东体育 HD
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="峨眉电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/emdy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",峨眉电影 HD
+http://scgctvshow.sctv.com/hdlive/emei/index.m3u8
 
 
 
@@ -603,3 +605,7 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Weather News" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/wni.png" tvg-country="CN" tvg-url="" group-title="国际高清",日本气象新闻 HD
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/djjl.png" tvg-country="CN" tvg-url="" group-title="国际高清",BBC独家纪录 HD
+http://live.hcs.cmvideo.cn/wd_r3/virtuallive/5101074616/150/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/tszb.png" tvg-country="CN" tvg-url="" group-title="国际高清",Discovery展播 HD
+http://live.hcs.cmvideo.cn/wd_r2/virtuallive/5101098146/150/index.m3u8?&encrypt=
