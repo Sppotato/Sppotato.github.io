@@ -534,10 +534,10 @@ http://qlive.fengshows.cn/PHK.flv
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="亚旅卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/yltv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",亚旅卫视 HD
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOW新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nownew.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",NOW新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="NOW新闻台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nownew.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",NOW新闻 HD
 https://3graurmt3gyzdnc3ufa3uo.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/2ce0000ffe35c2ef1be0a4c7a683fcd7.flv
-#EXTINF:-1 tvg-id="" tvg-name="有线新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/yxxw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",有线新闻 HD
-http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/yxxw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",有线新闻 HD
+https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/a3bdbe7063c097a63cf0ebe3095f7919.flv
 #EXTINF:-1 tvg-id="7179" tvg-name="CNEX" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cnex.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",CNEX纪录片 HD
 http://61.58.60.230:9319/live/257.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sxzh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",CYC世新綜合台 HD
@@ -572,7 +572,10 @@ http://61.58.60.230:9319/live/207.m3u8
 http://61.58.60.230:9319/live/244.m3u8
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sony.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",SONY HD
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="" tvg-name="SONYMAX" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonymax.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",SONY MAX HD
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="" tvg-name="亚洲新闻台" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/cna.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",亚洲新闻台 HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Manoto HD" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/ylyl.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",伊朗娱乐台 HD
