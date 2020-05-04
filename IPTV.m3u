@@ -415,6 +415,8 @@ http://39.130.206.213:6410/gitv_live/G_DIQING-1/G_DIQING-1.m3u8
 http://39.130.206.213:6410/gitv_live/G_DIQINGZY/G_DIQINGZY.m3u8
 #EXTINF:-1 tvg-id="隆阳电视台" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",隆阳电视台 HD
 http://39.130.206.213:6410/gitv_live/G_LONGYANG/G_LONGYANG.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="宁德公共" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",宁德公共 HD
+http://112.50.243.8/PLTV/88888888/224/3221226635/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="厦视综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xmzh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",厦视综合 HD
 http://112.50.243.8/PLTV/88888888/224/3221226814/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="厦门海峡" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xmhx.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",厦门海峡 HD
@@ -423,8 +425,6 @@ http://112.50.243.8/PLTV/88888888/224/3221226777/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226760/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="厦门影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xmys.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",厦门影视 HD
 http://112.50.243.8/PLTV/88888888/224/3221226764/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="宁德公共" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",宁德公共 HD
-http://112.50.243.8/PLTV/88888888/224/3221226635/1.m3u8
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bjwy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",北京文艺 HD
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bjxw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",北京新闻 HD
