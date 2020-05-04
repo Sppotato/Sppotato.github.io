@@ -328,9 +328,9 @@ http://39.135.140.14:6610/PLTV/88888888/224/3221225718/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="黑莓电竞" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hmdj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",黑莓电竞 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225653/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bestv1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",百事通学而思 HD
-http://liveplay-kk.rtxapp.com/live/program/live/hdnba1/4000000/mnf.m3u8
+http://183.207.255.190/live/program/live/hdnba1/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bestv2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",百事通体育 HD
-http://liveplay-kk.rtxapp.com/live/program/live/hdnba5/4000000/mnf.m3u8
+http://183.207.255.190/live/program/live/hdnba5/4000000/mnf.m3u8
 
 
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ics.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",上海ICS外语 HD
