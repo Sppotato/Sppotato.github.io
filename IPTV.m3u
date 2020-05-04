@@ -45,7 +45,7 @@ http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/20002
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv17.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-17农村农业 HD
 http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204203.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-4K HD
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E9BAD83U319D304BKB3864A42IB23760DFP8M3067712V0Z334B7W1607154A68B761EE&playtoken=ABCDEFGH&programid=4200000083.m3u8
+http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cgtn.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CGTN-环球国际 HD
 http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2001656803.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTND" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cgtnd.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="卫视高清",CGTN-纪录 HD
@@ -94,6 +94,8 @@ http://39.135.140.14:6610/PLTV/88888888/224/3221225696/2/index.m3u8?fmt=ts2hls
 http://39.135.140.14:6610/PLTV/88888888/224/3221225692/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gxtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",广西卫视 HD
 http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294203.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jltv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",吉林卫视 HD
+http://stream4.jlntv.cn/test2/sd/live.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cetv1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",中国教育一台 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225917/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/yntv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="卫视高清",云南卫视 HD
@@ -155,10 +157,6 @@ http://125.210.152.18:9090/live/JTYYHD.m3u8
 
 
 
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jltv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",吉林卫视
-http://124.232.231.246:6610/000000001001/201500000100/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gxtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",广西卫视
-http://39.135.140.14:6610/PLTV/88888888/224/3221225551/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/lytv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",海南卫视
 http://124.232.231.246:6610/000000001001/201500000050/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 tvg-id="" tvg-name="南方卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nftv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",南方卫视
@@ -465,6 +463,42 @@ http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 http://stream.pznews.com/pztv1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="邳州综合" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",邳州综合 HD
 http://stream.pznews.com/pztv2/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="单县综合" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",单县综合 HD
+http://jsylivealone302.iqilu.com/live/shanxian_tv01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东阿一台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",东阿一台 HD
+http://jsylivealone302.iqilu.com/live/donge_tv01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东阿二台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",东阿二台 HD
+http://jsylivealone302.iqilu.com/live/donge_tv02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="平原新闻" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",平原新闻 HD
+http://livealone302.iqilu.com/pingyuan/pingyuan_tv01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="武城新闻综合" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",武城新闻综合 HD
+http://jsylivealone302.iqilu.com/live/wucheng_tv01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="武城综艺影视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",武城综艺影视 HD
+http://jsylivealone302.iqilu.com/live/wucheng_tv02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河东影视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",河东影视 HD
+http://jsylivealone302.iqilu.com/live/hedong_tv01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河东综合" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",河东综合 HD
+http://jsylivealone302.iqilu.com/live/hedong_tv02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="文登一台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",文登一台 HD
+http://jsylivealone302.iqilu.com/live/wendeng_tv01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="文登二台" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",文登二台 HD
+http://jsylivealone302.iqilu.com/live/wendeng_tv02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="鱼台生活" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",鱼台生活 HD
+http://jsylivealone302.iqilu.com/live/yutai_tv01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="鱼台新闻" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",鱼台新闻 HD
+http://jsylivealone302.iqilu.com/live/yutai_tv02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="邹城新闻综合" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",邹城新闻综合 HD
+http://jsylivealone302.iqilu.com/live/zoucheng_tv01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="邹城文化生活" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",邹城文化生活 HD
+http://jsylivealone302.iqilu.com/live/zoucheng_tv02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="昌乐新闻综合" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",昌乐新闻综合 HD
+http://livealone302.iqilu.com/changle/changle_tv01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安丘新闻" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",安丘新闻 HD
+http://jsylivealone302.iqilu.com/live/anqiu_tv01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安丘民生" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",安丘民生 HD
+http://jsylivealone302.iqilu.com/live/anqiu_tv02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="济阳影视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",济阳影视 HD
+http://jsylivealone302.iqilu.com/live/jiyang_tv02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gdty.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="地方高清",广东体育 HD
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
