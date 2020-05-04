@@ -163,8 +163,8 @@ http://125.210.152.18:9090/live/DZDYHD.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/chc3.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CHC家庭影院
 http://125.210.152.18:9090/live/JTYYHD.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/kbtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",康巴卫视
+http://stream.kangbatv.com/test/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="南方卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nftv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",南方卫视
 http://124.232.231.246:6610/000000001001/201500000106/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nmgtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",内蒙古卫视
@@ -252,7 +252,7 @@ http://183.207.255.190/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dmxc.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",动漫秀场 HD
 http://183.207.255.190/live/program/live/dmxchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/yxfy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",游戏风云 HD
-http://183.207.255.190/live/program/live/yxfyhd/4000000/mnf.m3u8
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229320/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jbty.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",劲爆体育 HD
 http://183.207.255.190/live/program/live/jbtyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/mlzq.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",魅力足球 HD
@@ -266,7 +266,7 @@ http://183.207.255.190/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qjs.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",全纪实 HD
 http://183.207.255.190/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="6610" tvg-name="都市剧场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dsjc.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",都市剧场 HD
-http://183.207.255.190/live/program/live/dsjchd/4000000/mnf.m3u8
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xfc.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",幸福彩 HD
 http://183.207.255.190/live/program/live/xfchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qsdw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",求索动物 HD
