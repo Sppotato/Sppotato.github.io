@@ -7,8 +7,8 @@ http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?&version=v1.0&I
 http://39.135.140.14:6610/PLTV/88888888/224/3221225786/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="百视通4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bestv4k.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="4K专区",百视通4K
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Dox4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dox4k.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="4K专区",Dox4K
+http://39.135.16.160:6610/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-1综合 HD
 http://124.232.231.246:6610/000000001001/201500000063/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
