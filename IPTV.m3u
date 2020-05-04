@@ -603,5 +603,3 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Weather News" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/wni.png" tvg-country="CN" tvg-url="" group-title="国际高清",日本气象新闻 HD
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX体育新闻" tvg-language="Japanese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国际高清",FOX新闻 HD
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
