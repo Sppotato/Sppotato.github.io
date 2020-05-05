@@ -501,7 +501,18 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="峨嵋电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/emdy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",峨嵋电影 HD
 http://scgctvshow.sctv.com/hdlive/emei/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="SCTV2" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sctv2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",四川文化旅游 HD
+http://scgctvshow.sctv.com/hdlive/sctv2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCTV3" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sctv3.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",四川经济 HD
+http://scgctvshow.sctv.com/hdlive/sctv3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCTV4" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sctv4.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",四川新闻 HD
+http://scgctvshow.sctv.com/hdlive/sctv4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCTV5" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sctv5.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",四川影视文艺 HD
+http://scgctvshow.sctv.com/hdlive/sctv5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCTV7" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sctv7.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",四川妇女儿童 HD
+http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCTV9" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sctv9.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",四川公共农村 HD
+http://scgctvshow.sctv.com/hdlive/sctv9/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fhzw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",凤凰中文 HD
