@@ -48,6 +48,8 @@ http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/20002
 http://124.232.231.246:6610/000000001001/201500000134/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv15.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-15音乐 HD
 http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="cctv16" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv16.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="卫视高清",CCTV-16奥林匹克 HD
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv17.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-17农村农业 HD
 http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-4K HD
@@ -167,6 +169,8 @@ http://125.210.152.18:9090/live/JTYYHD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/kbtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",康巴卫视
 http://stream.kangbatv.com/test/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新华中文" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xhzw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",新华中文
+http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="南方卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nftv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",南方卫视
 http://124.232.231.246:6610/000000001001/201500000106/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nmgtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",内蒙古卫视
