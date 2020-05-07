@@ -569,8 +569,6 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTB Sukmaindera" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/wenlai.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",文莱电视 HD
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTB Sukmaindera" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/wenlai.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",文莱电视 HD
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="U频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xjpu.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",新加坡U频道 HD
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="8频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xjp8.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",新加坡8频道 HD
