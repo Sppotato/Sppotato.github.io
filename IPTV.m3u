@@ -46,8 +46,6 @@ http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/20002
 http://124.232.231.246:6610/000000001001/201500000134/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv15.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-15音乐 HD
 http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="cctv16" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv16.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.g" group-title="卫视高清",CCTV-16奥林匹克 HD
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv17.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-17农村农业 HD
 http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-4K HD
@@ -539,7 +537,7 @@ https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdn
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/skysport.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",SKY SPORT HD
 http://42.98.239.149:9981/stream/channelid/472177379
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/mtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",MTV LIVE HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/mtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",MTV LIVE HD
 http://42.98.239.149:9981/stream/channelid/1982312944
 #EXTINF:-1 tvg-id="" tvg-name="亚洲新闻台" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/cna.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",亚洲新闻台 HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -549,8 +547,11 @@ https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/mbc4.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",阿拉伯四台 HD
 https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Masr" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/ajtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",阿拉伯四台 HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Masr" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/ajtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",埃及电视台 HD
 https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/olympic.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",奥林匹克 HD
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Arte HD" tvg-language="Korea" tvg-logo="https://sppotato.github.io/icon/arte.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",韩国Arte HD
 http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
@@ -574,13 +575,17 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="8频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xjp8.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",新加坡8频道 HD
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="5频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xjp5.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",新加坡5频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="5频道" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/xjp5.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",新加坡5频道 HD
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="S频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xjps.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",新加坡S频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="S频道" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/xjps.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",新加坡S频道 HD
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/Vasantham.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",新加坡v频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/Vasantham.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",新加坡v频道 HD
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="朝鲜中央台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/kctv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",韩国中央台 HD
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports News" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/foxsportnew.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",福斯体育新闻 HD
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Australia Channel" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/adlynew.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",澳大利亚新闻 HD
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="朝鲜中央台" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/kctv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",韩国中央台 HD
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-language="Korea" tvg-logo="https://sppotato.github.io/icon/cgntv2.png" tvg-country="CN" tvg-url="" group-title="国际高清",CGNTV-韩国 HD
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
