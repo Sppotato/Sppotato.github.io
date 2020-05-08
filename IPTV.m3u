@@ -55,9 +55,9 @@ http://39.134.134.134:8080/119.28.164.85/outlivecloud-cdn.ysp.cctv.cn/cctv/20016
 #EXTINF:-1 tvg-id="" tvg-name="CGTNDocumentary" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cgtnd.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CGTN-纪录 HD
 http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hntv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",湖南卫视 HD+
-http://124.232.231.246:6610/000000001001/201500000219/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
+http://124.232.231.246:6610/000000001001/201500000219/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hntv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",湖南卫视 HD
-http://124.232.231.246:6610/000000001001/201500000233/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
+http://124.232.231.246:6610/000000001001/201500000067/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jstv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",江苏卫视 HD
 http://124.232.231.246:6610/000000001001/201500000070/index.m3u8?&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dftv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",东方卫视 HD
@@ -84,6 +84,7 @@ http://112.50.243.8/PLTV/88888888/224/3221226942/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221227022/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dntv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",东南卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221226877/1.m3u8
+http://124.232.231.246:6610/000000001001/201500000336/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sctv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",四川卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221227006/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hbws.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",河北卫视 HD
