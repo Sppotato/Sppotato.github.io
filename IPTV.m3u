@@ -118,12 +118,24 @@ http://39.135.140.14:6610/PLTV/88888888/224/3221225595/2/index.m3u8?fmt=ts2hls
 http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京纪实" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bjjs.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",北京冬奥纪实 HD
 http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="珠江频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gdzj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",广东珠江 HD
+http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gdty.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",广东体育 HD
+http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gzzh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",广州综合 HD
+http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gzxw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",广州新闻 HD
+http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=9&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广州影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gzys.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",广州影视 HD
+http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=11&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/chc1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/chc2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CHC动作电影
 http://125.210.152.18:9090/live/DZDYHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/chc3.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CHC家庭影院
 http://125.210.152.18:9090/live/JTYYHD.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/kbtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",康巴卫视
 http://stream.kangbatv.com/test/playlist.m3u8
@@ -136,7 +148,7 @@ http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=39&FvSeid=1&Fsv_ctype=L
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nmgtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",内蒙古卫视
 http://39.135.140.14:6610/PLTV/88888888/224/3221225667/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sdjy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",山东教育
-http://39.135.140.14:6610/PLTV/88888888/224/3221225719/2/index.m3u8?fmt=ts2hls
+http://112.50.243.8/PLTV/88888888/224/3221225873/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sxws.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",山西卫视
 http://39.135.140.14:6610/PLTV/88888888/224/3221225730/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gstv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",甘肃卫视
@@ -156,9 +168,9 @@ http://39.135.140.14:6610/PLTV/88888888/224/3221225534/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jykt.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",金鹰卡通
 http://39.135.140.14:6610/PLTV/88888888/224/3221225721/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ymkt.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",优漫卡通
-http://39.135.140.14:6610/PLTV/88888888/224/3221225665/2/index.m3u8?fmt=ts2hls
+http://112.50.243.8/PLTV/88888888/224/3221225874/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="卡酷动画" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/kkkt.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",卡酷少儿
-http://39.135.140.14:6610/PLTV/88888888/224/3221225677/2/index.m3u8?fmt=ts2hls
+http://112.50.243.8/PLTV/88888888/224/3221225871/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dszn.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",CCTV-电视指南
 http://39.135.140.14:6610/PLTV/88888888/224/3221225522/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="兵器科技" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bqkj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",CCTV-兵器科技
@@ -265,13 +277,13 @@ http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-id="" tvg-name="iHot爱电竞" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot9.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",iHot爱电竞 HD
 http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="NewTV超级电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cjdy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV超级电影 HD
-http://39.135.140.14:6610/PLTV/88888888/224/3221225766/2/index.m3u8?fmt=ts2hls
+http://112.50.243.8/PLTV/88888888/224/3221225926/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV超级电视剧" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cjdsj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV超级电视剧 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225765/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="NewTV超级体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cjty.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV超级体育 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225767/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="NewTV超级综艺" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cjzy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV超级综艺 HD
-http://39.135.140.14:6610/PLTV/88888888/224/3221225768/2/index.m3u8?fmt=ts2hls
+http://112.50.243.8/PLTV/88888888/224/3221225924/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV金牌综艺" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jpzy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV金牌综艺 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225711/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="NewTV精品大剧" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jpdj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV精品大剧 HD
@@ -442,8 +454,10 @@ http://jsylivealone302.iqilu.com/live/anqiu_tv02.m3u8
 http://jsylivealone302.iqilu.com/live/jiyang_tv02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨新闻综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/haxw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",哈尔滨新闻综合 HD
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gdty.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",广东体育 HD
-http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="达州新闻综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dzzh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",达州新闻综合 HD
+http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="达州公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dzgg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",达州公共 HD
+http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel36/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fhzw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",凤凰中文 HD
