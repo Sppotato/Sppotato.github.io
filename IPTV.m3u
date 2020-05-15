@@ -342,7 +342,22 @@ http://39.135.16.150:6610/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
 http://39.135.16.150:6610/PLTV/88888888/224/3221226045/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="Dox雅趣" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/doxyq.png" tvg-country="CN" tvg-url="" group-title="数字高清",Dox雅趣 HD
 http://39.135.16.150:6610/PLTV/88888888/224/3221226042/1/index.m3u8?fmt=ts2hls
-
+#EXTINF:-1 tvg-id="" tvg-name="G+TV2" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gtv2.png" tvg-country="CN" tvg-url="" group-title="数字高清",G+都市剧场 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221225783/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="G+TV3" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gtv3.png" tvg-country="CN" tvg-url="" group-title="数字高清",G+谍战剧场 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="G+TV4" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gtv4.png" tvg-country="CN" tvg-url="" group-title="数字高清",G+经典剧场 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="G+TV6" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gtv6.png" tvg-country="CN" tvg-url="" group-title="数字高清",G+动画乐园 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221225785/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="G+TV7" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gtv7.png" tvg-country="CN" tvg-url="" group-title="数字高清",G+热门综艺 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221226004/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="G+TV8" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gtv8.png" tvg-country="CN" tvg-url="" group-title="数字高清",G+科普中国 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221226036/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="G+TV10" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gtv10.png" tvg-country="CN" tvg-url="" group-title="数字高清",G+海外佳片 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="G+TV11" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gtv11.png" tvg-country="CN" tvg-url="" group-title="数字高清",G+华语影院 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
 
 
 #EXTINF:-1 tvg-id="" tvg-name="上视外语频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ics.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",上海ICS外语 HD
