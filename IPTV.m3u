@@ -496,6 +496,20 @@ http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/pla
 http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel36/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="贵阳一台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gytv1.png" tvg-country="CN" tvg-url="" group-title="地方高清",贵阳一台 HD
 http://39.135.16.150:6610/PLTV/88888888/224/3221225743/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="黔西新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qxtv1.png" tvg-country="CN" tvg-url="" group-title="地方高清",黔西新闻 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221225693/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="安顺公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/astv2.png" tvg-country="CN" tvg-url="" group-title="地方高清",安顺公共 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221226034/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="安顺新闻综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/astv1.png" tvg-country="CN" tvg-url="" group-title="地方高清",安顺新闻综合 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221226054/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="毕节一台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bjtv1.png" tvg-country="CN" tvg-url="" group-title="地方高清",毕节一台 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221226002/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="毕节二台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bjtv2.png" tvg-country="CN" tvg-url="" group-title="地方高清",毕节二台 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221226021/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="雷山综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/lszh.png" tvg-country="CN" tvg-url="" group-title="地方高清",雷山综合 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221225998/1/index.m3u8?fmt=ts2hls
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fhzw.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",凤凰中文 HD
 http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
