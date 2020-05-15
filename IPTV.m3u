@@ -1,326 +1,326 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="4K专区",CCTV-4K超高清
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" tvg-country="CN" tvg-url="" group-title="4K专区",CCTV-4K超高清
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="纯享4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cx4k.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="4K专区",纯享4K
+#EXTINF:-1 tvg-id="" tvg-name="纯享4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cx4k.png" tvg-country="CN" tvg-url="" group-title="4K专区",纯享4K
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="百视通4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bestv4k.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="4K专区",百视通4K
+#EXTINF:-1 tvg-id="" tvg-name="百视通4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bestv4k.png" tvg-country="CN" tvg-url="" group-title="4K专区",百视通4K
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="DOX4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dox4k.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="4K专区",DOX4K
+#EXTINF:-1 tvg-id="" tvg-name="DOX4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dox4k.png" tvg-country="CN" tvg-url="" group-title="4K专区",DOX4K
 http://39.135.16.150:6610/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="爱上4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/love4k.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="4K专区",爱上4K
+#EXTINF:-1 tvg-id="" tvg-name="爱上4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/love4k.png" tvg-country="CN" tvg-url="" group-title="4K专区",爱上4K
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=092&Provider_id=&Pcontent_id=index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-1综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv1.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-1综合 HD
 http://112.50.243.8/PLTV/88888888/224/3221226908/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-2财经 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv2.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-2财经 HD
 http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv3.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-3综艺 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv3.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-3综艺 HD
 http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv4.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-4中文国际 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv4.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-4中文国际 HD
 http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv4.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-4中文国际欧洲 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv4.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-4中文国际欧洲 HD
 http://live.hcs.cmvideo.cn/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv4.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-4中文国际美洲 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv4.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-4中文国际美洲 HD
 http://live.hcs.cmvideo.cn/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv5.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-5体育 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv5.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-5体育 HD
 http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv5p.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-5+体育赛事 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv5p.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-5+体育赛事 HD
 http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv6.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-6电影 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv6.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-6电影 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225632/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv7.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-7军事 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv7.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-7军事 HD
 http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv8.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-8电视剧 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv8.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-8电视剧 HD
 http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv9.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-9纪录 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv9.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-9纪录 HD
 http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv10.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-10科教 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv10.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-10科教 HD
 http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv11.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-11戏曲 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv11.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-11戏曲 HD
 http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv12.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-12社会与法 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv12.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-12社会与法 HD
 http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv13.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-13新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv13.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-13新闻 HD
 http://39.134.134.134:8080/119.28.164.85/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv14.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-14少儿 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv14.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-14少儿 HD
 http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv15.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-15音乐 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv15.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-15音乐 HD
 http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv17.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-17农村农业 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv17.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-17农村农业 HD
 http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CCTV-4K HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-4K HD
 http://39.134.134.134:8080/119.28.164.85/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cgtn.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CGTN-环球国际 HD
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cgtn.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CGTN-环球国际 HD
 http://39.134.134.134:8080/119.28.164.85/outlivecloud-cdn.ysp.cctv.cn/cctv/2001656803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTNDocumentary" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cgtnd.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CGTN-纪录 HD
+#EXTINF:-1 tvg-id="" tvg-name="CGTNDocumentary" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cgtnd.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CGTN-纪录 HD
 http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="中国教育1台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cetv1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",中国教育一台 HD
+#EXTINF:-1 tvg-id="" tvg-name="中国教育1台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cetv1.png" tvg-country="CN" tvg-url="" group-title="卫视高清",中国教育一台 HD
 http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hntv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",湖南卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hntv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",湖南卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225935/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jstv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",江苏卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jstv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",江苏卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221226869/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",浙江卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",浙江卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225934/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dftv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",东方卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dftv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",东方卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225936/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gdtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",广东卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gdtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",广东卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sztv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",深圳卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sztv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",深圳卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225938/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hbtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",湖北卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hbtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",湖北卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225948/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bjtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",北京卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bjtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",北京卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225937/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/tjtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",天津卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/tjtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",天津卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225941/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sdtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",山东卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sdtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",山东卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225943/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hljtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",黑龙江卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hljtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",黑龙江卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225940/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ahtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",安徽卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ahtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",安徽卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225945/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",江西卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",江西卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221227022/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dntv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",东南卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dntv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",东南卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221226877/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sctv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",四川卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sctv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",四川卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221227006/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hbws.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",河北卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hbws.png" tvg-country="CN" tvg-url="" group-title="卫视高清",河北卫视 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225610/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hnws.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",河南卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hnws.png" tvg-country="CN" tvg-url="" group-title="卫视高清",河南卫视 HD
 http://101.71.255.229:6610/zjhs/2/10095/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gztv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",贵州卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gztv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",贵州卫视 HD
 http://101.71.255.229:6610/zjhs/2/10094/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/lntv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",辽宁卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/lntv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",辽宁卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225947/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cqtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",重庆卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cqtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",重庆卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225949/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gxtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",广西卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gxtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",广西卫视 HD
 http://39.134.134.134:8080/119.28.164.85/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jltv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",吉林卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jltv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",吉林卫视 HD
 http://101.71.255.229:6610/zjhs/2/10096/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/yntv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",云南卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/yntv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",云南卫视 HD
 http://39.130.206.213:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xmtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",厦门卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xmtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",厦门卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/lytv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",海南卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/lytv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",海南卫视 HD
 http://39.135.34.134:8080/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=00000250001B50800001B401420BC069
-#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qhtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",青海卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qhtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",青海卫视 HD
 http://live.geermurmt.com/qhws/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xdkt.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",哈哈炫动卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xdkt.png" tvg-country="CN" tvg-url="" group-title="卫视高清",哈哈炫动卫视 HD
 http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jyjs.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",金鹰纪实 HD
+#EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jyjs.png" tvg-country="CN" tvg-url="" group-title="卫视高清",金鹰纪实 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225595/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jishi.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",上海纪实人文 HD
+#EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jishi.png" tvg-country="CN" tvg-url="" group-title="卫视高清",上海纪实人文 HD
 http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京纪实" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bjjs.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",北京冬奥纪实 HD
+#EXTINF:-1 tvg-id="" tvg-name="北京纪实" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bjjs.png" tvg-country="CN" tvg-url="" group-title="卫视高清",北京冬奥纪实 HD
 http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="珠江频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gdzj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",广东珠江 HD
+#EXTINF:-1 tvg-id="" tvg-name="珠江频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gdzj.png" tvg-country="CN" tvg-url="" group-title="卫视高清",广东珠江 HD
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gdty.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",广东体育 HD
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gdty.png" tvg-country="CN" tvg-url="" group-title="卫视高清",广东体育 HD
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gzzh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",广州综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gzzh.png" tvg-country="CN" tvg-url="" group-title="卫视高清",广州综合 HD
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gzxw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",广州新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gzxw.png" tvg-country="CN" tvg-url="" group-title="卫视高清",广州新闻 HD
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=9&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广州影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gzys.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",广州影视 HD
+#EXTINF:-1 tvg-id="" tvg-name="广州影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gzys.png" tvg-country="CN" tvg-url="" group-title="卫视高清",广州影视 HD
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=11&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="咪咕体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/migu.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",咪咕体育 HD
+#EXTINF:-1 tvg-id="" tvg-name="咪咕体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/migu.png" tvg-country="CN" tvg-url="" group-title="卫视高清",咪咕体育 HD
 http://112.50.243.8/PLTV/88888888/224/3221226833/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/chc1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CHC高清电影
+#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/chc1.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CHC高清电影
 http://125.210.152.18:9090/live/CHCGQDY.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/chc2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CHC动作电影
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/chc2.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CHC动作电影
 http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/chc3.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",CHC家庭影院
+#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/chc3.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CHC家庭影院
 http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="新华中文" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xhzw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",新华中文
+#EXTINF:-1 tvg-id="" tvg-name="新华中文" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xhzw.png" tvg-country="CN" tvg-url="" group-title="卫视标清",新华中文
 http://livecdn1.news.cn/cnccn/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="南方卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nftv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",南方卫视
+#EXTINF:-1 tvg-id="" tvg-name="南方卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nftv.png" tvg-country="CN" tvg-url="" group-title="卫视标清",南方卫视
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=19&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="珠江电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjdy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",珠江电影
+#EXTINF:-1 tvg-id="" tvg-name="珠江电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjdy.png" tvg-country="CN" tvg-url="" group-title="卫视标清",珠江电影
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=39&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nmgtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",内蒙古卫视
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nmgtv.png" tvg-country="CN" tvg-url="" group-title="卫视标清",内蒙古卫视
 http://112.50.243.8/PLTV/88888888/224/3221225846/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sdjy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",山东教育
+#EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sdjy.png" tvg-country="CN" tvg-url="" group-title="卫视标清",山东教育
 http://112.50.243.8/PLTV/88888888/224/3221225873/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sxws.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",山西卫视
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sxws.png" tvg-country="CN" tvg-url="" group-title="卫视标清",山西卫视
 http://112.50.243.8/PLTV/88888888/224/3221225839/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gstv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",甘肃卫视
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gstv.png" tvg-country="CN" tvg-url="" group-title="卫视标清",甘肃卫视
 http://112.50.243.8/PLTV/88888888/224/3221225845/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sxtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",陕西卫视
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sxtv.png" tvg-country="CN" tvg-url="" group-title="卫视标清",陕西卫视
 http://112.50.243.8/PLTV/88888888/224/3221225850/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qhtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",青海卫视
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qhtv.png" tvg-country="CN" tvg-url="" group-title="卫视标清",青海卫视
 http://112.50.243.8/PLTV/88888888/224/3221225841/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xztv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",西藏卫视
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xztv.png" tvg-country="CN" tvg-url="" group-title="卫视标清",西藏卫视
 http://101.71.255.229:6610/zjhs/2/10049/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bttv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",兵团卫视
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bttv.png" tvg-country="CN" tvg-url="" group-title="卫视标清",兵团卫视
 http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nxtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",宁夏卫视
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nxtv.png" tvg-country="CN" tvg-url="" group-title="卫视标清",宁夏卫视
 http://112.50.243.8/PLTV/88888888/224/3221225849/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xjtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",新疆卫视
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xjtv.png" tvg-country="CN" tvg-url="" group-title="卫视标清",新疆卫视
 http://112.50.243.8/PLTV/88888888/224/3221225852/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/kbtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",康巴卫视
+#EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/kbtv.png" tvg-country="CN" tvg-url="" group-title="卫视标清",康巴卫视
 http://112.50.243.8/PLTV/88888888/224/3221225856/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jykt.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",金鹰卡通
+#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jykt.png" tvg-country="CN" tvg-url="" group-title="卫视标清",金鹰卡通
 http://112.50.243.8/PLTV/88888888/224/3221225870/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ymkt.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",优漫卡通
+#EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ymkt.png" tvg-country="CN" tvg-url="" group-title="卫视标清",优漫卡通
 http://112.50.243.8/PLTV/88888888/224/3221225874/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="卡酷动画" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/kkkt.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",卡酷少儿
+#EXTINF:-1 tvg-id="" tvg-name="卡酷动画" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/kkkt.png" tvg-country="CN" tvg-url="" group-title="卫视标清",卡酷少儿
 http://112.50.243.8/PLTV/88888888/224/3221225871/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dszn.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",CCTV-电视指南
+#EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dszn.png" tvg-country="CN" tvg-url="" group-title="卫视标清",CCTV-电视指南
 http://39.135.140.14:6610/PLTV/88888888/224/3221225522/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="兵器科技" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bqkj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",CCTV-兵器科技
+#EXTINF:-1 tvg-id="" tvg-name="兵器科技" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bqkj.png" tvg-country="CN" tvg-url="" group-title="卫视标清",CCTV-兵器科技
 http://39.135.140.14:6610/PLTV/88888888/224/3221225518/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="世界地理" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sjdl.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",CCTV-世界地理
+#EXTINF:-1 tvg-id="" tvg-name="世界地理" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sjdl.png" tvg-country="CN" tvg-url="" group-title="卫视标清",CCTV-世界地理
 http://39.135.140.14:6610/PLTV/88888888/224/3221225527/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="中学生" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zxs.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",CCTV-中学生
+#EXTINF:-1 tvg-id="" tvg-name="中学生" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zxs.png" tvg-country="CN" tvg-url="" group-title="卫视标清",CCTV-中学生
 http://39.135.140.14:6610/PLTV/88888888/224/3221225515/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="央广健康" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/wsjk.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",CCTV-卫生健康
+#EXTINF:-1 tvg-id="" tvg-name="央广健康" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/wsjk.png" tvg-country="CN" tvg-url="" group-title="卫视标清",CCTV-卫生健康
 http://39.135.140.14:6610/PLTV/88888888/224/3221225525/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="央视精品" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ysjp.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",CCTV-央视精品
+#EXTINF:-1 tvg-id="" tvg-name="央视精品" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ysjp.png" tvg-country="CN" tvg-url="" group-title="卫视标清",CCTV-央视精品
 http://39.135.140.14:6610/PLTV/88888888/224/3221225520/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="女性时尚" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nxss.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",CCTV-女性时尚
+#EXTINF:-1 tvg-id="" tvg-name="女性时尚" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nxss.png" tvg-country="CN" tvg-url="" group-title="卫视标清",CCTV-女性时尚
 http://39.135.140.14:6610/PLTV/88888888/224/3221225526/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="新科动漫" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xkdm.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",CCTV-新科动漫
+#EXTINF:-1 tvg-id="" tvg-name="新科动漫" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xkdm.png" tvg-country="CN" tvg-url="" group-title="卫视标清",CCTV-新科动漫
 http://39.135.140.14:6610/PLTV/88888888/224/3221225516/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="第一剧场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dyjc.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",CCTV-第一剧场
+#EXTINF:-1 tvg-id="" tvg-name="第一剧场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dyjc.png" tvg-country="CN" tvg-url="" group-title="卫视标清",CCTV-第一剧场
 http://39.135.140.14:6610/PLTV/88888888/224/3221225528/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="老故事" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/lgs.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",CCTV-老故事
+#EXTINF:-1 tvg-id="" tvg-name="老故事" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/lgs.png" tvg-country="CN" tvg-url="" group-title="卫视标清",CCTV-老故事
 http://39.135.140.14:6610/PLTV/88888888/224/3221225517/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="风云剧场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fyjc.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",CCTV-风云剧场
+#EXTINF:-1 tvg-id="" tvg-name="风云剧场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fyjc.png" tvg-country="CN" tvg-url="" group-title="卫视标清",CCTV-风云剧场
 http://39.135.140.14:6610/PLTV/88888888/224/3221225524/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="风云足球" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fyzq.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",CCTV-风云足球
+#EXTINF:-1 tvg-id="" tvg-name="风云足球" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fyzq.png" tvg-country="CN" tvg-url="" group-title="卫视标清",CCTV-风云足球
 http://39.135.140.14:6610/PLTV/88888888/224/3221225523/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fyyy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",CCTV-风云音乐
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fyyy.png" tvg-country="CN" tvg-url="" group-title="卫视标清",CCTV-风云音乐
 http://39.135.140.14:6610/PLTV/88888888/224/3221225529/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="高尔夫网球" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gef.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",CCTV-高尔夫网球
+#EXTINF:-1 tvg-id="" tvg-name="高尔夫网球" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gef.png" tvg-country="CN" tvg-url="" group-title="卫视标清",CCTV-高尔夫网球
 http://39.135.140.14:6610/PLTV/88888888/224/3221225521/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="汽摩" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cqqm.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",重庆汽摩
+#EXTINF:-1 tvg-id="" tvg-name="汽摩" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cqqm.png" tvg-country="CN" tvg-url="" group-title="卫视标清",重庆汽摩
 http://39.135.140.14:6610/PLTV/88888888/224/3221225506/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="靓妆频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jslz.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",江苏靓妆
+#EXTINF:-1 tvg-id="" tvg-name="靓妆频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jslz.png" tvg-country="CN" tvg-url="" group-title="卫视标清",江苏靓妆
 http://39.135.140.14:6610/PLTV/88888888/224/3221225509/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="梨园" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hnly.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",河南梨园
+#EXTINF:-1 tvg-id="" tvg-name="梨园" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hnly.png" tvg-country="CN" tvg-url="" group-title="卫视标清",河南梨园
 http://39.135.140.14:6610/PLTV/88888888/224/3221225581/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="武术世界" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/wssj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",武术世界
+#EXTINF:-1 tvg-id="" tvg-name="武术世界" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/wssj.png" tvg-country="CN" tvg-url="" group-title="卫视标清",武术世界
 http://39.135.140.14:6610/PLTV/88888888/224/3221225508/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="中华美食" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zhms.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",中华美食
+#EXTINF:-1 tvg-id="" tvg-name="中华美食" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zhms.png" tvg-country="CN" tvg-url="" group-title="卫视标清",中华美食
 http://39.135.140.14:6610/PLTV/88888888/224/3221225924/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="彩民在线" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cmzx.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",彩民在线
+#EXTINF:-1 tvg-id="" tvg-name="彩民在线" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cmzx.png" tvg-country="CN" tvg-url="" group-title="卫视标清",彩民在线
 http://39.135.140.14:6610/PLTV/88888888/224/3221225505/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="江西都市" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxds.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",江西都市
+#EXTINF:-1 tvg-id="" tvg-name="江西都市" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxds.png" tvg-country="CN" tvg-url="" group-title="卫视标清",江西都市
 http://39.135.140.14:6610/PLTV/88888888/224/3221225584/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="江西经济生活" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxsh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",江西经济生活
+#EXTINF:-1 tvg-id="" tvg-name="江西经济生活" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxsh.png" tvg-country="CN" tvg-url="" group-title="卫视标清",江西经济生活
 http://39.135.140.14:6610/PLTV/88888888/224/3221225580/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="江西影视旅游" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxys.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",江西影视旅游
+#EXTINF:-1 tvg-id="" tvg-name="江西影视旅游" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxys.png" tvg-country="CN" tvg-url="" group-title="卫视标清",江西影视旅游
 http://39.135.140.14:6610/PLTV/88888888/224/3221225579/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="江西公共农业" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxgg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",江西公共农业
+#EXTINF:-1 tvg-id="" tvg-name="江西公共农业" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxgg.png" tvg-country="CN" tvg-url="" group-title="卫视标清",江西公共农业
 http://39.135.140.14:6610/PLTV/88888888/224/3221225578/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="江西少儿" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxse.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",江西少儿
+#EXTINF:-1 tvg-id="" tvg-name="江西少儿" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxse.png" tvg-country="CN" tvg-url="" group-title="卫视标清",江西少儿
 http://39.135.140.14:6610/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="新视觉" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xsj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",新视觉 HD
+#EXTINF:-1 tvg-id="" tvg-name="新视觉" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xsj.png" tvg-country="CN" tvg-url="" group-title="数字高清",新视觉 HD
 http://183.207.255.190/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dmxc.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",动漫秀场 HD
+#EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dmxc.png" tvg-country="CN" tvg-url="" group-title="数字高清",动漫秀场 HD
 http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="游戏风云" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/yxfy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",游戏风云 HD
+#EXTINF:-1 tvg-id="" tvg-name="游戏风云" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/yxfy.png" tvg-country="CN" tvg-url="" group-title="数字高清",游戏风云 HD
 http://183.207.255.190/live/program/live/yxfyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="劲爆体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jbty.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",劲爆体育 HD
+#EXTINF:-1 tvg-id="" tvg-name="劲爆体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jbty.png" tvg-country="CN" tvg-url="" group-title="数字高清",劲爆体育 HD
 http://183.207.255.190/live/program/live/jbtyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="魅力足球" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/mlzq.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",魅力足球 HD
+#EXTINF:-1 tvg-id="" tvg-name="魅力足球" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/mlzq.png" tvg-country="CN" tvg-url="" group-title="数字高清",魅力足球 HD
 http://183.207.255.190/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="欢笑剧场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hxjc.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",欢笑剧场 HD
+#EXTINF:-1 tvg-id="" tvg-name="欢笑剧场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hxjc.png" tvg-country="CN" tvg-url="" group-title="数字高清",欢笑剧场 HD
 http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX极速汽车" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jsqc.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",极速汽车 HD
+#EXTINF:-1 tvg-id="" tvg-name="MAX极速汽车" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jsqc.png" tvg-country="CN" tvg-url="" group-title="数字高清",极速汽车 HD
 http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="生活时尚" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/shss.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",生活时尚 HD
+#EXTINF:-1 tvg-id="" tvg-name="生活时尚" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/shss.png" tvg-country="CN" tvg-url="" group-title="数字高清",生活时尚 HD
 http://183.207.255.190/live/program/live/shsshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="全纪实" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qjs.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",全纪实 HD
+#EXTINF:-1 tvg-id="" tvg-name="全纪实" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qjs.png" tvg-country="CN" tvg-url="" group-title="数字高清",全纪实 HD
 http://183.207.255.190/live/program/live/qjshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dsjc.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",都市剧场 HD
+#EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dsjc.png" tvg-country="CN" tvg-url="" group-title="数字高清",都市剧场 HD
 http://183.207.255.190/live/program/live/dsjchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="幸福彩" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xfc.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",幸福彩 HD
+#EXTINF:-1 tvg-id="" tvg-name="幸福彩" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xfc.png" tvg-country="CN" tvg-url="" group-title="数字高清",幸福彩 HD
 http://183.207.255.190/live/program/live/xfchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="求索动物" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qsdw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",求索动物 HD
+#EXTINF:-1 tvg-id="" tvg-name="求索动物" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qsdw.png" tvg-country="CN" tvg-url="" group-title="数字高清",求索动物 HD
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qssh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",求索生活 HD
+#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qssh.png" tvg-country="CN" tvg-url="" group-title="数字高清",求索生活 HD
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="求索科学" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qskx.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",求索科学 HD
+#EXTINF:-1 tvg-id="" tvg-name="求索科学" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qskx.png" tvg-country="CN" tvg-url="" group-title="数字高清",求索科学 HD
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="求索纪录" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qsjl.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",求索纪录 HD
+#EXTINF:-1 tvg-id="" tvg-name="求索纪录" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qsjl.png" tvg-country="CN" tvg-url="" group-title="数字高清",求索纪录 HD
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="Y+频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ytv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",Y+频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="Y+频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ytv.png" tvg-country="CN" tvg-url="" group-title="数字高清",Y+频道 HD
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="iHot爱喜剧" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",iHot爱喜剧 HD
+#EXTINF:-1 tvg-id="" tvg-name="iHot爱喜剧" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot.png" tvg-country="CN" tvg-url="" group-title="数字高清",iHot爱喜剧 HD
 http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="iHot爱解密" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",iHot爱解密 HD
+#EXTINF:-1 tvg-id="" tvg-name="iHot爱解密" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot2.png" tvg-country="CN" tvg-url="" group-title="数字高清",iHot爱解密 HD
 http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="iHot爱浪漫" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",iHot爱浪漫 HD
+#EXTINF:-1 tvg-id="" tvg-name="iHot爱浪漫" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot1.png" tvg-country="CN" tvg-url="" group-title="数字高清",iHot爱浪漫 HD
 http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="iHot爱科幻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot3.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",iHot爱科幻 HD
+#EXTINF:-1 tvg-id="" tvg-name="iHot爱科幻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot3.png" tvg-country="CN" tvg-url="" group-title="数字高清",iHot爱科幻 HD
 http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="iHot爱院线" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot4.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",iHot爱院线 HD
+#EXTINF:-1 tvg-id="" tvg-name="iHot爱院线" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot4.png" tvg-country="CN" tvg-url="" group-title="数字高清",iHot爱院线 HD
 http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="iHot爱悬疑" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot5.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",iHot爱悬疑 HD
+#EXTINF:-1 tvg-id="" tvg-name="iHot爱悬疑" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot5.png" tvg-country="CN" tvg-url="" group-title="数字高清",iHot爱悬疑 HD
 http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="iHot爱奇谈" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot6.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",iHot爱奇谈 HD
+#EXTINF:-1 tvg-id="" tvg-name="iHot爱奇谈" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot6.png" tvg-country="CN" tvg-url="" group-title="数字高清",iHot爱奇谈 HD
 http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="iHot爱经典" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot7.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",iHot爱经典 HD
+#EXTINF:-1 tvg-id="" tvg-name="iHot爱经典" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot7.png" tvg-country="CN" tvg-url="" group-title="数字高清",iHot爱经典 HD
 http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="iHot爱动漫" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot8.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",iHot爱动漫 HD
+#EXTINF:-1 tvg-id="" tvg-name="iHot爱动漫" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot8.png" tvg-country="CN" tvg-url="" group-title="数字高清",iHot爱动漫 HD
 http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="iHot爱电竞" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot9.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",iHot爱电竞 HD
+#EXTINF:-1 tvg-id="" tvg-name="iHot爱电竞" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ihot9.png" tvg-country="CN" tvg-url="" group-title="数字高清",iHot爱电竞 HD
 http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="NewTV超级电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cjdy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV超级电影 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV超级电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cjdy.png" tvg-country="CN" tvg-url="" group-title="数字高清",NewTV超级电影 HD
 http://112.50.243.8/PLTV/88888888/224/3221225926/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV超级电视剧" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cjdsj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV超级电视剧 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV超级电视剧" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cjdsj.png" tvg-country="CN" tvg-url="" group-title="数字高清",NewTV超级电视剧 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225765/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="NewTV超级体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cjty.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV超级体育 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV超级体育" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cjty.png" tvg-country="CN" tvg-url="" group-title="数字高清",NewTV超级体育 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225767/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="NewTV超级综艺" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cjzy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV超级综艺 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV超级综艺" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cjzy.png" tvg-country="CN" tvg-url="" group-title="数字高清",NewTV超级综艺 HD
 http://112.50.243.8/PLTV/88888888/224/3221225924/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV金牌综艺" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jpzy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV金牌综艺 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV金牌综艺" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jpzy.png" tvg-country="CN" tvg-url="" group-title="数字高清",NewTV金牌综艺 HD
 http://112.50.243.8/PLTV/88888888/224/3221225884/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV精品大剧" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jpdj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV精品大剧 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV精品大剧" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jpdj.png" tvg-country="CN" tvg-url="" group-title="数字高清",NewTV精品大剧 HD
 http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV潮妈辣婆" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cmlp.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV潮妈辣婆 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV潮妈辣婆" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cmlp.png" tvg-country="CN" tvg-url="" group-title="数字高清",NewTV潮妈辣婆 HD
 http://112.50.243.8/PLTV/88888888/224/3221226107/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV农业致富" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nyzf.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV农业致富 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV农业致富" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nyzf.png" tvg-country="CN" tvg-url="" group-title="数字高清",NewTV农业致富 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225670/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="NewTV中国功夫" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zggf.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV中国功夫 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV中国功夫" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zggf.png" tvg-country="CN" tvg-url="" group-title="数字高清",NewTV中国功夫 HD
 http://112.50.243.8/PLTV/88888888/224/3221225896/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV军旅剧场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jljc.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV军旅剧场 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV军旅剧场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jljc.png" tvg-country="CN" tvg-url="" group-title="数字高清",NewTV军旅剧场 HD
 http://112.50.243.8/PLTV/88888888/224/3221225887/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV古装剧场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gzjc.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV古装剧场 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV古装剧场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gzjc.png" tvg-country="CN" tvg-url="" group-title="数字高清",NewTV古装剧场 HD
 http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV动作电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dzdy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV动作电影 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV动作电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dzdy.png" tvg-country="CN" tvg-url="" group-title="数字高清",NewTV动作电影 HD
 http://112.50.243.8/PLTV/88888888/224/3221225879/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV家庭剧场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jtjc.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV家庭剧场 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV家庭剧场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jtjc.png" tvg-country="CN" tvg-url="" group-title="数字高清",NewTV家庭剧场 HD
 http://112.50.243.8/PLTV/88888888/224/3221225882/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV惊悚悬疑" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jsxy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV惊悚悬疑 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV惊悚悬疑" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jsxy.png" tvg-country="CN" tvg-url="" group-title="数字高清",NewTV惊悚悬疑 HD
 http://112.50.243.8/PLTV/88888888/224/3221225885/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV爱情喜剧" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/aqxj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV爱情喜剧 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV爱情喜剧" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/aqxj.png" tvg-country="CN" tvg-url="" group-title="数字高清",NewTV爱情喜剧 HD
 http://112.50.243.8/PLTV/88888888/224/3221225877/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV运动搏击" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ydbj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV运动搏击 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV运动搏击" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ydbj.png" tvg-country="CN" tvg-url="" group-title="数字高清",NewTV运动搏击 HD
 http://112.50.243.8/PLTV/88888888/224/3221225895/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV精品纪录" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jpjl.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",NewTV精品纪录 HD
+#EXTINF:-1 tvg-id="" tvg-name="NewTV精品纪录" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jpjl.png" tvg-country="CN" tvg-url="" group-title="数字高清",NewTV精品纪录 HD
 http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="黑莓电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hmdy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",黑莓电影 HD
+#EXTINF:-1 tvg-id="" tvg-name="黑莓电影" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hmdy.png" tvg-country="CN" tvg-url="" group-title="数字高清",黑莓电影 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225672/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="黑莓动画" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hmdh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",黑莓动画 HD
+#EXTINF:-1 tvg-id="" tvg-name="黑莓动画" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hmdh.png" tvg-country="CN" tvg-url="" group-title="数字高清",黑莓动画 HD
 http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="黑莓电竞" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hmdj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",黑莓电竞 HD
+#EXTINF:-1 tvg-id="" tvg-name="黑莓电竞" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hmdj.png" tvg-country="CN" tvg-url="" group-title="数字高清",黑莓电竞 HD
 http://112.50.243.8/PLTV/88888888/224/3221225894/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bestv1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",百视通学而思 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bestv1.png" tvg-country="CN" tvg-url="" group-title="数字高清",百视通学而思 HD
 http://183.207.255.190/live/program/live/hdnba1/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bestv2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="数字高清",百视通体育 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bestv2.png" tvg-country="CN" tvg-url="" group-title="数字高清",百视通体育 HD
 http://183.207.255.190/live/program/live/hdnba5/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ipanda" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/panda.png" tvg-country="CN" tvg-url="" group-title="数字高清",熊猫频道 HD
 http://gccnchwc.v.cdn20.com/gc/xiongmao01_1.flv
@@ -360,165 +360,166 @@ http://39.135.16.150:6610/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
 http://39.135.16.150:6610/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
 
 
-#EXTINF:-1 tvg-id="" tvg-name="上视外语频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ics.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",上海ICS外语 HD
+#EXTINF:-1 tvg-id="" tvg-name="上视外语频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ics.png" tvg-country="CN" tvg-url="" group-title="地方高清",上海ICS外语 HD
 http://183.207.255.190/live/program/live/wypdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东方影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dfys.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",上海东方影视 HD
+#EXTINF:-1 tvg-id="" tvg-name="东方影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dfys.png" tvg-country="CN" tvg-url="" group-title="地方高清",上海东方影视 HD
 http://183.207.255.190/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="五星体育频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/wxty.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",上海五星体育 HD
+#EXTINF:-1 tvg-id="" tvg-name="五星体育频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/wxty.png" tvg-country="CN" tvg-url="" group-title="地方高清",上海五星体育 HD
 http://183.207.255.190/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="第一财经" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dycj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",上海第一财经 HD
+#EXTINF:-1 tvg-id="" tvg-name="第一财经" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dycj.png" tvg-country="CN" tvg-url="" group-title="地方高清",上海第一财经 HD
 http://183.207.255.190/live/program/live/dycjhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上视新闻频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dfxw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",上海新闻综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="上视新闻频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dfxw.png" tvg-country="CN" tvg-url="" group-title="地方高清",上海新闻综合 HD
 http://183.207.255.190/live/program/live/xwzhhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jishi.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",上海纪实人文 HD
+#EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jishi.png" tvg-country="CN" tvg-url="" group-title="地方高清",上海纪实人文 HD
 http://183.207.255.190/live/program/live/jspdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海都市频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/shanghaidushi.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",上海都市 HD
+#EXTINF:-1 tvg-id="" tvg-name="上海都市频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/shanghaidushi.png" tvg-country="CN" tvg-url="" group-title="地方高清",上海都市 HD
 http://183.207.255.190/live/program/live/ylpdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="江西新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxtv7.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",江西新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="江西新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jxtv7.png" tvg-country="CN" tvg-url="" group-title="地方高清",江西新闻 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225615/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="九江新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jjxw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",九江新闻综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="九江新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jjxw.png" tvg-country="CN" tvg-url="" group-title="地方高清",九江新闻综合 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225774/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="九江公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jjgg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",九江公共 HD
+#EXTINF:-1 tvg-id="" tvg-name="九江公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jjgg.png" tvg-country="CN" tvg-url="" group-title="地方高清",九江公共 HD
 http://39.135.140.14:6610/PLTV/88888888/224/3221225775/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="浙江公共新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjgg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",浙江公共新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="浙江公共新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjgg.png" tvg-country="CN" tvg-url="" group-title="地方高清",浙江公共新闻 HD
 http://ali.m.l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjgj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",浙江国际 HD
+#EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjgj.png" tvg-country="CN" tvg-url="" group-title="地方高清",浙江国际 HD
 http://ali.m.l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江少儿" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjse.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",浙江少儿 HD
+#EXTINF:-1 tvg-id="" tvg-name="浙江少儿" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjse.png" tvg-country="CN" tvg-url="" group-title="地方高清",浙江少儿 HD
 http://ali.m.l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江影视娱乐" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjys.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",浙江影视娱乐 HD
+#EXTINF:-1 tvg-id="" tvg-name="浙江影视娱乐" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjys.png" tvg-country="CN" tvg-url="" group-title="地方高清",浙江影视娱乐 HD
 http://ali.m.l.cztv.com/channels/lantian/channel005/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江教育科技" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjjy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",浙江教育科技 HD
+#EXTINF:-1 tvg-id="" tvg-name="浙江教育科技" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjjy.png" tvg-country="CN" tvg-url="" group-title="地方高清",浙江教育科技 HD
 http://ali.m.l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江数码时代" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjsm.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",浙江数码时代 HD
+#EXTINF:-1 tvg-id="" tvg-name="浙江数码时代" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjsm.png" tvg-country="CN" tvg-url="" group-title="地方高清",浙江数码时代 HD
 http://ali.m.l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江民生休闲" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjms.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",浙江民生休闲 HD
+#EXTINF:-1 tvg-id="" tvg-name="浙江民生休闲" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjms.png" tvg-country="CN" tvg-url="" group-title="地方高清",浙江民生休闲 HD
 http://ali.m.l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江留学世界" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjlx.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",浙江留学世界 HD
+#EXTINF:-1 tvg-id="" tvg-name="浙江留学世界" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjlx.png" tvg-country="CN" tvg-url="" group-title="地方高清",浙江留学世界 HD
 http://ali.m.l.cztv.com/channels/lantian/channel009/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江经济生活" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjjj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",浙江经济生活 HD
+#EXTINF:-1 tvg-id="" tvg-name="浙江经济生活" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjjj.png" tvg-country="CN" tvg-url="" group-title="地方高清",浙江经济生活 HD
 http://ali.m.l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江钱江" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjqj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",浙江钱江 HD
+#EXTINF:-1 tvg-id="" tvg-name="浙江钱江" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjqj.png" tvg-country="CN" tvg-url="" group-title="地方高清",浙江钱江 HD
 http://ali.m.l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江指南" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjzn.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",浙江电视指南 HD
+#EXTINF:-1 tvg-id="" tvg-name="浙江指南" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjzn.png" tvg-country="CN" tvg-url="" group-title="地方高清",浙江电视指南 HD
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229434/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="云南都市" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynds.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",云南都市 HD
+#EXTINF:-1 tvg-id="" tvg-name="云南都市" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynds.png" tvg-country="CN" tvg-url="" group-title="地方高清",云南都市 HD
 http://39.130.206.213:6410/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="云南娱乐" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynyl.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",云南娱乐 HD
+#EXTINF:-1 tvg-id="" tvg-name="云南娱乐" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynyl.png" tvg-country="CN" tvg-url="" group-title="地方高清",云南娱乐 HD
 http://39.130.206.213:6410/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="云南生活资讯" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynsh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",云南生活资讯 HD
+#EXTINF:-1 tvg-id="" tvg-name="云南生活资讯" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynsh.png" tvg-country="CN" tvg-url="" group-title="地方高清",云南生活资讯 HD
 http://39.130.206.213:6410/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="云南影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynys.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",云南影视 HD
+#EXTINF:-1 tvg-id="" tvg-name="云南影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynys.png" tvg-country="CN" tvg-url="" group-title="地方高清",云南影视 HD
 http://39.130.206.213:6410/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="云南公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/yngg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",云南公共 HD
+#EXTINF:-1 tvg-id="" tvg-name="云南公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/yngg.png" tvg-country="CN" tvg-url="" group-title="地方高清",云南公共 HD
 http://39.130.206.213:6410/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="云南少儿" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynse.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",云南少儿 HD
+#EXTINF:-1 tvg-id="" tvg-name="云南少儿" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ynse.png" tvg-country="CN" tvg-url="" group-title="地方高清",云南少儿 HD
 http://39.130.206.213:6410/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="厦视综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xmzh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",厦视综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="厦视综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xmzh.png" tvg-country="CN" tvg-url="" group-title="地方高清",厦视综合 HD
 http://112.50.243.8/PLTV/88888888/224/3221226814/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="厦门海峡" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xmhx.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",厦门海峡 HD
+#EXTINF:-1 tvg-id="" tvg-name="厦门海峡" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xmhx.png" tvg-country="CN" tvg-url="" group-title="地方高清",厦门海峡 HD
 http://112.50.243.8/PLTV/88888888/224/3221226777/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="厦门生活" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xmsh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",厦门生活 HD
+#EXTINF:-1 tvg-id="" tvg-name="厦门生活" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xmsh.png" tvg-country="CN" tvg-url="" group-title="地方高清",厦门生活 HD
 http://112.50.243.8/PLTV/88888888/224/3221226760/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="厦门影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xmys.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",厦门影视 HD
+#EXTINF:-1 tvg-id="" tvg-name="厦门影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xmys.png" tvg-country="CN" tvg-url="" group-title="地方高清",厦门影视 HD
 http://112.50.243.8/PLTV/88888888/224/3221226764/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV文艺" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bjwy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",北京文艺 HD
+#EXTINF:-1 tvg-id="" tvg-name="BTV文艺" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bjwy.png" tvg-country="CN" tvg-url="" group-title="地方高清",北京文艺 HD
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bjxw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",北京新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="BTV新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bjxw.png" tvg-country="CN" tvg-url="" group-title="地方高清",北京新闻 HD
 http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bjys.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",北京影视 HD
+#EXTINF:-1 tvg-id="" tvg-name="BTV影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bjys.png" tvg-country="CN" tvg-url="" group-title="地方高清",北京影视 HD
 http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="楚雄公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cxtv1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",楚雄公共 HD
+#EXTINF:-1 tvg-id="" tvg-name="楚雄公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cxtv1.png" tvg-country="CN" tvg-url="" group-title="地方高清",楚雄公共 HD
 http://39.130.206.213:6410/gitv_live/G_CHUXIONGGG/G_CHUXIONGGG.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="楚雄市台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cxtv3.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",楚雄市台 HD
+#EXTINF:-1 tvg-id="" tvg-name="楚雄市台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cxtv3.png" tvg-country="CN" tvg-url="" group-title="地方高清",楚雄市台 HD
 http://39.130.206.213:6410/gitv_live/G_CHUXIONGSHI/G_CHUXIONGSHI.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="楚雄新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cxtv2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",楚雄新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="楚雄新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cxtv2.png" tvg-country="CN" tvg-url="" group-title="地方高清",楚雄新闻 HD
 http://39.130.206.213:6410/gitv_live/G_CHUXIONGXW/G_CHUXIONGXW.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澜沧电视台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/lctv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",澜沧电视台 HD
+#EXTINF:-1 tvg-id="" tvg-name="澜沧电视台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/lctv.png" tvg-country="CN" tvg-url="" group-title="地方高清",澜沧电视台 HD
 http://39.130.206.213:6410/gitv_live/G_LANCANG/G_LANCANG.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="红河新闻综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hhtv1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",红河新闻综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="红河新闻综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hhtv1.png" tvg-country="CN" tvg-url="" group-title="地方高清",红河新闻综合 HD
 http://39.130.206.213:6410/gitv_live/G_HONGHETV-1/G_HONGHETV-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="红河公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hhtv2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",红河公共 HD
+#EXTINF:-1 tvg-id="" tvg-name="红河公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hhtv2.png" tvg-country="CN" tvg-url="" group-title="地方高清",红河公共 HD
 http://39.130.206.213:6410/gitv_live/G_HONGHETV-2/G_HONGHETV-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="迪庆新闻综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dqtv1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",迪庆新闻综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="迪庆新闻综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dqtv1.png" tvg-country="CN" tvg-url="" group-title="地方高清",迪庆新闻综合 HD
 http://39.130.206.213:6410/gitv_live/G_DIQING-1/G_DIQING-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="迪庆藏语" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dqtv2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",迪庆藏语 HD
+#EXTINF:-1 tvg-id="" tvg-name="迪庆藏语" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dqtv2.png" tvg-country="CN" tvg-url="" group-title="地方高清",迪庆藏语 HD
 http://39.130.206.213:6410/gitv_live/G_DIQINGZY/G_DIQINGZY.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="隆阳电视台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/lytv1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",隆阳电视台 HD
+#EXTINF:-1 tvg-id="" tvg-name="隆阳电视台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/lytv1.png" tvg-country="CN" tvg-url="" group-title="地方高清",隆阳电视台 HD
 http://39.130.206.213:6410/gitv_live/G_LONGYANG/G_LONGYANG.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="宁德公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ndtv2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",宁德公共 HD
+#EXTINF:-1 tvg-id="" tvg-name="宁德公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ndtv2.png" tvg-country="CN" tvg-url="" group-title="地方高清",宁德公共 HD
 http://112.50.243.8/PLTV/88888888/224/3221226635/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="娄东民生" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/tcxw2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",太仓娄东民生 HD
+#EXTINF:-1 tvg-id="" tvg-name="娄东民生" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/tcxw2.png" tvg-country="CN" tvg-url="" group-title="地方高清",太仓娄东民生 HD
 http://58.211.172.37:1935/live/ldmspc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="太仓新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/tcxw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",太仓新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="太仓新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/tcxw.png" tvg-country="CN" tvg-url="" group-title="地方高清",太仓新闻 HD
 http://58.211.172.37:1935/live/tcxwpc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="巴中公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bzgg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",巴中公共 HD
+#EXTINF:-1 tvg-id="" tvg-name="巴中公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bzgg.png" tvg-country="CN" tvg-url="" group-title="地方高清",巴中公共 HD
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="巴中综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bzzh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",巴中综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="巴中综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/bzzh.png" tvg-country="CN" tvg-url="" group-title="地方高清",巴中综合 HD
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="张家界一台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjjtv1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",张家界一台 HD
+#EXTINF:-1 tvg-id="" tvg-name="张家界一台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/zjjtv1.png" tvg-country="CN" tvg-url="" group-title="地方高清",张家界一台 HD
 http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="德州新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dztv1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",德州新闻综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="德州新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dztv1.png" tvg-country="CN" tvg-url="" group-title="地方高清",德州新闻综合 HD
 http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="攀枝花新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/pzhtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",攀枝花新闻综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="攀枝花新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/pzhtv.png" tvg-country="CN" tvg-url="" group-title="地方高清",攀枝花新闻综合 HD
 http://zb.pzhgd.com:9091/live/xwzh.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="横山综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hstv1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",横山综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="横山综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hstv1.png" tvg-country="CN" tvg-url="" group-title="地方高清",横山综合 HD
 http://stream.hsqtv.cn/2/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="洪雅新闻综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hyxw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",洪雅新闻综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="洪雅新闻综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hyxw.png" tvg-country="CN" tvg-url="" group-title="地方高清",洪雅新闻综合 HD
 http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8
-#EXTINF:-1 tvg-id="" tvg-name="西昌电视台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xczh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",西昌电视台 HD
+#EXTINF:-1 tvg-id="" tvg-name="西昌电视台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xczh.png" tvg-country="CN" tvg-url="" group-title="地方高清",西昌电视台 HD
 http://stream.xctv.news:8084/1a6c203cd4644dd9a27a4b07a1159e14/h264_500k_ts/index.m3u8?type=flv2hls_m3u8
-#EXTINF:-1 tvg-id="" tvg-name="长阳综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cytv1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",长阳一台 HD
+#EXTINF:-1 tvg-id="" tvg-name="长阳综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cytv1.png" tvg-country="CN" tvg-url="" group-title="地方高清",长阳一台 HD
 http://changyang.live.cjyun.org/video/s10114-cy1t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qxngg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",黔西南公共 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qxngg.png" tvg-country="CN" tvg-url="" group-title="地方高清",黔西南公共 HD
 http://live.qxndt.com/channel3/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qxnzh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",黔西南综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/qxnzh.png" tvg-country="CN" tvg-url="" group-title="地方高清",黔西南综合 HD
 http://live.qxndt.com/channel2/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="福州新闻综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fzxw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",福州新闻综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="福州新闻综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fzxw.png" tvg-country="CN" tvg-url="" group-title="地方高清",福州新闻综合 HD
 http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="邳州综艺" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/pzzy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",邳州综艺 HD
+#EXTINF:-1 tvg-id="" tvg-name="邳州综艺" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/pzzy.png" tvg-country="CN" tvg-url="" group-title="地方高清",邳州综艺 HD
 http://stream.pznews.com/pztv1/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="邳州综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/pzzh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",邳州综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="邳州综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/pzzh.png" tvg-country="CN" tvg-url="" group-title="地方高清",邳州综合 HD
 http://stream.pznews.com/pztv2/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="昌乐新闻综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/clxw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",昌乐新闻综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="昌乐新闻综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/clxw.png" tvg-country="CN" tvg-url="" group-title="地方高清",昌乐新闻综合 HD
 http://livealone302.iqilu.com/changle/changle_tv01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安丘新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/aqxw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",安丘新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="安丘新闻" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/aqxw.png" tvg-country="CN" tvg-url="" group-title="地方高清",安丘新闻 HD
 http://jsylivealone302.iqilu.com/live/anqiu_tv01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安丘民生" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/aqms.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",安丘民生 HD
+#EXTINF:-1 tvg-id="" tvg-name="安丘民生" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/aqms.png" tvg-country="CN" tvg-url="" group-title="地方高清",安丘民生 HD
 http://jsylivealone302.iqilu.com/live/anqiu_tv02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="济阳影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jyys.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",济阳影视 HD
+#EXTINF:-1 tvg-id="" tvg-name="济阳影视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jyys.png" tvg-country="CN" tvg-url="" group-title="地方高清",济阳影视 HD
 http://jsylivealone302.iqilu.com/live/jiyang_tv02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="哈尔滨新闻综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/haxw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",哈尔滨新闻综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="哈尔滨新闻综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/haxw.png" tvg-country="CN" tvg-url="" group-title="地方高清",哈尔滨新闻综合 HD
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="达州新闻综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dzzh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",达州新闻综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="达州新闻综合" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dzzh.png" tvg-country="CN" tvg-url="" group-title="地方高清",达州新闻综合 HD
 http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="达州公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dzgg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",达州公共 HD
+#EXTINF:-1 tvg-id="" tvg-name="达州公共" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/dzgg.png" tvg-country="CN" tvg-url="" group-title="地方高清",达州公共 HD
 http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel36/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="贵阳一台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/gytv1.png" tvg-country="CN" tvg-url="" group-title="地方高清",贵阳一台 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221225743/1/index.m3u8?fmt=ts2hls
 
-
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fhzw.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",凤凰中文 HD
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fhzw.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",凤凰中文 HD
 http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fhzx.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",凤凰资讯 HD
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fhzx.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",凤凰资讯 HD
 http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fhxg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",凤凰香港 HD
+#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fhxg.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",凤凰香港 HD
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE#http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="香港亚视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hkys.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",香港亚视 HD
+#EXTINF:-1 tvg-id="" tvg-name="香港亚视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hkys.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",香港亚视 HD
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="亚旅卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/yltv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",亚旅卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="亚旅卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/yltv.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",亚旅卫视 HD
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="cnex" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cnex.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",CNEX纪录片 HD
+#EXTINF:-1 tvg-id="" tvg-name="cnex" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/cnex.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",CNEX纪录片 HD
 http://61.58.60.230:9319/live/257.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sxzh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",CYC世新綜合台 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/sxzh.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",CYC世新綜合台 HD
 http://61.58.60.230:9319/live/49.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/tngy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",台南公用台 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/tngy.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",台南公用台 HD
 http://61.58.60.230:9319/live/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ghpd1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",國會頻道1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ghpd1.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",國會頻道1 HD
 http://61.58.60.230:9319/live/123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ghpd2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",國會頻道2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ghpd2.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",國會頻道2 HD
 http://61.58.60.230:9319/live/124.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jyzh.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",大嘉義綜合台 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/jyzh.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",大嘉義綜合台 HD
 http://61.58.60.230:9319/live/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="大爱二台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/daai2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="港澳台高清",大愛二台 HD
+#EXTINF:-1 tvg-id="" tvg-name="大爱二台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/daai2.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",大愛二台 HD
 http://61.58.60.230:9319/live/191.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="幸福空间居家台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xfkj.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",幸福空間居家台 HD
 http://61.58.60.230:9319/live/125.m3u8
@@ -540,85 +541,85 @@ http://61.58.60.230:9319/live/207.m3u8
 http://61.58.60.230:9319/live/244.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sony.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",SONY HD
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sony.png" tvg-country="CN" tvg-url="" group-title="国际高清",SONY HD
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="SONY EARTH" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonybbc.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",SONY 自然知性 HD
+#EXTINF:-1 tvg-id="" tvg-name="SONY EARTH" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonybbc.png" tvg-country="CN" tvg-url="" group-title="国际高清",SONY 自然知性 HD
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonymax.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",SONY MAX HD
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonymax.png" tvg-country="CN" tvg-url="" group-title="国际高清",SONY MAX HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="SONY SAB" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonysab.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",SONY SAB HD
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonysab.png" tvg-country="CN" tvg-url="" group-title="国际高清",SONY SAB HD
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="SONY YAY" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonyyay.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",SONY YAY HD
+#EXTINF:-1 tvg-id="" tvg-name="SONY YAY" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonyyay.png" tvg-country="CN" tvg-url="" group-title="国际高清",SONY YAY HD
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="SONY PIX" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonypix.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",SONY PIX HD
+#EXTINF:-1 tvg-id="" tvg-name="SONY PIX" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonypix.png" tvg-country="CN" tvg-url="" group-title="国际高清",SONY PIX HD
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN1" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonyten1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",SONY TEN1 HD
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN1" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonyten1.png" tvg-country="CN" tvg-url="" group-title="国际高清",SONY TEN1 HD
 https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN2" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonyten2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",SONY TEN2 HD
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN2" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonyten2.png" tvg-country="CN" tvg-url="" group-title="国际高清",SONY TEN2 HD
 https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN3" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonyten3.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",SONY TEN3 HD
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN3" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonyten3.png" tvg-country="CN" tvg-url="" group-title="国际高清",SONY TEN3 HD
 https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="" tvg-name="SONY SIX" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonysix.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",SONY SIX HD
+#EXTINF:-1 tvg-id="" tvg-name="SONY SIX" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonysix.png" tvg-country="CN" tvg-url="" group-title="国际高清",SONY SIX HD
 https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/axn.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",SONY AXN HD
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/axn.png" tvg-country="CN" tvg-url="" group-title="国际高清",SONY AXN HD
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="KBS1" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/kbs1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",韩国KBS一台 HD
+#EXTINF:-1 tvg-id="" tvg-name="KBS1" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/kbs1.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国KBS一台 HD
 http://121.136.223.243:9981/stream/channelid/1344561804
-#EXTINF:-1 tvg-id="" tvg-name="KBS2" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/kbs2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",韩国KBS二台 HD
+#EXTINF:-1 tvg-id="" tvg-name="KBS2" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/kbs2.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国KBS二台 HD
 http://121.136.223.243:9981/stream/channelid/991574849
-#EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/sbs.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",韩国SBS台 HD
+#EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/sbs.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国SBS台 HD
 http://121.136.223.243:9981/stream/channelid/669301651
-#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/mbc.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",韩国MBC台 HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/mbc.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国MBC台 HD
 http://121.136.223.243:9981/stream/channelid/796979705
-#EXTINF:-1 tvg-id="" tvg-name="Arte HD" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/arte.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",韩国Arte台 HD
+#EXTINF:-1 tvg-id="" tvg-name="Arte HD" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/arte.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国Arte台 HD
 http://etomatomobile.hscdn.com/artemobile/livestream/chunklist_w1865830476.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ArirangTV" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/arirang.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",韩国阿里郎 HD
+#EXTINF:-1 tvg-id="" tvg-name="ArirangTV" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/arirang.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国阿里郎 HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/chunklist_b1728000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Korea TV" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/korea.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",韩国电视台 HD
+#EXTINF:-1 tvg-id="" tvg-name="Korea TV" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/korea.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国电视台 HD
 http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="韩国佛教广播" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/hgfj.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",韩国佛教广播 HD
+#EXTINF:-1 tvg-id="" tvg-name="韩国佛教广播" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/hgfj.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国佛教广播 HD
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KCTV" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/kctv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",韩国KCTV HD
+#EXTINF:-1 tvg-id="" tvg-name="KCTV" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/kctv.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国KCTV HD
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/tbs.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",韩国TBS台 HD
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/tbs.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国TBS台 HD
 http://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/ybtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",延边卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/ybtv.png" tvg-country="CN" tvg-url="" group-title="国际高清",延边卫视 HD
 http://live.ybtvyun.com/video/s10016-bd6e048a741f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="延边一台" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/ybtv1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",延边一台 HD
+#EXTINF:-1 tvg-id="" tvg-name="延边一台" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/ybtv1.png" tvg-country="CN" tvg-url="" group-title="国际高清",延边一台 HD
 http://live.ybtvyun.com/video/s10016-3f1f847a4c2d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="亚洲新闻台" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/cna.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",亚洲新闻台 HD
+#EXTINF:-1 tvg-id="" tvg-name="亚洲新闻台" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/cna.png" tvg-country="CN" tvg-url="" group-title="国际高清",亚洲新闻台 HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/mbc2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",阿拉伯二台 HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/mbc2.png" tvg-country="CN" tvg-url="" group-title="国际高清",阿拉伯二台 HD
 https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/mbc4.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",阿拉伯四台 HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/mbc4.png" tvg-country="CN" tvg-url="" group-title="国际高清",阿拉伯四台 HD
 https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Masr" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/ajtv.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",埃及电视台 HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Masr" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/ajtv.png" tvg-country="CN" tvg-url="" group-title="国际高清",埃及电视台 HD
 https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/olympic.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",奥林匹克 HD
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/olympic.png" tvg-country="CN" tvg-url="" group-title="国际高清",奥林匹克 HD
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1HD Music TV" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/music.png" tvg-country="CN" tvg-url="" group-title="国际高清",俄罗斯1音乐 HD
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWSMAXTV" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/newsmax.png" tvg-country="CN" tvg-url="" group-title="国际高清",美国NEWSMAX HD
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTM TV1" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/mlxy1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",马来西亚一台 HD
+#EXTINF:-1 tvg-id="" tvg-name="RTM TV1" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/mlxy1.png" tvg-country="CN" tvg-url="" group-title="国际高清",马来西亚一台 HD
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTM TV2" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/mlxy2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",马来西亚二台 HD
+#EXTINF:-1 tvg-id="" tvg-name="RTM TV2" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/mlxy2.png" tvg-country="CN" tvg-url="" group-title="国际高清",马来西亚二台 HD
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTB Sukmaindera" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/wenlai.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",文莱电视 HD
+#EXTINF:-1 tvg-id="" tvg-name="RTB Sukmaindera" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/wenlai.png" tvg-country="CN" tvg-url="" group-title="国际高清",文莱电视 HD
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="U频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xjpu.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",新加坡U频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="U频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xjpu.png" tvg-country="CN" tvg-url="" group-title="国际高清",新加坡U频道 HD
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="8频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xjp8.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",新加坡8频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="8频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/xjp8.png" tvg-country="CN" tvg-url="" group-title="国际高清",新加坡8频道 HD
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="5频道" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/xjp5.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",新加坡5频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="5频道" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/xjp5.png" tvg-country="CN" tvg-url="" group-title="国际高清",新加坡5频道 HD
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="S频道" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/xjps.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",新加坡S频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="S频道" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/xjps.png" tvg-country="CN" tvg-url="" group-title="国际高清",新加坡S频道 HD
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/Vasantham.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",新加坡v频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/Vasantham.png" tvg-country="CN" tvg-url="" group-title="国际高清",新加坡v频道 HD
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports News" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/foxsportnew.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",福斯体育新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports News" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/foxsportnew.png" tvg-country="CN" tvg-url="" group-title="国际高清",福斯体育新闻 HD
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Australia Channel" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/adlynew.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="国际高清",澳大利亚新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="Australia Channel" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/adlynew.png" tvg-country="CN" tvg-url="" group-title="国际高清",澳大利亚新闻 HD
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-language="Korea" tvg-logo="https://sppotato.github.io/icon/cgntv2.png" tvg-country="CN" tvg-url="" group-title="国际高清",CGNTV-韩国 HD
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
