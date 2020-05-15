@@ -517,9 +517,10 @@ http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE#http://112.50.2
 http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/fhxg.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",凤凰香港 HD
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE#http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/" tvg-country="CN" tvg-url="" group-title="港澳台高清",中天新闻 HD
-P2p://190.2.146.92:18912/5b20e3ae00008df9e0a235f3dbd73ea4.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="nownew" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/nownew.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",NOW新闻 HD
+http://p2.live.126.net:80/live/36cb9dcf78dd079b9887632fae579410.flv
+#EXTINF:-1 tvg-id="" tvg-name="有线新闻台" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/yxxw.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",有线新闻 HD
+http://p2.live.126.net:80/live/4c177eabaf24144a15232e798a88cc6d.flv
 #EXTINF:-1 tvg-id="" tvg-name="香港亚视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/hkys.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",香港亚视 HD
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="亚旅卫视" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/yltv.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",亚旅卫视 HD
