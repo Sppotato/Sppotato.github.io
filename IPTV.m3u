@@ -326,6 +326,23 @@ http://183.207.255.190/live/program/live/hdnba5/4000000/mnf.m3u8
 http://gccnchwc.v.cdn20.com/gc/xiongmao01_1.flv
 #EXTINF:-1 tvg-id="" tvg-name="体育赛事" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/tyss.png" tvg-country="CN" tvg-url="" group-title="数字高清",体育赛事 HD
 http://39.135.16.150:6610/PLTV/88888888/224/3221226081/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="Dox剧场" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/doxjc.png" tvg-country="CN" tvg-url="" group-title="数字高清",Dox剧场 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="Dox怡家" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/doxyj.png" tvg-country="CN" tvg-url="" group-title="数字高清",Dox怡家 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="Dox新知" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/doxxz.png" tvg-country="CN" tvg-url="" group-title="数字高清",Dox新知 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="Dox新艺" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/doxxy.png" tvg-country="CN" tvg-url="" group-title="数字高清",Dox新艺 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="Dox映画" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/doxxh.png" tvg-country="CN" tvg-url="" group-title="数字高清",Dox映画 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221226039/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="Dox环映" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/doxhy.png" tvg-country="CN" tvg-url="" group-title="数字高清",Dox环映 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="Dox英伦" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/doxyl.png" tvg-country="CN" tvg-url="" group-title="数字高清",Dox英伦 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221226045/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="Dox雅趣" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/doxyq.png" tvg-country="CN" tvg-url="" group-title="数字高清",Dox雅趣 HD
+http://39.135.16.150:6610/PLTV/88888888/224/3221226042/1/index.m3u8?fmt=ts2hls
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="上视外语频道" tvg-language="Chinese" tvg-logo="https://sppotato.github.io/icon/ics.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方高清",上海ICS外语 HD
