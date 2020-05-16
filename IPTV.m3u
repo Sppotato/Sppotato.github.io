@@ -666,11 +666,23 @@ http://59.28.86.246:9981/stream/channelid/61#http://bbstv.clouducs.com:1935/bbst
 http://59.28.86.246:9981/stream/channelid/62
 #EXTINF:-1 tvg-id="" tvg-name="NHK World Premium" tvg-language="" tvg-logo="https://sppotato.github.io/icon/nhkp.png" tvg-country="CN" tvg-url="" group-title="韩国高清",NHK优质付费 HD
 http://59.28.86.246:9981/stream/channelid/67
-
+#EXTINF:-1 tvg-id="" tvg-name="Drama Cube" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cube.png" tvg-country="CN" tvg-url="" group-title="韩国高清",话剧魔方 HD
+http://59.28.86.246:9981/stream/channelid/68
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-language="" tvg-logo="https://sppotato.github.io/icon/spotv.png" tvg-country="CN" tvg-url="" group-title="韩国高清",体育一台 HD
+http://59.28.86.246:9981/stream/channelid/69
 #EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" tvg-language="" tvg-logo="https://sppotato.github.io/icon/mbc5.png" tvg-country="CN" tvg-url="" group-title="韩国高清",MBC戏剧 HD
 http://59.28.86.246:9981/stream/channelid/70
+#EXTINF:-1 tvg-id="" tvg-name="SKY TV" tvg-language="" tvg-logo="https://sppotato.github.io/icon/skytv.png" tvg-country="CN" tvg-url="" group-title="韩国高清",SKY天空 HD
+http://59.28.86.246:9981/stream/channelid/71
+#EXTINF:-1 tvg-id="" tvg-name="ETN TV" tvg-language="" tvg-logo="https://sppotato.github.io/icon/etn.png" tvg-country="CN" tvg-url="" group-title="韩国高清",ETN娱乐 HD
+http://59.28.86.246:9981/stream/channelid/73
+#EXTINF:-1 tvg-id="" tvg-name="育儿放送" tvg-language="" tvg-logo="https://sppotato.github.io/icon/yefs.png" tvg-country="CN" tvg-url="" group-title="韩国高清",育儿放送 HD
+http://59.28.86.246:9981/stream/channelid/75
+#EXTINF:-1 tvg-id="" tvg-name="Mplex" tvg-language="" tvg-logo="https://sppotato.github.io/icon/mplex.png" tvg-country="CN" tvg-url="" group-title="韩国高清",经典影视 HD
+http://59.28.86.246:9981/stream/channelid/76
 #EXTINF:-1 tvg-id="" tvg-name="CMC TV" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cmctv.png" tvg-country="CN" tvg-url="" group-title="韩国高清",CMC家庭娱乐 HD
 http://59.28.86.246:9981/stream/channelid/77
+
 #EXTINF:-1 tvg-id="" tvg-name="JTBC4" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jtbc.png" tvg-country="CN" tvg-url="" group-title="韩国高清",JTBC女性生活 HD
 http://59.28.86.246:9981/stream/channelid/79
 #EXTINF:-1 tvg-id="" tvg-name="国家地理频道" tvg-language="" tvg-logo="https://sppotato.github.io/icon/nga.png" tvg-country="CN" tvg-url="" group-title="韩国高清",国家地理(韩国) HD
