@@ -657,3 +657,7 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 http://live.hcs.cmvideo.cn/wd_r3/virtuallive/5101074616/150/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="" tvg-name="Discovery展播" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/tszb.png" tvg-country="CN" tvg-url="" group-title="国际高清",Discovery展播 HD
 http://live.hcs.cmvideo.cn/wd_r2/virtuallive/5101098146/150/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="NAT Geo" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/" tvg-country="CN" tvg-url="" group-title="国际高清",国家地理 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/38741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NAT Geo Wild" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/" tvg-country="CN" tvg-url="" group-title="国际高清",国家地理野生 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/38742.m3u8
