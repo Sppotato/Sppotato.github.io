@@ -562,13 +562,19 @@ http://61.58.60.230:9319/live/207.m3u8
 http://61.58.60.230:9319/live/244.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="KBS1" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/kbs1.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国KBS一台 HD
-http://59.28.86.246:9981/stream/channelid/92
+http://218.158.60.141:9981/stream/channelid/85
 #EXTINF:-1 tvg-id="" tvg-name="KBS2" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/kbs2.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国KBS二台 HD
-http://121.136.223.243:9981/stream/channelid/991574849
+http://218.158.60.141:9981/stream/channelid/87
 #EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/sbs.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国SBS台 HD
-http://121.136.223.243:9981/stream/channelid/669301651
+http://218.158.60.141:9981/stream/channelid/86
 #EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/mbc.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国MBC台 HD
-http://121.136.223.243:9981/stream/channelid/796979705
+http://218.158.60.141:9981/stream/channelid/84
+#EXTINF:-1 tvg-id="" tvg-name="JTBC" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/jtbc.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国JTBC台 HD
+http://218.158.60.141:9981/stream/channelid/22
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/tvn.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国TVN台 HD
+http://218.158.60.141:9981/stream/channelid/17
+#EXTINF:-1 tvg-id="" tvg-name="KBS DRAMA" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/kbs3.png" tvg-country="CN" tvg-url="" group-title="韩国高清",KBS戏剧台 HD
+http://218.158.60.141:9981/stream/channelid/81
 
 #EXTINF:-1 tvg-id="" tvg-name="Arte HD" tvg-language="korean" tvg-logo="https://sppotato.github.io/icon/arte.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国Arte台 HD
 http://etomatomobile.hscdn.com/artemobile/livestream/chunklist_w1865830476.m3u8
