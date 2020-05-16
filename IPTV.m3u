@@ -561,31 +561,48 @@ http://61.58.60.230:9319/live/207.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="靖天映画" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jtyh.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",靖天映画台 HD
 http://61.58.60.230:9319/live/244.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="KBS1" tvg-language="" tvg-logo="https://sppotato.github.io/icon/kbs1.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国KBS一台 HD
+#EXTINF:-1 tvg-id="" tvg-name="KBS1" tvg-language="" tvg-logo="https://sppotato.github.io/icon/kbs1.png" tvg-country="CN" tvg-url="" group-title="韩国高清",KBS放送公社一台 HD
 http://59.28.86.246:9981/stream/channelid/92
-#EXTINF:-1 tvg-id="" tvg-name="KBS2" tvg-language="" tvg-logo="https://sppotato.github.io/icon/kbs2.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国KBS二台 HD
+#EXTINF:-1 tvg-id="" tvg-name="KBS2" tvg-language="" tvg-logo="https://sppotato.github.io/icon/kbs2.png" tvg-country="CN" tvg-url="" group-title="韩国高清",KBS放送公社二台 HD
 http://59.28.86.246:9981/stream/channelid/96
-#EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-language="" tvg-logo="https://sppotato.github.io/icon/sbs.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国SBS台 HD
+#EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-language="" tvg-logo="https://sppotato.github.io/icon/sbs.png" tvg-country="CN" tvg-url="" group-title="韩国高清",SBS首尔放送 HD
 http://59.28.86.246:9981/stream/channelid/1
-#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-language="" tvg-logo="https://sppotato.github.io/icon/mbc.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国MBC台 HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-language="" tvg-logo="https://sppotato.github.io/icon/mbc.png" tvg-country="CN" tvg-url="" group-title="韩国高清",MBC文化放送 HD
 http://59.28.86.246:9981/stream/channelid/4
-#EXTINF:-1 tvg-id="" tvg-name="JTBC" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jtbc.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国JTBC台 HD
+#EXTINF:-1 tvg-id="" tvg-name="JTBC" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jtbc.png" tvg-country="CN" tvg-url="" group-title="韩国高清",JTBC中央东洋 HD
 http://59.28.86.246:9981/stream/channelid/20
-#EXTINF:-1 tvg-id="" tvg-name="JTBC2" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jtbc.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国JTBC二台 HD
+#EXTINF:-1 tvg-id="" tvg-name="JTBC2" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jtbc.png" tvg-country="CN" tvg-url="" group-title="韩国高清",JTBC综合娱乐 HD
 http://59.28.86.246:9981/stream/channelid/51
-#EXTINF:-1 tvg-id="" tvg-name="JTBC3" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jtbc.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国JTBC三台 HD
+#EXTINF:-1 tvg-id="" tvg-name="JTBC3" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jtbc.png" tvg-country="CN" tvg-url="" group-title="韩国高清",JTBC体育 HD
 http://59.28.86.246:9981/stream/channelid/57
-#EXTINF:-1 tvg-id="" tvg-name="JTBC4" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jtbc.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国JTBC四台 HD
+#EXTINF:-1 tvg-id="" tvg-name="JTBC4" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jtbc.png" tvg-country="CN" tvg-url="" group-title="韩国高清",JTBC女性生活 HD
 http://59.28.86.246:9981/stream/channelid/79
-
-#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-language="" tvg-logo="https://sppotato.github.io/icon/tvn.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国TVN台 HD
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-language="" tvg-logo="https://sppotato.github.io/icon/tvn.png" tvg-country="CN" tvg-url="" group-title="韩国高清",TVN综合娱乐 HD
 http://59.28.86.246:9981/stream/channelid/21
-#EXTINF:-1 tvg-id="" tvg-name="XTVN" tvg-language="" tvg-logo="https://sppotato.github.io/icon/xtvn.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国XTVN台 HD
+#EXTINF:-1 tvg-id="" tvg-name="XTVN" tvg-language="" tvg-logo="https://sppotato.github.io/icon/xtvn.png" tvg-country="CN" tvg-url="" group-title="韩国高清",XTVN新青年 HD
 http://59.28.86.246:9981/stream/channelid/42
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-language="" tvg-logo="https://sppotato.github.io/icon/axn.png" tvg-country="CN" tvg-url="" group-title="韩国高清",AXN(韩国) HD
+http://59.28.86.246:9981/stream/channelid/44
+#EXTINF:-1 tvg-id="" tvg-name="TV Chosu" tvg-language="" tvg-logo="https://sppotato.github.io/icon/tvcx.png" tvg-country="CN" tvg-url="" group-title="韩国高清",TV朝鲜 HD
+http://59.28.86.246:9981/stream/channelid/22
+#EXTINF:-1 tvg-id="" tvg-name="YTN" tvg-language="" tvg-logo="https://sppotato.github.io/icon/ytn.png" tvg-country="CN" tvg-url="" group-title="韩国高清",YTN新闻 HD
+http://59.28.86.246:9981/stream/channelid/28
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV" tvg-language="" tvg-logo="https://sppotato.github.io/icon/hls.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩联社 HD
+http://59.28.86.246:9981/stream/channelid/27
+#EXTINF:-1 tvg-id="" tvg-name="MBN" tvg-language="" tvg-logo="https://sppotato.github.io/icon/mbn.png" tvg-country="CN" tvg-url="" group-title="韩国高清",每日广播 HD
+http://59.28.86.246:9981/stream/channelid/19
+#EXTINF:-1 tvg-id="" tvg-name="SBSCNBC" tvg-language="" tvg-logo="https://sppotato.github.io/icon/sbsnew.png" tvg-country="CN" tvg-url="" group-title="韩国高清",SBS新闻 HD
+http://59.28.86.246:9981/stream/channelid/39
+#EXTINF:-1 tvg-id="" tvg-name="ChannelA" tvg-language="" tvg-logo="https://sppotato.github.io/icon/channela.png" tvg-country="CN" tvg-url="" group-title="韩国高清",A频道 HD
+http://59.28.86.246:9981/stream/channelid/18
+#EXTINF:-1 tvg-id="" tvg-name="MBCDRAMA" tvg-language="" tvg-logo="https://sppotato.github.io/icon/mbc5.png" tvg-country="CN" tvg-url="" group-title="韩国高清",MBC戏剧 HD
+http://59.28.86.246:9981/stream/channelid/70
+#EXTINF:-1 tvg-id="" tvg-name="DRAMAX" tvg-language="" tvg-logo="https://sppotato.github.io/icon/dramax.png" tvg-country="CN" tvg-url="" group-title="韩国高清",DRAMAX HD
+http://59.28.86.246:9981/stream/channelid/43
+
+
 #EXTINF:-1 tvg-id="" tvg-name="KBS DRAMA" tvg-language="" tvg-logo="https://sppotato.github.io/icon/kbs3.png" tvg-country="CN" tvg-url="" group-title="韩国高清",KBS戏剧台 HD
 http://218.158.60.141:9981/stream/channelid/81
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-language="" tvg-logo="https://sppotato.github.io/icon/axn.png" tvg-country="CN" tvg-url="" group-title="韩国高清",AXN(韩国) HD
-http://218.158.60.141:9981/stream/channelid/34
 #EXTINF:-1 tvg-id="" tvg-name="Arte HD" tvg-language="" tvg-logo="https://sppotato.github.io/icon/arte.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国Arte台 HD
 http://etomatomobile.hscdn.com/artemobile/livestream/chunklist_w1865830476.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ArirangTV" tvg-language="" tvg-logo="https://sppotato.github.io/icon/arirang.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国阿里郎 HD
