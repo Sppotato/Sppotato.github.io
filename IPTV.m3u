@@ -599,10 +599,18 @@ http://59.28.86.246:9981/stream/channelid/18
 http://59.28.86.246:9981/stream/channelid/70
 #EXTINF:-1 tvg-id="" tvg-name="DRAMAX" tvg-language="" tvg-logo="https://sppotato.github.io/icon/dramax.png" tvg-country="CN" tvg-url="" group-title="韩国高清",DRAMAX HD
 http://59.28.86.246:9981/stream/channelid/43
-
-
-#EXTINF:-1 tvg-id="" tvg-name="KBS DRAMA" tvg-language="" tvg-logo="https://sppotato.github.io/icon/kbs3.png" tvg-country="CN" tvg-url="" group-title="韩国高清",KBS戏剧台 HD
+#EXTINF:-1 tvg-id="" tvg-name="CNTV1" tvg-language="" tvg-logo="https://sppotato.github.io/icon/kchina1.png" tvg-country="CN" tvg-url="" group-title="韩国高清",中文戏剧 HD
+http://218.158.60.141:9981/stream/channelid/5
+#EXTINF:-1 tvg-id="" tvg-name="CNTV2" tvg-language="" tvg-logo="https://sppotato.github.io/icon/kchina2.png" tvg-country="CN" tvg-url="" group-title="韩国高清",历史戏剧 HD
+http://218.158.60.141:9981/stream/channelid/63
+#EXTINF:-1 tvg-id="" tvg-name="CHING" tvg-language="" tvg-logo="https://sppotato.github.io/icon/kchina3.png" tvg-country="CN" tvg-url="" group-title="韩国高清",CHING戏剧 HD
+http://218.158.60.141:9981/stream/channelid/40
+#EXTINF:-1 tvg-id="" tvg-name="KBS DRAMA" tvg-language="" tvg-logo="https://sppotato.github.io/icon/kbs3.png" tvg-country="CN" tvg-url="" group-title="韩国高清",KBS戏剧 HD
 http://218.158.60.141:9981/stream/channelid/81
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Arte HD" tvg-language="" tvg-logo="https://sppotato.github.io/icon/arte.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国Arte台 HD
 http://etomatomobile.hscdn.com/artemobile/livestream/chunklist_w1865830476.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ArirangTV" tvg-language="" tvg-logo="https://sppotato.github.io/icon/arirang.png" tvg-country="CN" tvg-url="" group-title="韩国高清",韩国阿里郎 HD
