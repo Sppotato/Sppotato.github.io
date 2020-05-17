@@ -106,7 +106,7 @@ http://101.71.255.229:6610/zjhs/2/10096/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://39.130.206.213:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/xmtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",厦门卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/lytv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",海南卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="旅游卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/lytv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",海南卫视 HD
 http://39.135.34.134:8080/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=00000250001B50800001B401420BC069
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/qhtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",青海卫视 HD
 http://live.geermurmt.com/qhws/sd/live.m3u8
@@ -630,7 +630,7 @@ http://59.28.86.246:9981/stream/channelid/33
 http://59.28.86.246:9981/stream/channelid/35
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-language="" tvg-logo="https://sppotato.github.io/icon/fox.png" tvg-country="CN" tvg-url="" group-title="韩国高清",FOX福斯(韩国) HD
 http://59.28.86.246:9981/stream/channelid/36
-#EXTINF:-1 tvg-id="" tvg-name="SCREEN" tvg-language="" tvg-logo="https://sppotato.github.io/icon/screen.png tvg-country="CN" tvg-url="" group-title="韩国高清",SCREEN院线电影 HD
+#EXTINF:-1 tvg-id="" tvg-name="SCREEN" tvg-language="" tvg-logo="https://sppotato.github.io/icon/screen.png" tvg-country="CN" tvg-url="" group-title="韩国高清",SCREEN院线电影 HD
 http://59.28.86.246:9981/stream/channelid/38
 #EXTINF:-1 tvg-id="" tvg-name="SBS CNBC" tvg-language="" tvg-logo="https://sppotato.github.io/icon/sbsnew.png" tvg-country="CN" tvg-url="" group-title="韩国高清",SBS新闻 HD
 http://59.28.86.246:9981/stream/channelid/39
