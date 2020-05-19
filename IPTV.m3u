@@ -4,13 +4,15 @@ http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=L
 #EXTINF:-1 tvg-id="" tvg-name="广东综艺4K" tvg-language="" tvg-logo="https://sppotato.github.io/icon/gdzy.png" tvg-country="CN" tvg-url="" group-title="4K专区",广东综艺4K
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=17&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="纯享4K" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cx4k.png" tvg-country="CN" tvg-url="" group-title="4K专区",纯享4K
-http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="百视通4K" tvg-language="" tvg-logo="https://sppotato.github.io/icon/bestv4k.png" tvg-country="CN" tvg-url="" group-title="4K专区",百视通4K
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="DOX4K" tvg-language="" tvg-logo="https://sppotato.github.io/icon/dox4k.png" tvg-country="CN" tvg-url="" group-title="4K专区",DOX4K
 http://39.135.16.150:6610/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="爱上4K" tvg-language="" tvg-logo="https://sppotato.github.io/icon/love4k.png" tvg-country="CN" tvg-url="" group-title="4K专区",爱上4K
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=092&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江西IPTV4K" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jxiptv.png" tvg-country="CN" tvg-url="" group-title="4K专区",江西IPTV4K
+http://39.135.140.14:6610/PLTV/88888888/224/3221225978/2/index.m3u8?fmt=ts2hls
 
 
 
@@ -45,7 +47,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv12.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-12社会与法 HD
 http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv13.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-13新闻 HD
-http://39.134.134.134:8080/119.28.164.85/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
+http://183.232.184.143/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv14.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-14少儿 HD
 http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv15.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-15音乐 HD
@@ -53,9 +55,9 @@ http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv17.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-17农村农业 HD
 http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-4K HD
-http://39.134.134.134:8080/119.28.164.85/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
+http://183.232.184.143/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cgtn.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CGTN-环球国际 HD
-http://39.134.134.134:8080/119.28.164.85/outlivecloud-cdn.ysp.cctv.cn/cctv/2001656803.m3u8
+http://183.232.184.143/outlivecloud-cdn.ysp.cctv.cn/cctv/2001656803.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTNDocumentary" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cgtnd.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CGTN-纪录 HD
 http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国教育1台" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cetv1.png" tvg-country="CN" tvg-url="" group-title="卫视高清",中国教育一台 HD
@@ -101,7 +103,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225947/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cqtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",重庆卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225949/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/gxtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",广西卫视 HD
-http://39.134.134.134:8080/119.28.164.85/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294203.m3u8
+http://183.232.184.143/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294203.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jltv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",吉林卫视 HD
 http://101.71.255.229:6610/zjhs/2/10096/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/yntv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",云南卫视 HD
@@ -124,8 +126,6 @@ http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-language="" tvg-logo="https://sppotato.github.io/icon/sdjy.png" tvg-country="CN" tvg-url="" group-title="卫视高清",山东教育 HD
 http://120.221.5.113:8089/PLTV/88888888/224/3221226049/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="咪咕体育" tvg-language="" tvg-logo="https://sppotato.github.io/icon/migu.png" tvg-country="CN" tvg-url="" group-title="卫视高清",咪咕体育 HD
-http://112.50.243.8/PLTV/88888888/224/3221226833/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-language="" tvg-logo="https://sppotato.github.io/icon/chc1.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CHC高清电影
 http://s5117133.m.awhost.cn/dl/gz.php?id=chcgqdy#http://125.210.152.18:9090/live/CHCGQDY.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-language="" tvg-logo="https://sppotato.github.io/icon/chc2.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CHC动作电影
