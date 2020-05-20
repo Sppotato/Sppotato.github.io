@@ -11,7 +11,7 @@ http://117.148.187.46/PLTV/88888888/224/3221226718/index.m3u8
 http://39.135.16.150:6610/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="爱上4K" tvg-language="" tvg-logo="https://sppotato.github.io/icon/love4k.png" tvg-country="CN" tvg-url="" group-title="4K专区",爱上4K
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=092&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="江西IPTV4K" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jxiptv.png" tvg-country="CN" tvg-url="" group-title="4K专区",江西IPTV4K
+#EXTINF:-1 tvg-id="" tvg-name="4K音乐现场" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jxiptv.png" tvg-country="CN" tvg-url="" group-title="4K专区",4K音乐现场
 http://39.135.140.14:6610/PLTV/88888888/224/3221225978/2/index.m3u8?fmt=ts2hls
 
 
@@ -108,6 +108,8 @@ http://183.232.184.143/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294203.m3u8
 http://101.71.255.229:6610/zjhs/2/10096/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/yntv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",云南卫视 HD
 http://39.130.206.213:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/gstv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",甘肃卫视 HD
+http://117.156.28.88/270000001111/1110000072/index.m3u8?i
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/xmtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",厦门卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="旅游卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/lytv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",海南卫视 HD
@@ -148,13 +150,11 @@ http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=19&FvSeid=1&Fsv_ctype=L
 #EXTINF:-1 tvg-id="" tvg-name="珠江电影" tvg-language="" tvg-logo="https://sppotato.github.io/icon/zjdy.png" tvg-country="CN" tvg-url="" group-title="卫视标清",珠江电影
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=39&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/nmgtv.png" tvg-country="CN" tvg-url="" group-title="卫视标清",内蒙古卫视
-http://180.97.178.181/cdn-out.iqy.sc96655.com/tslive/c213_scc_20190618_mgfhomhn_original_r10/c213_scc_20190618_mgfhomhn_original_r10.m3u8?key=028286430187fa43d8264f6f0bcec458d#http://112.50.243.8/PLTV/88888888/224/3221225846/1.m3u8
+http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel93/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-language="" tvg-logo="https://sppotato.github.io/icon/sdjy.png" tvg-country="CN" tvg-url="" group-title="卫视标清",山东教育
 http://112.50.243.8/PLTV/88888888/224/3221225873/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/sxws.png" tvg-country="CN" tvg-url="" group-title="卫视标清",山西卫视
-http://180.97.178.181/cdn-out.iqy.sc96655.com/tslive/c214_scc_20190618_wrbc04ks_original_r10/c214_scc_20190618_wrbc04ks_original_r10.m3u8?key=028286430187fa43d8264f6f0bcec458d#http://112.50.243.8/PLTV/88888888/224/3221225839/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/gstv.png" tvg-country="CN" tvg-url="" group-title="卫视标清",甘肃卫视
-http://180.97.178.181/cdn-out.iqy.sc96655.com/tslive/c214_scc_20190618_5pkk3m0j_original_r10/c214_scc_20190618_5pkk3m0j_original_r10.m3u8?key=028286430187fa43d8264f6f0bcec458d#http://112.50.243.8/PLTV/88888888/224/3221225845/1.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225839/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/sxtv.png" tvg-country="CN" tvg-url="" group-title="卫视标清",陕西卫视
 http://112.50.243.8/PLTV/88888888/224/3221225850/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/qhtv.png" tvg-country="CN" tvg-url="" group-title="卫视标清",青海卫视
@@ -164,11 +164,9 @@ http://101.71.255.229:6610/zjhs/2/10049/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/bttv.png" tvg-country="CN" tvg-url="" group-title="卫视标清",兵团卫视
 http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/nxtv.png" tvg-country="CN" tvg-url="" group-title="卫视标清",宁夏卫视
-http://180.97.178.181/cdn-out.iqy.sc96655.com/tslive/c212_scc_20190618_tfzeigwy_original_r10/c212_scc_20190618_tfzeigwy_original_r10.m3u8?key=028286430187fa43d8264f6f0bcec458d#http://112.50.243.8/PLTV/88888888/224/3221225849/1.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225849/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/xjtv.png" tvg-country="CN" tvg-url="" group-title="卫视标清",新疆卫视
 http://112.50.243.8/PLTV/88888888/224/3221225852/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/kbtv.png" tvg-country="CN" tvg-url="" group-title="卫视标清",康巴卫视
-http://112.50.243.8/PLTV/88888888/224/3221225856/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jykt.png" tvg-country="CN" tvg-url="" group-title="卫视标清",金鹰卡通
 http://112.50.243.8/PLTV/88888888/224/3221225870/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-language="" tvg-logo="https://sppotato.github.io/icon/ymkt.png" tvg-country="CN" tvg-url="" group-title="卫视标清",优漫卡通
@@ -206,7 +204,7 @@ http://39.135.140.14:6610/PLTV/88888888/224/3221225521/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="汽摩" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cqqm.png" tvg-country="CN" tvg-url="" group-title="卫视标清",重庆汽摩
 http://39.135.140.14:6610/PLTV/88888888/224/3221225506/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="靓妆频道" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jslz.png" tvg-country="CN" tvg-url="" group-title="卫视标清",江苏靓妆
-http://180.97.178.181/cdn-out.iqy.sc96655.com/tslive/c211_scc_20190618_n0r5emy4_original_r10/c211_scc_20190618_n0r5emy4_original_r10.m3u8?key=028286430187fa43d8264f6f0bcec458d#http://39.135.140.14:6610/PLTV/88888888/224/3221225509/2/index.m3u8?fmt=ts2hls
+http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51015/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="梨园" tvg-language="" tvg-logo="https://sppotato.github.io/icon/hnly.png" tvg-country="CN" tvg-url="" group-title="卫视标清",河南梨园
 http://39.135.140.14:6610/PLTV/88888888/224/3221225581/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="武术世界" tvg-language="" tvg-logo="https://sppotato.github.io/icon/wssj.png" tvg-country="CN" tvg-url="" group-title="卫视标清",武术世界
@@ -416,12 +414,20 @@ http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel41112/index.m3u8
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43064/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="娄底综合" tvg-language="" tvg-logo="https://sppotato.github.io/icon/loudizh.png" tvg-country="CN" tvg-url="" group-title="地方高清",娄底综合 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43069/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东莞一台" tvg-language="" tvg-logo="https://sppotato.github.io/icon/dongguan1.png" tvg-country="CN" tvg-url="" group-title="地方高清",东莞一台 HD
+广东东莞1,http://stream.sun0769.com/dgrtv1/mp4:tv1/index.m3u8?channel=1&t=1570433642&ttl=28800&key=fb99d0fff7b90f29b3bfbbc78f33f069&wsSession=371ea2ad6e9512a5c9274689-157043356571382&wsIPSercert=a0a4b2a9962adcf715f749eb9fe2638a&wsMonitor=0
+#EXTINF:-1 tvg-id="" tvg-name="东莞二台" tvg-language="" tvg-logo="https://sppotato.github.io/icon/dongguan2.png" tvg-country="CN" tvg-url="" group-title="地方高清",东莞二台 HD
+http://stream.sun0769.com/dgrtv1/mp4:tv2/index.m3u8?channel=1&t=1570433512&ttl=28800&key=fe65e427e0b58aec039809377c04b1e0&wsSession=371ea2ad6e9512a5c9274689-157043356571382&wsIPSercert=a0a4b2a9962adcf715f749eb9fe2638a&wsMonitor=0
+#EXTINF:-1 tvg-id="" tvg-name="番禺综合" tvg-language="" tvg-logo="https://sppotato.github.io/icon/panyu.png" tvg-country="CN" tvg-url="" group-title="地方高清",番禺综合 HD
+http://live.pybtv.cn/channel1/sd/live.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="新华中文" tvg-language="" tvg-logo="https://sppotato.github.io/icon/xhzw.png" tvg-country="CN" tvg-url="" group-title="地方720P",新华中文
+#EXTINF:-1 tvg-id="" tvg-name="新华中文" tvg-language="" tvg-logo="https://sppotato.github.io/icon/xhzw.png" tvg-country="CN" tvg-url="" group-title="地方720P",新华中文 HD
 http://livecdn1.news.cn/cnccn/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-language="" tvg-logo="https://sppotato.github.io/icon/gdty.png" tvg-country="CN" tvg-url="" group-title="地方720P",广东体育 HD
+http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="峨嵋电影" tvg-language="" tvg-logo="https://sppotato.github.io/icon/emdy.png" tvg-country="CN" tvg-url="" group-title="地方720P",峨眉电影 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51008/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCTV2" tvg-language="" tvg-logo="https://sppotato.github.io/icon/sctv2.png" tvg-country="CN" tvg-url="" group-title="地方720P",四川文化旅游 HD
@@ -434,8 +440,26 @@ http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51003/index.m3u8
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51004/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCTV7" tvg-language="" tvg-logo="https://sppotato.github.io/icon/sctv7.png" tvg-country="CN" tvg-url="" group-title="地方720P",四川妇女儿童 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51005/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-language="" tvg-logo="https://sppotato.github.io/icon/gdty.png" tvg-country="CN" tvg-url="" group-title="地方720P",广东体育 HD
-http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/kbtv.png" tvg-country="CN" tvg-url="" group-title="地方720P",四川康巴卫视 HD
+http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南教育" tvg-language="" tvg-logo="https://sppotato.github.io/icon/hunanjy.png" tvg-country="CN" tvg-url="" group-title="地方720P",湖南教育 HD
+http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43021/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南经视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/hnjs.png" tvg-country="CN" tvg-url="" group-title="地方720P",湖南经视 HD
+http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43024/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南娱乐" tvg-language="" tvg-logo="https://sppotato.github.io/icon/hnyl.png" tvg-country="CN" tvg-url="" group-title="地方720P",湖南娱乐 HD
+http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43027/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南都市" tvg-language="" tvg-logo="https://sppotato.github.io/icon/hnds.png" tvg-country="CN" tvg-url="" group-title="地方720P",湖南都市 HD
+http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43028/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南电影" tvg-language="" tvg-logo="https://sppotato.github.io/icon/hndy.png" tvg-country="CN" tvg-url="" group-title="地方720P",湖南电影 HD
+http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43029/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南电视剧" tvg-language="" tvg-logo="https://sppotato.github.io/icon/hndsj.png" tvg-country="CN" tvg-url="" group-title="地方720P",湖南电视剧 HD
+http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43030/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南公共" tvg-language="" tvg-logo="https://sppotato.github.io/icon/hngg.png" tvg-country="CN" tvg-url="" group-title="地方720P",湖南公共 HD
+http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43031/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江西陶瓷" tvg-language="" tvg-logo="https://sppotato.github.io/icon/hngg.png" tvg-country="CN" tvg-url="" group-title="地方720P",江西陶瓷 HD
+http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43049/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="石家庄综合" tvg-language="" tvg-logo="https://sppotato.github.io/icon/shijiazhuang.png" tvg-country="CN" tvg-url="" group-title="地方720P",石家庄综合 HD
+http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel13014/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="达州新闻综合" tvg-language="" tvg-logo="https://sppotato.github.io/icon/dzzh.png" tvg-country="CN" tvg-url="" group-title="地方720P",达州新闻综合 HD
 http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="达州公共" tvg-language="" tvg-logo="https://sppotato.github.io/icon/dzgg.png" tvg-country="CN" tvg-url="" group-title="地方720P",达州公共 HD
