@@ -708,8 +708,6 @@ http://61.58.60.230:9319/live/206.m3u8
 http://61.58.60.230:9319/live/207.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="靖天映画" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jtyh.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",靖天映画 HD
 http://61.58.60.230:9319/live/244.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-language="" tvg-logo="https://sppotato.github.io/icon/msxw.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",民视新闻 HD
-https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天映频道" tvg-language="" tvg-logo="https://sppotato.github.io/icon/tianying.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",天映频道 HD
 http://bddb.228888888.xyz:8081/live/ws109.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天映经典" tvg-language="" tvg-logo="https://sppotato.github.io/icon/tianyingjd.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",天映经典 HD
@@ -725,15 +723,13 @@ http://bddb.228888888.xyz:8081/live/ws106.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOXCRIME" tvg-language="" tvg-logo="https://sppotato.github.io/icon/foxcrime.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",FOX警匪影院 HD
 http://bddb.228888888.xyz:8081/live/ws107.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FXHD" tvg-language="" tvg-logo="https://sppotato.github.io/icon/fx.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",FX HD
-FXHD,http://bddb.228888888.xyz:8081/live/ws108.m3u8
+http://bddb.228888888.xyz:8081/live/ws108.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="国家地理悠人频道" tvg-language="" tvg-logo="https://sppotato.github.io/icon/ngopeople.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",国家地理悠人 HD
 http://bddb.228888888.xyz:8081/live/ws143.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="国家地理野生频道" tvg-language="" tvg-logo="https://sppotato.github.io/icon/ngowild.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",国家地理野生 HD
 http://bddb.228888888.xyz:8081/live/ws145.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="动物星球" tvg-language="" tvg-logo="https://sppotato.github.io/icon/animal.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",动物星球 HD
 http://bddb.228888888.xyz:8081/live/ws151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cinemax.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",CINEMAX电影 HD
-http://111.13.111.192/211.75.9.37:20020/20023
 
 
 
