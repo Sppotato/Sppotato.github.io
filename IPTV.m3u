@@ -18,17 +18,17 @@ http://122.97.211.219:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE
 #EXTINF:-1 tvg-id="" tvg-name="4K宣传" tvg-language="" tvg-logo="https://sppotato.github.io/icon/iptvyy.png" tvg-country="CN" tvg-url="" group-title="4K专区",江苏4K宣传
 http://122.97.211.220:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=11686&Fsv_otype=0&Provider_id=&Pcontent_id=
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv1.png" tvg-country="CN" tvg-url="http://epg.iwouo.com/epgimport/rytec.channels.xml.gz" group-title="卫视高清",CCTV-1综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv1.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-1综合 HD
 http://112.50.243.8/PLTV/88888888/224/3221226908/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv2.png" tvg-country="CN" tvg-url="http://epg.iwouo.com/epgimport/rytec.channels.xml.gz" group-title="卫视高清",CCTV-2财经 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv2.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-2财经 HD
 http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv3.png" tvg-country="CN" tvg-url="http://epg.iwouo.com/epgimport/rytec.channels.xml.gz" group-title="卫视高清",CCTV-3综艺 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv3.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-3综艺 HD
 http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv4.png" tvg-country="CN" tvg-url="http://epg.iwouo.com/epgimport/rytec.channels.xml.gz" group-title="卫视高清",CCTV-4中文国际 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv4.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-4中文国际 HD
 http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv4.png" tvg-country="CN" tvg-url="http://epg.iwouo.com/epgimport/rytec.channels.xml.gz" group-title="卫视高清",CCTV-4中文国际欧洲 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv4.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-4中文国际欧洲 HD
 http://live.hcs.cmvideo.cn/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv4.png" tvg-country="CN" tvg-url="http://epg.iwouo.com/epgimport/rytec.channels.xml.gz" group-title="卫视高清",CCTV-4中文国际美洲 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv4.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-4中文国际美洲 HD
 http://live.hcs.cmvideo.cn/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv5.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CCTV-5体育 HD
 http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -64,7 +64,7 @@ http://183.232.184.143/outlivecloud-cdn.ysp.cctv.cn/cctv/2001656803.m3u8
 http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国教育1台" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cetv1.png" tvg-country="CN" tvg-url="" group-title="卫视高清",中国教育一台 HD
 http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/hntv.png" tvg-country="CN" tvg-url="http://epg.iwouo.com/epgimport/rytec.channels.xml.gz" group-title="卫视高清",湖南卫视 HD
+#EXTINF:-1 tvg-id="hunandianshitai-hnws" tvg-name="湖南卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/hntv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",湖南卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225935/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jstv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",江苏卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221226869/1.m3u8
