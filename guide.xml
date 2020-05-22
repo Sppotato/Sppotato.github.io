@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="latin-1"?>
+<sources>
+<channel name="rytec.channels.xml.gz">
+    <url>http://epg.iwouo.com/epgimport/rytec.channels.xml.gz</url>
+    </channel>
+<source type="gen_xmltv" channels="rytec.channels.xml.gz">
+	<description>Bahala epg</description>
+	<url>http://47.96.80.228:8089/epg/file/getFile.do?account=334966681&amp;password=334966681MWTJADG</url>
+</source>
+</sources>
