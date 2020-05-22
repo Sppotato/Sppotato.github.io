@@ -105,9 +105,9 @@ http://112.50.243.8/PLTV/88888888/224/3221225947/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cqtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",重庆卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225949/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/gxtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",广西卫视 HD
-http://183.232.184.143/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294203.m3u8
+http://183.232.184.143/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294203.m3u8#http://ivi.bupt.edu.cn/hls/gxhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jltv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",吉林卫视 HD
-http://101.71.255.229:6610/zjhs/2/10096/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+http://101.71.255.229:6610/zjhs/2/10096/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://ivi.bupt.edu.cn/hls/jlhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/yntv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",云南卫视 HD
 http://39.130.206.213:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/gstv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",甘肃卫视 HD
@@ -115,7 +115,7 @@ http://117.156.28.88/270000001111/1110000072/index.m3u8?i
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/xmtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",厦门卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="旅游卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/lytv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",海南卫视 HD
-http://39.135.34.134:8080/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=00000250001B50800001B401420BC069
+http://39.135.34.134:8080/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=00000250001B50800001B401420BC069#http://ivi.bupt.edu.cn/hls/lyhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/qhtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",青海卫视 HD
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/xjtv.png" tvg-country="CN" tvg-url="" group-title="卫视高清",新疆卫视 HD
@@ -137,9 +137,11 @@ http://s5117133.m.awhost.cn/dl/gz.php?id=chcdzdy
 #EXTINF:-1 tvg-id="" tvg-name="CHC家庭电影" tvg-language="" tvg-logo="https://sppotato.github.io/icon/chc3.png" tvg-country="CN" tvg-url="" group-title="卫视高清",CHC家庭影院
 http://s5117133.m.awhost.cn/dl/gz.php?id=chcjtyy
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-language="" tvg-logo="https://sppotato.github.io/icon/fhzw.png" tvg-country="CN" tvg-url="" group-title="卫视高清",凤凰中文 HD
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
+http://tv.sason.xyz/proxy/fh.php?id=zw#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-language="" tvg-logo="https://sppotato.github.io/icon/fhzx.png" tvg-country="CN" tvg-url="" group-title="卫视高清",凤凰资讯 HD
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
+http://tv.sason.xyz/proxy/fh.php?id=zx#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-language="" tvg-logo="https://sppotato.github.io/icon/fhxg.png" tvg-country="CN" tvg-url="" group-title="卫视高清",凤凰香港 HD
+http://tv.sason.xyz/proxy/fh.php?id=hk#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 
 
 
@@ -258,7 +260,7 @@ http://183.207.255.190/live/program/live/jspdhd/4000000/mnf.m3u8
 http://183.207.255.190/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江公共新闻" tvg-language="" tvg-logo="https://sppotato.github.io/icon/zjgg.png" tvg-country="CN" tvg-url="" group-title="地方高清",浙江公共新闻 HD
 http://ali.m.l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-language="" tvg-logo="https://sppotato.github.io/icon/zjgj.png" tvg-country="CN" tvg-url="" group-title="地方高清",浙江国际 HD
+#EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-language="" tvg-logo="https://sppotato.github.io/icon/zjgj.png" tvg-country="CN" tvg-url="http://47.96.80.228:8089/epg/file/getFile.do?account=334966681&amp;password=334966681MWTJADG" group-title="地方高清",浙江国际 HD
 http://ali.m.l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江少儿" tvg-language="" tvg-logo="https://sppotato.github.io/icon/zjse.png" tvg-country="CN" tvg-url="" group-title="地方高清",浙江少儿 HD
 http://ali.m.l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -274,7 +276,7 @@ http://ali.m.l.cztv.com/channels/lantian/channel006/1080p.m3u8
 http://ali.m.l.cztv.com/channels/lantian/channel009/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江经济生活" tvg-language="" tvg-logo="https://sppotato.github.io/icon/zjjj.png" tvg-country="CN" tvg-url="" group-title="地方高清",浙江经济生活 HD
 http://ali.m.l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江钱江" tvg-language="" tvg-logo="https://sppotato.github.io/icon/zjqj.png" tvg-country="CN" tvg-url="" group-title="地方高清",浙江钱江 HD
+#EXTINF:-1 tvg-id="" tvg-name="钱江频道" tvg-language="" tvg-logo="https://sppotato.github.io/icon/zjqj.png" tvg-country="CN" tvg-url="http://47.96.80.228:8089/epg/file/getFile.do?account=334966681&amp;password=334966681MWTJADG" group-title="地方高清",浙江钱江 HD
 http://ali.m.l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江移动轮播" tvg-language="" tvg-logo="https://sppotato.github.io/icon/zjyd.png" tvg-country="CN" tvg-url="" group-title="地方高清",浙江移动轮播 HD
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229434/01.m3u8?fmt=ts2hls
@@ -416,10 +418,6 @@ http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel41112/index.m3u8
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43064/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="娄底综合" tvg-language="" tvg-logo="https://sppotato.github.io/icon/loudizh.png" tvg-country="CN" tvg-url="" group-title="地方高清",娄底综合 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43069/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东莞一台" tvg-language="" tvg-logo="https://sppotato.github.io/icon/dongguan1.png" tvg-country="CN" tvg-url="" group-title="地方高清",东莞一台 HD
-广东东莞1,http://stream.sun0769.com/dgrtv1/mp4:tv1/index.m3u8?channel=1&t=1570433642&ttl=28800&key=fb99d0fff7b90f29b3bfbbc78f33f069&wsSession=371ea2ad6e9512a5c9274689-157043356571382&wsIPSercert=a0a4b2a9962adcf715f749eb9fe2638a&wsMonitor=0
-#EXTINF:-1 tvg-id="" tvg-name="东莞二台" tvg-language="" tvg-logo="https://sppotato.github.io/icon/dongguan2.png" tvg-country="CN" tvg-url="" group-title="地方高清",东莞二台 HD
-http://stream.sun0769.com/dgrtv1/mp4:tv2/index.m3u8?channel=1&t=1570433512&ttl=28800&key=fe65e427e0b58aec039809377c04b1e0&wsSession=371ea2ad6e9512a5c9274689-157043356571382&wsIPSercert=a0a4b2a9962adcf715f749eb9fe2638a&wsMonitor=0
 #EXTINF:-1 tvg-id="" tvg-name="番禺综合" tvg-language="" tvg-logo="https://sppotato.github.io/icon/panyu.png" tvg-country="CN" tvg-url="" group-title="地方高清",番禺综合 HD
 http://live.pybtv.cn/channel1/sd/live.m3u8
 
@@ -458,8 +456,6 @@ http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43029/index.m3u8
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43030/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南公共" tvg-language="" tvg-logo="https://sppotato.github.io/icon/hngg.png" tvg-country="CN" tvg-url="" group-title="地方720P",湖南公共 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43031/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="江西陶瓷" tvg-language="" tvg-logo="https://sppotato.github.io/icon/hngg.png" tvg-country="CN" tvg-url="" group-title="地方720P",江西陶瓷 HD
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43049/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="石家庄综合" tvg-language="" tvg-logo="https://sppotato.github.io/icon/shijiazhuang.png" tvg-country="CN" tvg-url="" group-title="地方720P",石家庄综合 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel13014/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="达州新闻综合" tvg-language="" tvg-logo="https://sppotato.github.io/icon/dzzh.png" tvg-country="CN" tvg-url="" group-title="地方720P",达州新闻综合 HD
@@ -693,8 +689,6 @@ http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f
 https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="有线财经资讯台" tvg-language="" tvg-logo="https://sppotato.github.io/icon/yxcj.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",有线财经资讯 HD
 https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-language="" tvg-logo="https://sppotato.github.io/icon/fhxg.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",凤凰香港 HD
-http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE#http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港亚视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/hkys.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",香港亚视 HD
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="亚旅卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/yltv.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",亚旅卫视 HD
@@ -731,28 +725,6 @@ http://61.58.60.230:9319/live/206.m3u8
 http://61.58.60.230:9319/live/207.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="靖天映画" tvg-language="" tvg-logo="https://sppotato.github.io/icon/jtyh.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",靖天映画 HD
 http://61.58.60.230:9319/live/244.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="天映频道" tvg-language="" tvg-logo="https://sppotato.github.io/icon/tianying.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",天映频道 HD
-http://bddb.228888888.xyz:8081/live/ws109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="天映经典" tvg-language="" tvg-logo="https://sppotato.github.io/icon/tianyingjd.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",天映经典 HD
-http://bddb.228888888.xyz:8081/live/ws110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="卫视电影台" tvg-language="" tvg-logo="https://sppotato.github.io/icon/weishidianying.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",卫视电影台 HD
-http://bddb.228888888.xyz:8081/live/ws101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="F0X" tvg-language="" tvg-logo="https://sppotato.github.io/icon/fox.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",FOX HD
-http://bddb.228888888.xyz:8081/live/ws104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOXActionMovies" tvg-language="" tvg-logo="https://sppotato.github.io/icon/foxaction.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",FOX动作影院 HD
-http://bddb.228888888.xyz:8081/live/ws105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FoxFamilyMovies" tvg-language="" tvg-logo="https://sppotato.github.io/icon/foxfamily.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",FOX家庭影院 HD
-http://bddb.228888888.xyz:8081/live/ws106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOXCRIME" tvg-language="" tvg-logo="https://sppotato.github.io/icon/foxcrime.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",FOX警匪影院 HD
-http://bddb.228888888.xyz:8081/live/ws107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FXHD" tvg-language="" tvg-logo="https://sppotato.github.io/icon/fx.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",FX HD
-http://bddb.228888888.xyz:8081/live/ws108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="国家地理悠人频道" tvg-language="" tvg-logo="https://sppotato.github.io/icon/ngopeople.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",国家地理悠人 HD
-http://bddb.228888888.xyz:8081/live/ws143.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="国家地理野生频道" tvg-language="" tvg-logo="https://sppotato.github.io/icon/ngowild.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",国家地理野生 HD
-http://bddb.228888888.xyz:8081/live/ws145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="动物星球" tvg-language="" tvg-logo="https://sppotato.github.io/icon/animal.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",动物星球 HD
-http://bddb.228888888.xyz:8081/live/ws151.m3u8
 
 
 
@@ -787,8 +759,6 @@ https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
 https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC Masr" tvg-language="" tvg-logo="https://sppotato.github.io/icon/ajtv.png" tvg-country="CN" tvg-url="" group-title="国际高清",埃及电视台 HD
 https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel" tvg-language="" tvg-logo="https://sppotato.github.io/icon/olympic.png" tvg-country="CN" tvg-url="" group-title="国际高清",奥林匹克 HD
-https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1HD Music TV" tvg-language="" tvg-logo="https://sppotato.github.io/icon/music.png" tvg-country="CN" tvg-url="" group-title="国际高清",俄罗斯1音乐 HD
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWSMAXTV" tvg-language="" tvg-logo="https://sppotato.github.io/icon/newsmax.png" tvg-country="CN" tvg-url="" group-title="国际高清",美国NEWSMAX HD
