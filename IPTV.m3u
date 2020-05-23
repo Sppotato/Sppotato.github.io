@@ -700,7 +700,7 @@ https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94
 #EXTINF:-1 tvg-id="" tvg-name="香港有线财经台" tvg-language="" tvg-logo="https://sppotato.github.io/icon/yxcj.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",有线财经资讯 HD
 https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港亚视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/hkys.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",香港亚视 HD
-https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="亚旅卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/yltv.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",亚旅卫视 HD
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="cnex" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cnex.png" tvg-country="CN" tvg-url="" group-title="港澳台高清",CNEX纪录片 HD
@@ -811,6 +811,8 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Australia Channel" tvg-language="" tvg-logo="https://sppotato.github.io/icon/adlynew.png" tvg-country="CN" tvg-url="" group-title="国际高清",澳大利亚-新闻时事 HD
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-language="" tvg-logo="https://sppotato.github.io/icon/arirang.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国-阿里郎 HD
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KCTV" tvg-language="" tvg-logo="https://sppotato.github.io/icon/kctv.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国-KCTV HD
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-language="Korea" tvg-logo="https://sppotato.github.io/icon/cgntv2.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国-CGN宗教 HD
@@ -829,6 +831,9 @@ http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="探索频道" tvg-language="" tvg-logo="https://sppotato.github.io/icon/discovery.png" tvg-country="CN" tvg-url="" group-title="国际高清FQ",西班牙-探索频道 HD
+http://145.239.255.4:8080/en-Discovery-HD/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="HBOFamily" tvg-language="" tvg-logo="https://sppotato.github.io/icon/hbofamily.png" tvg-country="CN" tvg-url="" group-title="国际高清FQ",西班牙-HBO家庭影院 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/6908
 #EXTINF:-1 tvg-id="" tvg-name="国家地理野生" tvg-language="" tvg-logo="https://sppotato.github.io/icon/ngowild.png" tvg-country="CN" tvg-url="" group-title="国际高清FQ",西班牙-国家地理野生 HD
