@@ -817,22 +817,30 @@ http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGNTV中文" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cgntv1.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国-CGN中文 HD
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/chunklist_w1705401687.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGNTV日本" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/cgntv3.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国-CGN日语 HD
+#EXTINF:-1 tvg-id="" tvg-name="CGNTV日本" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cgntv3.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国-CGN日语 HD
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK华语视界" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/nhk2.png" tvg-country="CN" tvg-url="" group-title="国际高清",日本-NHK华语视界 HD
+#EXTINF:-1 tvg-id="" tvg-name="NHK华语视界" tvg-language="" tvg-logo="https://sppotato.github.io/icon/nhk2.png" tvg-country="CN" tvg-url="" group-title="国际高清",日本-NHK华语视界 HD
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK世界新闻" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/nhk.png" tvg-country="CN" tvg-url="" group-title="国际高清",日本-NHK环球国际 HD
+#EXTINF:-1 tvg-id="" tvg-name="NHK世界新闻" tvg-language="" tvg-logo="https://sppotato.github.io/icon/nhk.png" tvg-country="CN" tvg-url="" group-title="国际高清",日本-NHK环球国际 HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WNI" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/wni.png" tvg-country="CN" tvg-url="" group-title="国际高清",日本-气象新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="WNI" tvg-language="" tvg-logo="https://sppotato.github.io/icon/wni.png" tvg-country="CN" tvg-url="" group-title="国际高清",日本-气象新闻 HD
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WNI2" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/wni2.png" tvg-country="CN" tvg-url="" group-title="国际高清",日本-地震气象 HD
+#EXTINF:-1 tvg-id="" tvg-name="WNI2" tvg-language="" tvg-logo="https://sppotato.github.io/icon/wni2.png" tvg-country="CN" tvg-url="" group-title="国际高清",日本-地震气象 HD
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="国家地理野生" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/ngowild.png" tvg-country="CN" tvg-url="" group-title="国际高清FQ",美国-国家地理野生 HD
+#EXTINF:-1 tvg-id="" tvg-name="HBOFamily" tvg-language="" tvg-logo="https://sppotato.github.io/icon/hbofamily.png" tvg-country="CN" tvg-url="" group-title="国际高清FQ",西班牙-HBO家庭影院 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6908
+#EXTINF:-1 tvg-id="" tvg-name="国家地理野生" tvg-language="" tvg-logo="https://sppotato.github.io/icon/ngowild.png" tvg-country="CN" tvg-url="" group-title="国际高清FQ",西班牙-国家地理野生 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/2848
-#EXTINF:-1 tvg-id="" tvg-name="国家地理" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/ngo.png" tvg-country="CN" tvg-url="" group-title="国际高清FQ",美国-国家地理 HD
+#EXTINF:-1 tvg-id="" tvg-name="国家地理" tvg-language="" tvg-logo="https://sppotato.github.io/icon/ngo.png" tvg-country="CN" tvg-url="" group-title="国际高清FQ",西班牙-国家地理 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/2850
-
+#EXTINF:-1 tvg-id="" tvg-name="MTV音乐HD" tvg-language="" tvg-logo="https://sppotato.github.io/icon/mtv.png" tvg-country="CN" tvg-url="" group-title="国际高清FQ",西班牙-MTV音乐台 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4390
+#EXTINF:-1 tvg-id="" tvg-name="MTVLIVE" tvg-language="" tvg-logo="https://sppotato.github.io/icon/mtvlive.png" tvg-country="CN" tvg-url="" group-title="国际高清FQ",西班牙-MTV音乐现场 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4389
+#EXTINF:-1 tvg-id="" tvg-name="FOX频道" tvg-language="" tvg-logo="https://sppotato.github.io/icon/fox.png" tvg-country="CN" tvg-url="" group-title="国际高清FQ",西班牙-FOX频道 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6913
+#EXTINF:-1 tvg-id="" tvg-name="FX频道" tvg-language="" tvg-logo="https://sppotato.github.io/icon/fx.png" tvg-country="CN" tvg-url="" group-title="国际高清FQ",西班牙-FX频道 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6853
 
