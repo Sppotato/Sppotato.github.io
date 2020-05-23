@@ -532,41 +532,6 @@ http://live.hcs.cmvideo.cn/wd_r2/virtuallive/5101098146/150/index.m3u8?&encrypt=
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" tvg-country="CN" tvg-url="" group-title="绵阳高清",CCTV-4K超高清
-http://182.136.239.59:9981/stream/channelid/245129612?ticket=6B86145125C3A172427F86F69FAA47ED1A57E949&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-language="" tvg-logo="https://sppotato.github.io/icon/chc1.png" tvg-country="CN" tvg-url="" group-title="绵阳高清",CHC高清电影
-http://182.136.239.59:9981/stream/channelid/1918090936?ticket=0429DF3E2EAE3F4EC6094799C93612C1B27F3FC5&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-language="" tvg-logo="https://sppotato.github.io/icon/chc2.png" tvg-country="CN" tvg-url="" group-title="绵阳高清",CHC动作电影
-http://182.136.239.59:9981/stream/channelid/1380935974?ticket=8E226ADCA4561BEDF5CDE8E77B382B01AF95AA8E&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="CHC家庭电影" tvg-language="" tvg-logo="https://sppotato.github.io/icon/chc3.png" tvg-country="CN" tvg-url="" group-title="绵阳高清",CHC家庭影院
-http://182.136.239.59:9981/stream/channelid/544566996?ticket=A637CE0F520069B35F6D566227A22F17ADDE7AE0&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="凤凰卫视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/fhzw.png" tvg-country="CN" tvg-url="" group-title="绵阳高清",凤凰中文 HD
-http://182.136.239.59:9981/stream/channelid/95401314?ticket=E3F15143BA1CBF256C46DA3D500F286E6F532079&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-language="" tvg-logo="https://sppotato.github.io/icon/fhzx.png" tvg-country="CN" tvg-url="" group-title="绵阳高清",凤凰资讯 HD
-http://182.136.239.59:9981/stream/channelid/1740661343?ticket=B5C38716EEA63DDC26D14D4FC1537F1EF02D83CC&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="四川文化旅游" tvg-language="" tvg-logo="https://sppotato.github.io/icon/sctv2.png" tvg-country="CN" tvg-url="" group-title="绵阳高清",四川文化旅游 HD
-http://182.136.239.59:9981/stream/channelid/484239929?ticket=CF241BAA9C11D8598BABCBACF2F3B3CD6B4862A2&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="四川经济频道" tvg-language="" tvg-logo="https://sppotato.github.io/icon/sctv3.png" tvg-country="CN" tvg-url="" group-title="绵阳高清",四川经济 HD
-http://182.136.239.59:9981/stream/channelid/1942366346?ticket=91F8304281A0EC4C778EE8EDF9BC05AB07628B37&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="四川新闻资讯" tvg-language="" tvg-logo="https://sppotato.github.io/icon/sctv4.png" tvg-country="CN" tvg-url="" group-title="绵阳高清",四川新闻资讯 HD
-http://182.136.239.59:9981/stream/channelid/370720904?ticket=D4413E512DB3DD473EB0F10228AF6764E10A5D7B&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="四川影视文艺" tvg-language="" tvg-logo="https://sppotato.github.io/icon/sctv5.png" tvg-country="CN" tvg-url="" group-title="绵阳高清",四川影视文艺 HD
-http://182.136.239.59:9981/stream/channelid/2047824087?ticket=6CEE7120D1A68351CCC297C0E22EEDE3A60DCD38&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="四川公共乡村" tvg-language="" tvg-logo="https://sppotato.github.io/icon/sctv7.png" tvg-country="CN" tvg-url="" group-title="绵阳高清",四川妇女儿童 HD
-http://182.136.239.59:9981/stream/channelid/705460263?ticket=909CF4F0E86BBFEF2CC999747E632C4B23213BAB&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="四川公共乡村" tvg-language="" tvg-logo="https://sppotato.github.io/icon/sctv9.png" tvg-country="CN" tvg-url="" group-title="绵阳高清",四川公共 HD
-http://182.136.239.59:9981/stream/channelid/180510588?ticket=8D491FEACEB934AD4BCA675FF0F2001797C255FC&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="绵阳导视" tvg-language="" tvg-logo="https://sppotato.github.io/icon/myds.png" tvg-country="CN" tvg-url="" group-title="绵阳高清",绵阳导视 HD
-http://182.136.239.59:9981/stream/channelid/423006574?ticket=4844A4D92F23656BF9966FBB7EFE78A583F12B3F&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="绵阳综合" tvg-language="" tvg-logo="https://sppotato.github.io/icon/myzh.png" tvg-country="CN" tvg-url="" group-title="绵阳高清",绵阳新闻综合 HD
-http://182.136.239.59:9981/stream/channelid/1779778937?ticket=FB794D4ECFF04A73B6C7CB21AAA22D03E4606D75&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="绵阳公共" tvg-language="" tvg-logo="https://sppotato.github.io/icon/mygg.png" tvg-country="CN" tvg-url="" group-title="绵阳高清",绵阳公共 HD
-http://182.136.239.59:9981/stream/channelid/1744132339?ticket=A18C5DB555E4003344B75A558629F9D2D7D4D9E6&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="绵阳科技" tvg-language="" tvg-logo="https://sppotato.github.io/icon/mykj.png" tvg-country="CN" tvg-url="" group-title="绵阳高清",绵阳科技 HD
-http://182.136.239.59:9981/stream/channelid/647086296?ticket=F97372F0F2234C25C1BB31EA63CB7897A590FA1B&profile=pass
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="新视觉" tvg-language="" tvg-logo="https://sppotato.github.io/icon/xsj.png" tvg-country="CN" tvg-url="" group-title="数字高清",新视觉 HD
 http://183.207.255.190/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-language="" tvg-logo="https://sppotato.github.io/icon/dmxc.png" tvg-country="CN" tvg-url="" group-title="数字高清",动漫秀场 HD
@@ -820,9 +785,9 @@ https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8
 https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBCMasr2" tvg-language="" tvg-logo="https://sppotato.github.io/icon/ajtv2.png" tvg-country="CN" tvg-url="" group-title="国际高清",阿拉伯-MBC埃及二台 HD
 https://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="1HD Music TV" tvg-language="" tvg-logo="https://sppotato.github.io/icon/music.png" tvg-country="CN" tvg-url="" group-title="国际高清",俄罗斯1音乐 HD
+#EXTINF:-1 tvg-id="" tvg-name="1HD Music TV" tvg-language="" tvg-logo="https://sppotato.github.io/icon/music.png" tvg-country="CN" tvg-url="" group-title="国际高清",俄罗斯-ONE音乐 HD
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NEWSMAXTV" tvg-language="" tvg-logo="https://sppotato.github.io/icon/newsmax.png" tvg-country="CN" tvg-url="" group-title="国际高清",美国NEWSMAX HD
+#EXTINF:-1 tvg-id="" tvg-name="NEWSMAXTV" tvg-language="" tvg-logo="https://sppotato.github.io/icon/newsmax.png" tvg-country="CN" tvg-url="" group-title="国际高清",美国-新闻时事 HD
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNAI亚洲新闻" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cna.png" tvg-country="CN" tvg-url="" group-title="国际高清",新马泰-亚洲新闻台 HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -842,25 +807,23 @@ https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-language="" tvg-logo="https://sppotato.github.io/icon/Vasantham.png" tvg-country="CN" tvg-url="" group-title="国际高清",新马泰-V频道 HD
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arte HD" tvg-language="" tvg-logo="https://sppotato.github.io/icon/arte.png" tvg-country="CN" tvg-url="" group-title="国际高清",Arte艺术 HD
-http://etomatomobile.hscdn.com/artemobile/livestream/chunklist_w1865830476.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KCTV" tvg-language="" tvg-logo="https://sppotato.github.io/icon/kctv.png" tvg-country="CN" tvg-url="" group-title="国际高清",KCTV HD
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports News" tvg-language="" tvg-logo="https://sppotato.github.io/icon/foxsportnew.png" tvg-country="CN" tvg-url="" group-title="国际高清",福斯体育新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports News" tvg-language="" tvg-logo="https://sppotato.github.io/icon/foxsportnew.png" tvg-country="CN" tvg-url="" group-title="国际高清",澳大利亚-FOX体育新闻 HD
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Australia Channel" tvg-language="" tvg-logo="https://sppotato.github.io/icon/adlynew.png" tvg-country="CN" tvg-url="" group-title="国际高清",澳大利亚新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="Australia Channel" tvg-language="" tvg-logo="https://sppotato.github.io/icon/adlynew.png" tvg-country="CN" tvg-url="" group-title="国际高清",澳大利亚-新闻时事 HD
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-language="Korea" tvg-logo="https://sppotato.github.io/icon/cgntv2.png" tvg-country="CN" tvg-url="" group-title="国际高清",CGN-韩国 HD
+#EXTINF:-1 tvg-id="" tvg-name="KCTV" tvg-language="" tvg-logo="https://sppotato.github.io/icon/kctv.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国-KCTV HD
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-language="Korea" tvg-logo="https://sppotato.github.io/icon/cgntv2.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国-CGN宗教 HD
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGNTV中文" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cgntv1.png" tvg-country="CN" tvg-url="" group-title="国际高清",CGN-中文 HD
+#EXTINF:-1 tvg-id="" tvg-name="CGNTV中文" tvg-language="" tvg-logo="https://sppotato.github.io/icon/cgntv1.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国-CGN中文 HD
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/chunklist_w1705401687.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGNTV日本" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/cgntv3.png" tvg-country="CN" tvg-url="" group-title="国际高清",CGN-日本 HD
+#EXTINF:-1 tvg-id="" tvg-name="CGNTV日本" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/cgntv3.png" tvg-country="CN" tvg-url="" group-title="国际高清",韩国-CGN日语 HD
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK华语视界" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/nhk2.png" tvg-country="CN" tvg-url="" group-title="国际高清",NHK华语视界 HD
+#EXTINF:-1 tvg-id="" tvg-name="NHK华语视界" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/nhk2.png" tvg-country="CN" tvg-url="" group-title="国际高清",日本-NHK华语视界 HD
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK世界新闻" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/nhk.png" tvg-country="CN" tvg-url="" group-title="国际高清",NHK环球国际 HD
+#EXTINF:-1 tvg-id="" tvg-name="NHK世界新闻" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/nhk.png" tvg-country="CN" tvg-url="" group-title="国际高清",日本-NHK环球国际 HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WNI" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/wni.png" tvg-country="CN" tvg-url="" group-title="国际高清",日本气象新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="WNI" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/wni.png" tvg-country="CN" tvg-url="" group-title="国际高清",日本-气象新闻 HD
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WNI2" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/wni2.png" tvg-country="CN" tvg-url="" group-title="国际高清",日本地震气象 HD
+#EXTINF:-1 tvg-id="" tvg-name="WNI2" tvg-language="Japanese" tvg-logo="https://sppotato.github.io/icon/wni2.png" tvg-country="CN" tvg-url="" group-title="国际高清",日本-地震气象 HD
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
