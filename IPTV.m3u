@@ -834,6 +834,8 @@ http://61.238.6.49:8000/bysid/1
 http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="https://sppotato.github.io/icon/viutv.png" group-title="港澳台高清FQ",ViuTV HD
 http://61.238.6.49:8000/bysid/99
+#EXTINF:-1 tvg-id="" tvg-name="有线财经资讯台" tvg-logo="https://sppotato.github.io/icon/yxcj.png" group-title="港澳台高清FQ",有线财经资讯 HD
+http://teslagram.com/live/channel_108.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="https://sppotato.github.io/icon/wuxianxinwen.png" group-title="港澳台高清FQ",无线新闻台 HD
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 #EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="https://sppotato.github.io/icon/wuxiancaijing.png" group-title="港澳台高清FQ",无线财经资讯台 HD
@@ -882,6 +884,11 @@ http://seb.sason.top/ptv/ftv.php?id=ms
 http://seb.sason.top/ptv/ftv.php?id=dy
 #EXTINF:-1 tvg-id="" tvg-name="民视台湾台" tvg-logo="https://sppotato.github.io/icon/minshi3.png" group-title="港澳台高清FQ",民视台湾 HD
 http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 tvg-id="" tvg-name="台视财经台" tvg-logo="https://sppotato.github.io/icon/taishicj.png" group-title="港澳台高清FQ",台视财经 HD
+https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="壹电视新闻台" tvg-logo="https://sppotato.github.io/icon/yxw.png" group-title="港澳台高清FQ",壹新闻 HD
+https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://sppotato.github.io/icon/discovery.png" group-title="国际高清FQ",英国-探索频道 HD
@@ -908,4 +915,7 @@ http://boyztoyz.us:80/RonDenston/15.05.19/4389
 http://boyztoyz.us:80/RonDenston/15.05.19/6913
 #EXTINF:-1 tvg-id="" tvg-name="FXHD" tvg-logo="https://sppotato.github.io/icon/fx.png" group-title="国际高清FQ",西班牙-FX频道 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/6853
-
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO全家" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",西班牙-ASTRO全家 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7513
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO双星" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",西班牙-ASTRO双星 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7511
