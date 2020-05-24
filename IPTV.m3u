@@ -886,39 +886,60 @@ https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="HBOFamily" tvg-logo="https://sppotato.github.io/icon/hbofamily.png" group-title="国际高清FQ",西班牙-HBO家庭影院 HD
+#EXTINF:-1 tvg-id="" tvg-name="HBOFamily" tvg-logo="https://sppotato.github.io/icon/hbofamily.png" group-title="国际高清FQ",HBO家庭影院 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/6908
-#EXTINF:-1 tvg-id="" tvg-name="国家地理野生频道" tvg-logo="https://sppotato.github.io/icon/ngowild.png" group-title="国际高清FQ",西班牙-国家地理野生 HD
+#EXTINF:-1 tvg-id="" tvg-name="动物星球" tvg-logo="https://sppotato.github.io/icon/animal.png" group-title="国际高清FQ",动物星球 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4408
+#EXTINF:-1 tvg-id="" tvg-name="国家地理野生频道" tvg-logo="https://sppotato.github.io/icon/ngowild.png" group-title="国际高清FQ",国家地理野生 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/2848
-#EXTINF:-1 tvg-id="" tvg-name="国家地理频道" tvg-logo="https://sppotato.github.io/icon/ngo.png" group-title="国际高清FQ",西班牙-国家地理 HD
+#EXTINF:-1 tvg-id="" tvg-name="国家地理频道" tvg-logo="https://sppotato.github.io/icon/ngo.png" group-title="国际高清FQ",国家地理 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/2850
-#EXTINF:-1 tvg-id="" tvg-name="MTV综合" tvg-logo="https://sppotato.github.io/icon/mtv.png" group-title="国际高清FQ",西班牙-MTV音乐台 HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV综合" tvg-logo="https://sppotato.github.io/icon/mtv.png" group-title="国际高清FQ",MTV音乐台 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4390
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://sppotato.github.io/icon/mtvlive.png" group-title="国际高清FQ",西班牙-MTV音乐现场 HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://sppotato.github.io/icon/mtvlive.png" group-title="国际高清FQ",MTV音乐现场 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4389
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://sppotato.github.io/icon/fox.png" group-title="国际高清FQ",西班牙-FOX频道 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/6913
-#EXTINF:-1 tvg-id="" tvg-name="FXHD" tvg-logo="https://sppotato.github.io/icon/fx.png" group-title="国际高清FQ",西班牙-FX频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://sppotato.github.io/icon/fox.png" group-title="国际高清FQ",FOX频道 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4396
+#EXTINF:-1 tvg-id="" tvg-name="BBCWorldNews" tvg-logo="https://sppotato.github.io/icon/bbcnew1.png" group-title="国际高清FQ",BBC一台 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/5279
+#EXTINF:-1 tvg-id="" tvg-name="BBCTWO" tvg-logo="https://sppotato.github.io/icon/bbcnew2.png" group-title="国际高清FQ",BBC二台 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/5278
+#EXTINF:-1 tvg-id="" tvg-name="BBCScotland" tvg-logo="https://sppotato.github.io/icon/bbcscot.png" group-title="国际高清FQ",BBC苏格兰 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/7837
+#EXTINF:-1 tvg-id="" tvg-name="Dave" tvg-logo="https://sppotato.github.io/icon/dave.png" group-title="国际高清FQ",UKTV戴维频道 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4403
+#EXTINF:-1 tvg-id="" tvg-name="CN卡通频道" tvg-logo="https://sppotato.github.io/icon/cartoon.png" group-title="国际高清FQ",CN卡通台 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4407
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://sppotato.github.io/icon/discovery.png" group-title="国际高清FQ",探索频道 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4402
+#EXTINF:-1 tvg-id="" tvg-name="TLC旅游生活频道" tvg-logo="https://sppotato.github.io/icon/tlc.png" group-title="国际高清FQ",TLC旅游生活 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4843
+#EXTINF:-1 tvg-id="" tvg-name="Crime&Investigation" tvg-logo="https://sppotato.github.io/icon/crime.png" group-title="国际高清FQ",犯罪侦查频道 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/5248
+#EXTINF:-1 tvg-id="" tvg-name="Crime&Investigation" tvg-logo="https://sppotato.github.io/icon/crime.png" group-title="国际高清FQ",犯罪侦查频道 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4373
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://sppotato.github.io/icon/history1.png" group-title="国际高清FQ",历史频道 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/1541
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY2" tvg-logo="https://sppotato.github.io/icon/history2.png" group-title="国际高清FQ",历史二台 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4394
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood" tvg-logo="https://sppotato.github.io/icon/hollywood.png" group-title="国际高清FQ",Canal好莱坞 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/2828
+#EXTINF:-1 tvg-id="" tvg-name="Channel4" tvg-logo="https://sppotato.github.io/icon/channel4.png" group-title="国际高清FQ",英国第4台 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4406
+#EXTINF:-1 tvg-id="" tvg-name="Channel5" tvg-logo="https://sppotato.github.io/icon/channel5.png" group-title="国际高清FQ",英国第5台 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/4405
+#EXTINF:-1 tvg-id="" tvg-name="HboEast" tvg-logo="https://sppotato.github.io/icon/hboeast.png" group-title="国际高清FQ",HBO东部电视 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6766
+#EXTINF:-1 tvg-id="" tvg-name="HboWest" tvg-logo="https://sppotato.github.io/icon/hbowest.png" group-title="国际高清FQ",HBO西部电视 HD
+http://boyztoyz.us:80/RonDenston/15.05.19/6907
+#EXTINF:-1 tvg-id="" tvg-name="FXHD" tvg-logo="https://sppotato.github.io/icon/fx.png" group-title="国际高清FQ",FX频道 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/6853
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO全家" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",西班牙-ASTRO全家 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/7513
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO双星" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",西班牙-ASTRO双星 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/7511
-#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://sppotato.github.io/icon/discovery.png" group-title="国际高清FQ",英国-探索频道 HD
-http://145.239.255.4:8080/en-Discovery-HD/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="BBCWorldNews" tvg-logo="https://sppotato.github.io/icon/bbcnew1.png" group-title="国际高清FQ",英国-BBC一台 HD
-http://145.239.255.4:8080/HDBBC1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="BBCTWO" tvg-logo="https://sppotato.github.io/icon/bbcnew2.png" group-title="国际高清FQ",英国-BBC二台 HD
-http://145.239.255.4:8080/HDBBC2/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Channel4" tvg-logo="https://sppotato.github.io/icon/channel4.png" group-title="国际高清FQ",英国-第四台 HD
-http://145.239.255.4:8080/HDCHANNEL4/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Channel5" tvg-logo="https://sppotato.github.io/icon/channel5.png" group-title="国际高清FQ",英国-第五台 HD
-http://145.239.255.4:8080/en-Channel5HD/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="花花公子" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",英国-花花公子 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="花花公子" tvg-logo="https://sppotato.github.io/icon/playboy.png" group-title="国际高清FQ",花花公子 HD
 http://eyplay.io:80/9pIKhA/oSs3CH/465
-#EXTINF:-1 tvg-id="" tvg-name="SexPrive" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",英国-SexPrive HD
+#EXTINF:-1 tvg-id="" tvg-name="SexPrive" tvg-logo="https://sppotato.github.io/icon/sexp.png" group-title="国际高清FQ",SexPrive HD
 http://eyplay.io:80/9pIKhA/oSs3CH/468
-#EXTINF:-1 tvg-id="" tvg-name="SexHot" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",英国-SexHot HD
+#EXTINF:-1 tvg-id="" tvg-name="SexHot" tvg-logo="https://sppotato.github.io/icon/sexhot.png" group-title="国际高清FQ",SexHot HD
 http://eyplay.io:80/9pIKhA/oSs3CH/471
 
 
