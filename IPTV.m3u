@@ -878,12 +878,6 @@ http://seb.sason.top/sc/ztxw_fhd.m3u8
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="三立新闻台" tvg-logo="https://sppotato.github.io/icon/sanlinew.png" group-title="港澳台高清FQ",三立LIVE新闻 HD
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="民视" tvg-logo="https://sppotato.github.io/icon/minshi1.png" group-title="港澳台高清FQ",民视 HD
-http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 tvg-id="" tvg-name="民视第一台" tvg-logo="https://sppotato.github.io/icon/minshi2.png" group-title="港澳台高清FQ",民视第一 HD
-http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 tvg-id="" tvg-name="民视台湾台" tvg-logo="https://sppotato.github.io/icon/minshi3.png" group-title="港澳台高清FQ",民视台湾 HD
-http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 tvg-id="" tvg-name="台视财经台" tvg-logo="https://sppotato.github.io/icon/taishicj.png" group-title="港澳台高清FQ",台视财经 HD
 https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="壹电视新闻台" tvg-logo="https://sppotato.github.io/icon/yxw.png" group-title="港澳台高清FQ",壹新闻 HD
@@ -891,16 +885,7 @@ https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://sppotato.github.io/icon/discovery.png" group-title="国际高清FQ",英国-探索频道 HD
-http://145.239.255.4:8080/en-Discovery-HD/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="BBCWorldNews" tvg-logo="https://sppotato.github.io/icon/bbcnew1.png" group-title="国际高清FQ",英国-BBC一台 HD
-http://145.239.255.4:8080/HDBBC1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="BBCTWO" tvg-logo="https://sppotato.github.io/icon/bbcnew2.png" group-title="国际高清FQ",英国-BBC二台 HD
-http://145.239.255.4:8080/HDBBC2/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Channel4" tvg-logo="https://sppotato.github.io/icon/channel4.png" group-title="国际高清FQ",英国-第四台 HD
-http://145.239.255.4:8080/HDCHANNEL4/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="Channel5" tvg-logo="https://sppotato.github.io/icon/channel5.png" group-title="国际高清FQ",英国-第五台 HD
-http://145.239.255.4:8080/en-Channel5HD/mono.m3u8?token=test
+
 #EXTINF:-1 tvg-id="" tvg-name="HBOFamily" tvg-logo="https://sppotato.github.io/icon/hbofamily.png" group-title="国际高清FQ",西班牙-HBO家庭影院 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/6908
 #EXTINF:-1 tvg-id="" tvg-name="国家地理野生频道" tvg-logo="https://sppotato.github.io/icon/ngowild.png" group-title="国际高清FQ",西班牙-国家地理野生 HD
@@ -919,3 +904,21 @@ http://boyztoyz.us:80/RonDenston/15.05.19/6853
 http://boyztoyz.us:80/RonDenston/15.05.19/7513
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO双星" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",西班牙-ASTRO双星 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/7511
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://sppotato.github.io/icon/discovery.png" group-title="国际高清FQ",英国-探索频道 HD
+http://145.239.255.4:8080/en-Discovery-HD/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="BBCWorldNews" tvg-logo="https://sppotato.github.io/icon/bbcnew1.png" group-title="国际高清FQ",英国-BBC一台 HD
+http://145.239.255.4:8080/HDBBC1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="BBCTWO" tvg-logo="https://sppotato.github.io/icon/bbcnew2.png" group-title="国际高清FQ",英国-BBC二台 HD
+http://145.239.255.4:8080/HDBBC2/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="Channel4" tvg-logo="https://sppotato.github.io/icon/channel4.png" group-title="国际高清FQ",英国-第四台 HD
+http://145.239.255.4:8080/HDCHANNEL4/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="Channel5" tvg-logo="https://sppotato.github.io/icon/channel5.png" group-title="国际高清FQ",英国-第五台 HD
+http://145.239.255.4:8080/en-Channel5HD/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="花花公子" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",英国-花花公子 HD
+http://eyplay.io:80/9pIKhA/oSs3CH/465
+#EXTINF:-1 tvg-id="" tvg-name="SexPrive" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",英国-SexPrive HD
+http://eyplay.io:80/9pIKhA/oSs3CH/468
+#EXTINF:-1 tvg-id="" tvg-name="SexHot" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",英国-SexHot HD
+http://eyplay.io:80/9pIKhA/oSs3CH/471
+
+
