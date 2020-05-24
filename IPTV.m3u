@@ -881,6 +881,21 @@ http://boyztoyz.us:80/RonDenston/15.05.19/4405
 http://boyztoyz.us:80/RonDenston/15.05.19/6853
 #EXTINF:-1 tvg-id="" tvg-name="FXMovie" tvg-logo="https://sppotato.github.io/icon/fxmovie.png" group-title="国际高清FQ",FX电影频道 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/6852
+EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://sppotato.github.io/icon/cinemax.png" group-title="国际高清FQ",Cinemax HD
+http://eyplay.io:80/9pIKhA/oSs3CH/67
+EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",Discovery特侦组 HD
+http://eyplay.io:80/9pIKhA/oSs3CH/294
+EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",Discovery儿童 HD
+http://eyplay.io:80/9pIKhA/oSs3CH/104
+EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",Discovery剧院 HD
+http://eyplay.io:80/9pIKhA/oSs3CH/110
+EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",Discovery涡轮 HD
+http://eyplay.io:80/9pIKhA/oSs3CH/113
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="花花公子" tvg-logo="https://sppotato.github.io/icon/playboy.png" group-title="国际高清FQ",花花公子 HD
 http://eyplay.io:80/9pIKhA/oSs3CH/465
 #EXTINF:-1 tvg-id="" tvg-name="SexPrive" tvg-logo="https://sppotato.github.io/icon/sexp.png" group-title="国际高清FQ",SexPrive HD
@@ -909,7 +924,6 @@ EXTINF:-1 tvg-id="" tvg-name="Premier Sports2" tvg-logo="https://sppotato.github
 http://boyztoyz.us:80/RonDenston/15.05.19/7828
 EXTINF:-1 tvg-id="" tvg-name="Racing" tvg-logo="https://sppotato.github.io/icon/sexhot.png" group-title="国际高清FQ",Racing赛车频道 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/202
-
 
 #EXTINF:-1 tvg-id="" tvg-name="卫视中文台" tvg-logo="https://sppotato.github.io/icon/starchinese.png" group-title="国际高清FQ",卫视中文台
 http://boyztoyz.us:80/RonDenston/15.05.19/7449
