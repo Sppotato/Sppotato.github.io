@@ -698,11 +698,11 @@ https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94
 #EXTINF:-1 tvg-id="" tvg-name="有线财经资讯台" tvg-logo="https://sppotato.github.io/icon/yxcj.png" group-title="港澳台高清FQ",有线财经资讯 HD
 https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8#http://teslagram.com/live/channel_108.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://sppotato.github.io/icon/feicui.png" group-title="港澳台高清FQ",翡翠台 HD
-http://219.79.222.200:9981/stream/channelid/1567054223#http://61.238.6.49:8000/bysid/1
+http://61.238.6.49:8000/bysid/1#http://219.79.222.200:9981/stream/channelid/1567054223
 #EXTINF:-1 tvg-id="" tvg-name="ViuTVsix" tvg-logo="https://sppotato.github.io/icon/viutv6.png" group-title="港澳台高清FQ",ViuTV6 HD
 http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="https://sppotato.github.io/icon/viutv.png" group-title="港澳台高清FQ",ViuTV HD
-http://219.79.222.200:9981/stream/channelid/1398053890#http://61.238.6.49:8000/bysid/99
+http://61.238.6.49:8000/bysid/99#http://219.79.222.200:9981/stream/channelid/1398053890
 #EXTINF:-1 tvg-id="" tvg-name="TVB-J2" tvg-logo="https://sppotato.github.io/icon/viutv.png" group-title="港澳台高清FQ",TVB J2 HD
 http://219.79.222.200:9981/stream/channelid/1791647545
 #EXTINF:-1 tvg-id="" tvg-name="港台電視31" tvg-logo="https://sppotato.github.io/icon/" group-title="港澳台高清FQ",港台电视31 HD
