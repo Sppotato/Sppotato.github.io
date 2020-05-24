@@ -907,27 +907,27 @@ http://boyztoyz.us:80/RonDenston/15.05.19/2388
 http://a2.skynets.tv:8880/czw6m008/utWeSIaLbv/2943
 #EXTINF:-1 tvg-id="" tvg-name="BT ESPN" tvg-logo="https://sppotato.github.io/icon/g" group-title="国际高清FQ",BT ESPN体育台 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4367
-EXTINF:-1 tvg-id="" tvg-name="欧洲体育-HD" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",欧洲体育1台 HD
+#EXTINF:-1 tvg-id="" tvg-name="欧洲体育-HD" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",欧洲体育1台 HD
 http://tv2ip.nl:80/9205011494/9205011494/85823
-EXTINF:-1 tvg-id="" tvg-name="EuroSport2" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",欧洲体育2台 HD
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport2" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",欧洲体育2台 HD
 http://tv2ip.nl:80/9205011494/9205011494/67223
-EXTINF:-1 tvg-id="" tvg-name="SkySport2K" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",Sky体育1台 2K
+#EXTINF:-1 tvg-id="" tvg-name="SkySport2K" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",Sky体育1台 2K
 http://tv2ip.nl:80/9205011494/9205011494/67227
-EXTINF:-1 tvg-id="" tvg-name="SkySport2" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",Sky体育2台 HD
+#EXTINF:-1 tvg-id="" tvg-name="SkySport2" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",Sky体育2台 HD
 http://tv2ip.nl:80/9205011494/9205011494/67225
-EXTINF:-1 tvg-id="" tvg-name="LIGA" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",LIGA足球频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="LIGA" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",LIGA足球频道 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/2770
-EXTINF:-1 tvg-id="" tvg-name="Premier Sports1" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",Premier体育1台 HD
+#EXTINF:-1 tvg-id="" tvg-name="Premier Sports1" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",Premier体育1台 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/805
-EXTINF:-1 tvg-id="" tvg-name="Premier Sports2" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",Premier体育2台 HD
+#EXTINF:-1 tvg-id="" tvg-name="Premier Sports2" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",Premier体育2台 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/7828
-EXTINF:-1 tvg-id="" tvg-name="Racing" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",Racing赛车频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="Racing" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",Racing赛车频道 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/202
-EXTINF:-1 tvg-id="" tvg-name="HBOHits" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",HBO强档钜献 HD
+#EXTINF:-1 tvg-id="" tvg-name="HBOHits" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",HBO强档钜献 HD
 https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
-EXTINF:-1 tvg-id="" tvg-name="HBOSignature" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",HBO原创巨献 HD
+#EXTINF:-1 tvg-id="" tvg-name="HBOSignature" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",HBO原创巨献 HD
 https://www.livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
-EXTINF:-1 tvg-id="" tvg-name="红电影" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",HBO红电影 HD
+#EXTINF:-1 tvg-id="" tvg-name="红电影" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",HBO红电影 HD
 https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
 
 
