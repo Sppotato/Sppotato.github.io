@@ -10,7 +10,7 @@ http://39.135.16.150:6610/PLTV/88888888/224/3221226019//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="爱上4K" tvg-logo="https://sppotato.github.io/icon/love4k.png" group-title="4K专区",爱上4K
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=092&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="纯享4K" tvg-logo="https://sppotato.github.io/icon/cx4k.png" group-title="4K专区",纯享4K
-http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4K音乐现场" tvg-logo="https://sppotato.github.io/icon/jxiptv.png" group-title="4K专区",江西4K音乐现场
 http://39.135.140.14:6610/PLTV/88888888/224/3221225978/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="4K电影" tvg-logo="https://sppotato.github.io/icon/iptvdy.png" group-title="4K专区",江苏4K电影
@@ -698,11 +698,21 @@ https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94
 #EXTINF:-1 tvg-id="" tvg-name="有线财经资讯台" tvg-logo="https://sppotato.github.io/icon/yxcj.png" group-title="港澳台高清FQ",有线财经资讯 HD
 https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8#http://teslagram.com/live/channel_108.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://sppotato.github.io/icon/feicui.png" group-title="港澳台高清FQ",翡翠台 HD
-http://61.238.6.49:8000/bysid/1
+http://219.79.222.200:9981/stream/channelid/1567054223#http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 tvg-id="" tvg-name="ViuTVsix" tvg-logo="https://sppotato.github.io/icon/viutv6.png" group-title="港澳台高清FQ",ViuTV6 HD
 http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="https://sppotato.github.io/icon/viutv.png" group-title="港澳台高清FQ",ViuTV HD
-http://61.238.6.49:8000/bysid/99
+http://219.79.222.200:9981/stream/channelid/1398053890#http://61.238.6.49:8000/bysid/99
+#EXTINF:-1 tvg-id="" tvg-name="TVB-J2" tvg-logo="https://sppotato.github.io/icon/viutv.png" group-title="港澳台高清FQ",TVB J2 HD
+http://219.79.222.200:9981/stream/channelid/1791647545
+#EXTINF:-1 tvg-id="" tvg-name="港台電視31" tvg-logo="https://sppotato.github.io/icon/" group-title="港澳台高清FQ",港台电视31 HD
+http://219.79.222.200:9981/stream/channelid/1704352685
+#EXTINF:-1 tvg-id="" tvg-name="港台電視32" tvg-logo="https://sppotato.github.io/icon/" group-title="港澳台高清FQ",港台电视32 HD
+http://219.79.222.200:9981/stream/channelid/1726678629
+#EXTINF:-1 tvg-id="" tvg-name="港台電視33" tvg-logo="https://sppotato.github.io/icon/" group-title="港澳台高清FQ",港台电视33 HD
+http://219.79.222.200:9981/stream/channelid/1452635522
+#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://sppotato.github.io/icon/" group-title="港澳台高清FQ",明珠台 HD
+http://219.79.222.200:9981/stream/channelid/1172086924
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="https://sppotato.github.io/icon/wuxianxinwen.png" group-title="港澳台高清FQ",无线新闻台 HD
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 #EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="https://sppotato.github.io/icon/wuxiancaijing.png" group-title="港澳台高清FQ",无线财经资讯台 HD
@@ -712,7 +722,7 @@ http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港亚视" tvg-logo="https://sppotato.github.io/icon/hkys.png" group-title="港澳台高清FQ",香港亚视 HD
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港开电视" tvg-logo="https://sppotato.github.io/icon/kaidianshi.png" group-title="港澳台高清FQ",香港开电视 HD
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+http://219.79.222.200:9981/stream/channelid/1359586687#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="亚旅卫视" tvg-logo="https://sppotato.github.io/icon/yltv.png" group-title="港澳台高清FQ",亚旅卫视 HD
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港C+" tvg-logo="https://sppotato.github.io/icon/hkc+.png" group-title="港澳台高清FQ",香港C+频道 HD
@@ -925,10 +935,6 @@ http://boyztoyz.us:80/RonDenston/15.05.19/7828
 http://boyztoyz.us:80/RonDenston/15.05.19/202
 #EXTINF:-1 tvg-id="" tvg-name="HBOHits" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",HBO强档钜献 HD
 https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBOSignature" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",HBO原创巨献 HD
-https://www.livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="红电影" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",HBO红电影 HD
-https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="卫视中文台" tvg-logo="https://sppotato.github.io/icon/starchinese.png" group-title="国际标清FQ",卫视中文台
