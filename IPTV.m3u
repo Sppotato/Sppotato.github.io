@@ -137,11 +137,11 @@ http://s5117133.m.awhost.cn/dl/gz.php?id=chcdzdy
 #EXTINF:-1 tvg-id="" tvg-name="CHC家庭电影" tvg-logo="https://sppotato.github.io/icon/chc3.png" group-title="卫视高清",CHC家庭影院
 http://s5117133.m.awhost.cn/dl/gz.php?id=chcjtyy
 #EXTINF:-1 tvg-id="" tvg-name="凤凰卫视" tvg-logo="https://sppotato.github.io/icon/fhzw.png" group-title="卫视高清",凤凰中文 HD
-http://tv.sason.xyz/proxy/fh.php?id=zw#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
+http://zzq12345.gearhostpreview.com/11/ifeng.php?id=zwhd#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://sppotato.github.io/icon/fhzx.png" group-title="卫视高清",凤凰资讯 HD
-http://tv.sason.xyz/proxy/fh.php?id=zx#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
+http://zzq12345.gearhostpreview.com/11/ifeng.php?id=zxhd#http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://sppotato.github.io/icon/fhxg.png" group-title="卫视高清",凤凰香港 HD
-http://tv.sason.xyz/proxy/fh.php?id=hk#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+http://zzq12345.gearhostpreview.com/11/ifeng.php?id=hkhd#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 
 
 
@@ -703,16 +703,6 @@ http://61.238.6.49:8000/bysid/1#http://219.79.222.200:9981/stream/channelid/1567
 http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="https://sppotato.github.io/icon/viutv.png" group-title="港澳台高清FQ",ViuTV HD
 http://61.238.6.49:8000/bysid/99#http://219.79.222.200:9981/stream/channelid/1398053890
-#EXTINF:-1 tvg-id="" tvg-name="TVB-J2" tvg-logo="https://sppotato.github.io/icon/viutv.png" group-title="港澳台高清FQ",TVB J2 HD
-http://219.79.222.200:9981/stream/channelid/1791647545
-#EXTINF:-1 tvg-id="" tvg-name="港台電視31" tvg-logo="https://sppotato.github.io/icon/" group-title="港澳台高清FQ",港台电视31 HD
-http://219.79.222.200:9981/stream/channelid/1704352685
-#EXTINF:-1 tvg-id="" tvg-name="港台電視32" tvg-logo="https://sppotato.github.io/icon/" group-title="港澳台高清FQ",港台电视32 HD
-http://219.79.222.200:9981/stream/channelid/1726678629
-#EXTINF:-1 tvg-id="" tvg-name="港台電視33" tvg-logo="https://sppotato.github.io/icon/" group-title="港澳台高清FQ",港台电视33 HD
-http://219.79.222.200:9981/stream/channelid/1452635522
-#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://sppotato.github.io/icon/" group-title="港澳台高清FQ",明珠台 HD
-http://219.79.222.200:9981/stream/channelid/1172086924
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="https://sppotato.github.io/icon/wuxianxinwen.png" group-title="港澳台高清FQ",无线新闻台 HD
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 #EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="https://sppotato.github.io/icon/wuxiancaijing.png" group-title="港澳台高清FQ",无线财经资讯台 HD
