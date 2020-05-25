@@ -895,12 +895,6 @@ EXTINF:-1 tvg-id="" tvg-name="Fox Premium1" tvg-logo="https://sppotato.github.io
 http://eyplay.io:80/9pIKhA/oSs3CH/169
 EXTINF:-1 tvg-id="" tvg-name="Fox Premium2" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",FOX付费2台 HD
 http://eyplay.io:80/9pIKhA/oSs3CH/172
-#EXTINF:-1 tvg-id="" tvg-name="花花公子" tvg-logo="https://sppotato.github.io/icon/playboy.png" group-title="国际高清FQ",花花公子 HD
-http://eyplay.io:80/9pIKhA/oSs3CH/465
-#EXTINF:-1 tvg-id="" tvg-name="SexPrive" tvg-logo="https://sppotato.github.io/icon/sexp.png" group-title="国际高清FQ",SexPrive HD
-http://eyplay.io:80/9pIKhA/oSs3CH/468
-#EXTINF:-1 tvg-id="" tvg-name="SexHot" tvg-logo="https://sppotato.github.io/icon/sexhot.png" group-title="国际高清FQ",SexHot HD
-http://eyplay.io:80/9pIKhA/oSs3CH/471
 #EXTINF:-1 tvg-id="" tvg-name="FCTV" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",FC体育台 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/2388
 #EXTINF:-1 tvg-id="" tvg-name="BT Sports1" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",BT体育1台 HD
@@ -935,3 +929,11 @@ https://livedoomovies.com/02_SCM_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_CCM_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://sppotato.github.io/icon/" group-title="国际标清FQ",Thrill惊悚电影
 https://livedoomovies.com/02_Thrill_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="花花公子" tvg-logo="https://sppotato.github.io/icon/playboy.png" group-title="特殊频道",花花公子 HD
+http://195.181.162.217:80/090502/090502/39432
+#EXTINF:-1 tvg-id="" tvg-name="SexPrive" tvg-logo="https://sppotato.github.io/icon/sexp.png" group-title="特殊频道",SexPrive HD
+http://195.181.162.217:80/090502/090502/39408
+#EXTINF:-1 tvg-id="" tvg-name="SexHot" tvg-logo="https://sppotato.github.io/icon/sexhot.png" group-title="特殊频道",SexHot HD
+http://195.181.162.217:80/090502/090502/39434
