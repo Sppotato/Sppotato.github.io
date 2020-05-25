@@ -815,10 +815,6 @@ http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 
 
 #EXTINF:-1,---------------United Kingdom---------------
-#EXTINF:-1 tvg-id="ODISEA UHD 4K" tvg-logo="noimage.png" group-title="国际高清FQ", ODISEA UHD 4K
-http://tvku.live:8888/aris7812/25mei2020ars/3644
-#EXTINF:-1 tvg-id="CANAL COCINA 4K" tvg-logo="noimage.png" group-title="国际高清FQ", CANAL COCINA 4K
-http://tvku.live:8888/aris7812/25mei2020ars/13717
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://sppotato.github.io/icon/hbo.png" group-title="国际高清FQ",HBO家庭影院 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4709
 #EXTINF:-1 tvg-id="" tvg-name="HBOFamily" tvg-logo="https://sppotato.github.io/icon/hbofamily.png" group-title="国际高清FQ",HBO合家欢影院 HD
@@ -882,7 +878,7 @@ http://boyztoyz.us:80/RonDenston/15.05.19/4405
 #EXTINF:-1 tvg-id="" tvg-name="Seven" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",英国第7台 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4405
 #EXTINF:-1 tvg-id="" tvg-name="FXHD" tvg-logo="https://sppotato.github.io/icon/fx.png" group-title="国际高清FQ",FX频道 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/6853
+http://195.181.162.217:80/090502/090502/13199
 #EXTINF:-1 tvg-id="" tvg-name="FXMovie" tvg-logo="https://sppotato.github.io/icon/fxmovie.png" group-title="国际高清FQ",FX电影频道 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/6852
 EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://sppotato.github.io/icon/cinemax.png" group-title="国际高清FQ",Cinemax HD
@@ -941,15 +937,19 @@ http://195.181.162.217:80/090502/090502/39432
 http://195.181.162.217:80/090502/090502/39408
 #EXTINF:-1 tvg-id="" tvg-name="SexHot" tvg-logo="https://sppotato.github.io/icon/sexhot.png" group-title="特殊频道",SexHot HD
 http://195.181.162.217:80/090502/090502/39434
-#EXTINF:-1 tvg-id="" tvg-name="DORCEL" tvg-logo="https://sppotato.github.io/icon/" group-title="特殊频道",DORCEL HD
-http://91.92.108.254:8080/udp/239.10.10.155:5000
-#EXTINF:-1 tvg-id="" tvg-name="BRAZEERS" tvg-logo="https://sppotato.github.io/icon/" group-title="特殊频道",BRAZEERS
-http://91.92.108.254:8080/udp/239.100.10.190:5000
+#EXTINF:-1 tvg-id="" tvg-name="REDLIGHT" tvg-logo="" group-title="特殊频道",REDLIGHT HD
+http://195.181.162.217:80/239923/239923/35615
+#EXTINF:-1 tvg-id="" tvg-name="BISEXUAL" tvg-logo="" group-title="特殊频道",BISEXUAL HD
+http://195.181.162.217:80/239923/239923/44778
+#EXTINF:-1 tvg-id="" tvg-name="VIVID RED" tvg-logo="" group-title="特殊频道",VIVID RED HD
+http://195.181.162.217:80/239923/239923/35622
+#EXTINF:-1 tvg-id="" tvg-name="CANDY" tvg-logo="" group-title="特殊频道",CANDY HD
+http://195.181.162.217:80/239923/239923/35605
 #EXTINF:-1 tvg-id="" tvg-name="HUSTLER" tvg-logo="https://sppotato.github.io/icon/" group-title="特殊频道",HUSTLER HD
-http://188.35.9.26:2030/udp/047c
-#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS" tvg-logo="https://sppotato.github.io/icon/" group-title="特殊频道",BRAZZERS
-http://188.35.9.26:9031/udp/117m
-#EXTINF:-1 tvg-id="" tvg-name="SexTV" tvg-logo="https://sppotato.github.io/icon/" group-title="特殊频道",SexTV
-http://188.35.9.26:5031/udp/058j
+http://195.181.162.217:80/239923/239923/35619
+#EXTINF:-1 tvg-id="" tvg-name="SEXT6SENSO" tvg-logo="https://sppotato.github.io/icon/" group-title="特殊频道",SEXT6SENSO
+http://195.181.162.217:25461/090502/090502/35618
+
+
 
 
