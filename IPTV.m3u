@@ -56,7 +56,7 @@ http://183.232.184.143/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-15(音乐)" tvg-logo="https://sppotato.github.io/icon/cctv15.png" group-title="卫视高清",CCTV-15音乐 HD
 http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://sppotato.github.io/icon/cctv17.png" group-title="卫视高清",CCTV-17农村农业 HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-17(农业)" tvg-logo="https://sppotato.github.io/icon/cctv17.png" group-title="卫视高清",CCTV-17农村农业 HD
 http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" group-title="卫视高清",CCTV-4K HD
 http://183.232.184.143/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
@@ -453,7 +453,7 @@ http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://sppotato.github.io/icon/gdty.png" group-title="地方720P",广东-广东体育 HD
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="峨嵋电影" tvg-logo="https://sppotato.github.io/icon/emdy.png" group-title="地方720P",四川-峨眉电影 HD
+#EXTINF:-1 tvg-id="" tvg-name="峨眉电影频道" tvg-logo="https://sppotato.github.io/icon/emdy.png" group-title="地方720P",四川-峨眉电影 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51008/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川文化旅游" tvg-logo="https://sppotato.github.io/icon/sctv2.png" group-title="地方720P",四川-文化旅游 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51001/index.m3u8
@@ -833,9 +833,9 @@ http://boyztoyz.us:80/RonDenston/15.05.19/2850
 http://boyztoyz.us:80/RonDenston/15.05.19/4390
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://sppotato.github.io/icon/mtvlive.png" group-title="国际高清FQ",MTV音乐现场 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4389
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://sppotato.github.io/icon/fox.png" group-title="国际高清FQ",FOX频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX频道" tvg-logo="https://sppotato.github.io/icon/fox.png" group-title="国际高清FQ",FOX频道 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4396
-#EXTINF:-1 tvg-id="" tvg-name="FOXLIFE" tvg-logo="https://sppotato.github.io/icon/foxlife.png" group-title="国际高清FQ",FOX生活频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX生活" tvg-logo="https://sppotato.github.io/icon/foxlife.png" group-title="国际高清FQ",FOX生活频道 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/6814
 #EXTINF:-1 tvg-id="" tvg-name="BBCWorldNews" tvg-logo="https://sppotato.github.io/icon/bbcnew1.png" group-title="国际高清FQ",BBC一台 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/5279
@@ -857,7 +857,7 @@ http://boyztoyz.us:80/RonDenston/15.05.19/4407
 http://boyztoyz.us:80/RonDenston/15.05.19/4404
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime娱乐" tvg-logo="https://sppotato.github.io/icon/" group-title="国际高清FQ",美国女性生活 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4392
-#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://sppotato.github.io/icon/discovery.png" group-title="国际高清FQ",探索频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="探索频道" tvg-logo="https://sppotato.github.io/icon/discovery.png" group-title="国际高清FQ",探索频道 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4402
 #EXTINF:-1 tvg-id="" tvg-name="旅游生活" tvg-logo="https://sppotato.github.io/icon/tlc.png" group-title="国际高清FQ",TLC旅游生活 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4843
