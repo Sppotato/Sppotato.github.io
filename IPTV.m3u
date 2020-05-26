@@ -810,6 +810,8 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WNI" tvg-logo="https://sppotato.github.io/icon/wni.png" group-title="国际高清",日本-气象新闻 HD
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV BRICS" tvg-logo="https://sppotato.github.io/icon/hbofamily.png" group-title="国际高清",TV BRICS HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
 
 
