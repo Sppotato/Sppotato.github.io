@@ -700,15 +700,25 @@ https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94
 #EXTINF:-1 tvg-id="" tvg-name="香港有线财经台" tvg-logo="https://sppotato.github.io/icon/yxcj.png" group-title="港澳台高清FQ",有线财经资讯 HD
 https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8#http://teslagram.com/live/channel_108.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="https://sppotato.github.io/icon/feicui.png" group-title="港澳台高清FQ",翡翠台 HD
-http://61.238.6.49:8000/bysid/1#http://219.79.222.200:9981/stream/channelid/1567054223
+http://42.98.53.203:9981/stream/channelid/190788619#http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 tvg-id="" tvg-name="ViuTVsix" tvg-logo="https://sppotato.github.io/icon/viutv6.png" group-title="港澳台高清FQ",ViuTV6 HD
-http://61.238.6.49:8000/bysid/96
+http://42.98.53.203:9981/stream/channelid/2110602749#http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="https://sppotato.github.io/icon/viutv.png" group-title="港澳台高清FQ",ViuTV HD
-http://61.238.6.49:8000/bysid/99#http://219.79.222.200:9981/stream/channelid/1398053890
+http://42.98.53.203:9981/stream/channelid/246840679#http://61.238.6.49:8000/bysid/99
+#EXTINF:-1,tvg-id="" tvg-name="港台電視31" tvg-logo="" group-title="港澳台高清FQ",港台電視31 HD
+http://42.98.53.203:9981/stream/channelid/724310460
+#EXTINF:-1,tvg-id="" tvg-name="港台電視32" tvg-logo="" group-title="港澳台高清FQ",港台電視32 HD
+http://42.98.53.203:9981/stream/channelid/1865766877
+#EXTINF:-1,tvg-id="" tvg-name="港台電視33" tvg-logo="" group-title="港澳台高清FQ",港台電視33 HD
+http://42.98.53.203:9981/stream/channelid/443532904
+#EXTINF:-1,tvg-id="" tvg-name="TVB明珠" tvg-logo="" group-title="港澳台高清FQ",明珠台 HD
+http://42.98.53.203:9981/stream/channelid/518638356
+#EXTINF:-1,tvg-id="" tvg-name="TVB-J2" tvg-logo="" group-title="港澳台高清FQ",TVB-J2 HD
+http://42.98.53.203:9981/stream/channelid/715488658
 #EXTINF:-1 tvg-id="" tvg-name="TVB新闻" tvg-logo="https://sppotato.github.io/icon/wuxianxinwen.png" group-title="港澳台高清FQ",无线新闻台 HD
-http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+http://42.98.53.203:9981/stream/channelid/850915265#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 #EXTINF:-1 tvg-id="" tvg-name="TVB-J5" tvg-logo="https://sppotato.github.io/icon/wuxiancaijing.png" group-title="港澳台高清FQ",无线财经资讯台 HD
-http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
+http://42.98.53.203:9981/stream/channelid/31381873#http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
 #EXTINF:-1 tvg-id="" tvg-name="星河频道" tvg-logo="https://sppotato.github.io/icon/tvbxinghe.png" group-title="港澳台高清FQ",TVB星河 HD
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港亚视" tvg-logo="https://sppotato.github.io/icon/hkys.png" group-title="港澳台高清FQ",香港亚视 HD
@@ -797,7 +807,7 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-logo="https://sppotato.github.io/icon/Vasantham.png" group-title="国际高清",新马泰-斯里兰卡 HD
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ArirangTV" tvg-logo="https://sppotato.github.io/icon/arirang.png" group-title="国际高清",韩国-阿里郎 HD
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDIwIDM6MTA6MDQgUE0maGFzaF92YWx1ZT1EVzNLQmNVMWpNQ2o1MHc4UGh1SmZnPT0mdmFsaWRtaW51dGVzPTQ4MA==
 #EXTINF:-1 tvg-id="" tvg-name="KCTV" tvg-logo="https://sppotato.github.io/icon/kctv.png" group-title="国际高清",韩国-KCTV HD
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-language="Korea" tvg-logo="https://sppotato.github.io/icon/cgntv2.png" group-title="国际高清",韩国-CGN宗教 HD
@@ -812,8 +822,6 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WNI" tvg-logo="https://sppotato.github.io/icon/wni.png" group-title="国际高清",日本-气象新闻 HD
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV BRICS" tvg-logo="https://sppotato.github.io/icon/hbofamily.png" group-title="国际高清",TV BRICS HD
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
 
 
