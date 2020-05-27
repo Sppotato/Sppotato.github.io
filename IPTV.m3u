@@ -451,88 +451,83 @@ http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43064/index.m3u8
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43069/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="张家界一台" tvg-logo="https://sppotato.github.io/icon/zjjtv1.png" group-title="地方高清",湖南-张家界一台 HD
 http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="新华中文" tvg-logo="https://sppotato.github.io/icon/xhzw.png" group-title="地方720P",北京-新华中文 HD
+#EXTINF:-1 tvg-id="" tvg-name="新华中文" tvg-logo="https://sppotato.github.io/icon/xhzw.png" group-title="地方高清",北京-新华中文 HD
 http://livecdn1.news.cn/cnccn/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="峨眉电影频道" tvg-logo="https://sppotato.github.io/icon/emdy.png" group-title="地方720P",四川-峨眉电影 HD
+#EXTINF:-1 tvg-id="" tvg-name="峨眉电影频道" tvg-logo="https://sppotato.github.io/icon/emdy.png" group-title="地方高清",四川-峨眉电影 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51008/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="四川文化旅游" tvg-logo="https://sppotato.github.io/icon/sctv2.png" group-title="地方720P",四川-文化旅游 HD
+#EXTINF:-1 tvg-id="" tvg-name="四川文化旅游" tvg-logo="https://sppotato.github.io/icon/sctv2.png" group-title="地方高清",四川-文化旅游 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51001/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="四川经济频道" tvg-logo="https://sppotato.github.io/icon/sctv3.png" group-title="地方720P",四川-经济频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="四川经济频道" tvg-logo="https://sppotato.github.io/icon/sctv3.png" group-title="地方高清",四川-经济频道 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51002/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="四川新闻资讯" tvg-logo="https://sppotato.github.io/icon/sctv4.png" group-title="地方720P",四川-新闻资讯 HD
+#EXTINF:-1 tvg-id="" tvg-name="四川新闻资讯" tvg-logo="https://sppotato.github.io/icon/sctv4.png" group-title="地方高清",四川-新闻资讯 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51003/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="四川影视文艺" tvg-logo="https://sppotato.github.io/icon/sctv5.png" group-title="地方720P",四川-影视文艺 HD
+#EXTINF:-1 tvg-id="" tvg-name="四川影视文艺" tvg-logo="https://sppotato.github.io/icon/sctv5.png" group-title="地方高清",四川-影视文艺 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51004/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="四川公共乡村" tvg-logo="https://sppotato.github.io/icon/sctv7.png" group-title="地方720P",四川-妇女儿童 HD
+#EXTINF:-1 tvg-id="" tvg-name="四川公共乡村" tvg-logo="https://sppotato.github.io/icon/sctv7.png" group-title="地方高清",四川-妇女儿童 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51005/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-logo="https://sppotato.github.io/icon/kbtv.png" group-title="地方720P",四川-康巴卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-logo="https://sppotato.github.io/icon/kbtv.png" group-title="地方高清",四川-康巴卫视 HD
 http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="遂宁综合" tvg-logo="https://sppotato.github.io/icon/suining1.png" group-title="地方720P",四川-遂宁综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="遂宁综合" tvg-logo="https://sppotato.github.io/icon/suining1.png" group-title="地方高清",四川-遂宁综合 HD
 http://snlive.scsntv.com:8091/live/xwzh.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="遂宁公共" tvg-logo="https://sppotato.github.io/icon/suining2.png" group-title="地方720P",四川-遂宁公共 HD
+#EXTINF:-1 tvg-id="" tvg-name="遂宁公共" tvg-logo="https://sppotato.github.io/icon/suining2.png" group-title="地方高清",四川-遂宁公共 HD
 http://snlive.scsntv.com:8091/live/gggy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="达州新闻综合" tvg-logo="https://sppotato.github.io/icon/dzzh.png" group-title="地方720P",四川-达州综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="达州新闻综合" tvg-logo="https://sppotato.github.io/icon/dzzh.png" group-title="地方高清",四川-达州综合 HD
 http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="达州公共" tvg-logo="https://sppotato.github.io/icon/dzgg.png" group-title="地方720P",四川-达州公共 HD
+#EXTINF:-1 tvg-id="" tvg-name="达州公共" tvg-logo="https://sppotato.github.io/icon/dzgg.png" group-title="地方高清",四川-达州公共 HD
 http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel36/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖南教育" tvg-logo="https://sppotato.github.io/icon/hunanjy.png" group-title="地方720P",湖南-教育频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="湖南教育" tvg-logo="https://sppotato.github.io/icon/hunanjy.png" group-title="地方高清",湖南-教育频道 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43021/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖南经济" tvg-logo="https://sppotato.github.io/icon/hnjs.png" group-title="地方720P",湖南-经视频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="湖南经济" tvg-logo="https://sppotato.github.io/icon/hnjs.png" group-title="地方高清",湖南-经视频道 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43024/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖南娱乐" tvg-logo="https://sppotato.github.io/icon/hnyl.png" group-title="地方720P",湖南-娱乐频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="湖南娱乐" tvg-logo="https://sppotato.github.io/icon/hnyl.png" group-title="地方高清",湖南-娱乐频道 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43027/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖南都市" tvg-logo="https://sppotato.github.io/icon/hnds.png" group-title="地方720P",湖南-都市频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="湖南都市" tvg-logo="https://sppotato.github.io/icon/hnds.png" group-title="地方高清",湖南-都市频道 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43028/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖南电影" tvg-logo="https://sppotato.github.io/icon/hndy.png" group-title="地方720P",湖南-电影频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="湖南电影" tvg-logo="https://sppotato.github.io/icon/hndy.png" group-title="地方高清",湖南-电影频道 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43029/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖南电视剧" tvg-logo="https://sppotato.github.io/icon/hndsj.png" group-title="地方720P",湖南-电视剧频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="湖南电视剧" tvg-logo="https://sppotato.github.io/icon/hndsj.png" group-title="地方高清",湖南-电视剧频道 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43030/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖南公共" tvg-logo="https://sppotato.github.io/icon/hngg.png" group-title="地方720P",湖南-公共频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="湖南公共" tvg-logo="https://sppotato.github.io/icon/hngg.png" group-title="地方高清",湖南-公共频道 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43031/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="娄底综合" tvg-logo="https://sppotato.github.io/icon/loudizh.png" group-title="地方720P",湖南-娄底综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="娄底综合" tvg-logo="https://sppotato.github.io/icon/loudizh.png" group-title="地方高清",湖南-娄底综合 HD
 http://218.77.102.118:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="娄底公共" tvg-logo="https://sppotato.github.io/icon/loudigg.png" group-title="地方720P",湖南-娄底公共 HD
+#EXTINF:-1 tvg-id="" tvg-name="娄底公共" tvg-logo="https://sppotato.github.io/icon/loudigg.png" group-title="地方高清",湖南-娄底公共 HD
 http://218.77.102.118:1935/live/gonggong/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="杭州综合" tvg-logo="https://sppotato.github.io/icon/hangzhou1.png" group-title="地方720P",杭州-综合频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="杭州综合" tvg-logo="https://sppotato.github.io/icon/hangzhou1.png" group-title="地方高清",杭州-综合频道 HD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="杭州明珠" tvg-logo="https://sppotato.github.io/icon/hangzhou2.png" group-title="地方720P",杭州-明珠频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="杭州明珠" tvg-logo="https://sppotato.github.io/icon/hangzhou2.png" group-title="地方高清",杭州-明珠频道 HD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="杭州生活" tvg-logo="https://sppotato.github.io/icon/hangzhou3.png" group-title="地方720P",杭州-生活频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="杭州生活" tvg-logo="https://sppotato.github.io/icon/hangzhou3.png" group-title="地方高清",杭州-生活频道 HD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="杭州影视" tvg-logo="https://sppotato.github.io/icon/hangzhou4.png" group-title="地方720P",杭州-影视频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="杭州影视" tvg-logo="https://sppotato.github.io/icon/hangzhou4.png" group-title="地方高清",杭州-影视频道 HD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="杭州少儿" tvg-logo="https://sppotato.github.io/icon/hangzhou5.png" group-title="地方720P",杭州-少儿频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="杭州少儿" tvg-logo="https://sppotato.github.io/icon/hangzhou5.png" group-title="地方高清",杭州-少儿频道 HD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="石家庄综合" tvg-logo="https://sppotato.github.io/icon/shijiazhuang.png" group-title="地方720P",河北-石家庄综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="石家庄综合" tvg-logo="https://sppotato.github.io/icon/shijiazhuang.png" group-title="地方高清",河北-石家庄综合 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel13014/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="新疆维语新闻综合" tvg-logo="https://sppotato.github.io/icon/xjtv2.png" group-title="地方720P",新疆-维语综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="新疆维语新闻综合" tvg-logo="https://sppotato.github.io/icon/xjtv2.png" group-title="地方高清",新疆-维语综合 HD
 http://s5117133.m.awhost.cn/dl/xinjiang.php?id=2
-#EXTINF:-1 tvg-id="" tvg-name="新疆哈语新闻综合" tvg-logo="https://sppotato.github.io/icon/xjtv3.png" group-title="地方720P",新疆-哈语综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="新疆哈语新闻综合" tvg-logo="https://sppotato.github.io/icon/xjtv3.png" group-title="地方高清",新疆-哈语综合 HD
 http://s5117133.m.awhost.cn/dl/xinjiang.php?id=3
-#EXTINF:-1 tvg-id="" tvg-name="新疆汉语综艺" tvg-logo="https://sppotato.github.io/icon/xjtv4.png" group-title="地方720P",新疆-汉语综艺 HD
+#EXTINF:-1 tvg-id="" tvg-name="新疆汉语综艺" tvg-logo="https://sppotato.github.io/icon/xjtv4.png" group-title="地方高清",新疆-汉语综艺 HD
 http://s5117133.m.awhost.cn/dl/xinjiang.php?id=4
-#EXTINF:-1 tvg-id="" tvg-name="新疆维语综艺" tvg-logo="https://sppotato.github.io/icon/xjtv5.png" group-title="地方720P",新疆-维语综艺 HD
+#EXTINF:-1 tvg-id="" tvg-name="新疆维语综艺" tvg-logo="https://sppotato.github.io/icon/xjtv5.png" group-title="地方高清",新疆-维语综艺 HD
 http://s5117133.m.awhost.cn/dl/xinjiang.php?id=5
-#EXTINF:-1 tvg-id="" tvg-name="新疆汉语经济生活" tvg-logo="https://sppotato.github.io/icon/xjtv7.png" group-title="地方720P",新疆-汉语经济生活 HD
+#EXTINF:-1 tvg-id="" tvg-name="新疆汉语经济生活" tvg-logo="https://sppotato.github.io/icon/xjtv7.png" group-title="地方高清",新疆-汉语经济生活 HD
 http://s5117133.m.awhost.cn/dl/xinjiang.php?id=7
-#EXTINF:-1 tvg-id="" tvg-name="新疆哈语综艺" tvg-logo="https://sppotato.github.io/icon/xjtv8.png" group-title="地方720P",新疆-哈语综艺 HD
+#EXTINF:-1 tvg-id="" tvg-name="新疆哈语综艺" tvg-logo="https://sppotato.github.io/icon/xjtv8.png" group-title="地方高清",新疆-哈语综艺 HD
 http://s5117133.m.awhost.cn/dl/xinjiang.php?id=8
-#EXTINF:-1 tvg-id="" tvg-name="新疆维语经济生活" tvg-logo="https://sppotato.github.io/icon/xjtv9.png" group-title="地方720P",新疆-维语经济生活 HD
+#EXTINF:-1 tvg-id="" tvg-name="新疆维语经济生活" tvg-logo="https://sppotato.github.io/icon/xjtv9.png" group-title="地方高清",新疆-维语经济生活 HD
 http://s5117133.m.awhost.cn/dl/xinjiang.php?id=9
-#EXTINF:-1 tvg-id="" tvg-name="新疆汉语体育健康" tvg-logo="https://sppotato.github.io/icon/xjtv10.png" group-title="地方720P",新疆-汉语体育健康 HD
+#EXTINF:-1 tvg-id="" tvg-name="新疆汉语体育健康" tvg-logo="https://sppotato.github.io/icon/xjtv10.png" group-title="地方高清",新疆-汉语体育健康 HD
 http://s5117133.m.awhost.cn/dl/xinjiang.php?id=10
-#EXTINF:-1 tvg-id="" tvg-name="新疆汉语法治信息" tvg-logo="https://sppotato.github.io/icon/xjtv11.png" group-title="地方720P",新疆-汉语法治信息 HD
+#EXTINF:-1 tvg-id="" tvg-name="新疆汉语法治信息" tvg-logo="https://sppotato.github.io/icon/xjtv11.png" group-title="地方高清",新疆-汉语法治信息 HD
 http://s5117133.m.awhost.cn/dl/xinjiang.php?id=11
-#EXTINF:-1 tvg-id="" tvg-name="新疆少儿" tvg-logo="https://sppotato.github.io/icon/xjtv12.png" group-title="地方720P",新疆-少儿频道 HD
+#EXTINF:-1 tvg-id="" tvg-name="新疆少儿" tvg-logo="https://sppotato.github.io/icon/xjtv12.png" group-title="地方高清",新疆-少儿频道 HD
 http://s5117133.m.awhost.cn/dl/xinjiang.php?id=12
-#EXTINF:-1 tvg-id="" tvg-name="BBC经典" tvg-logo="https://sppotato.github.io/icon/djjl.png" group-title="地方720P",轮播-BBC纪录经典 HD
+#EXTINF:-1 tvg-id="" tvg-name="BBC经典" tvg-logo="https://sppotato.github.io/icon/djjl.png" group-title="地方高清",轮播-BBC纪录经典 HD
 http://live.hcs.cmvideo.cn/wd_r3/virtuallive/5101074616/150/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="Discovery展播" tvg-logo="https://sppotato.github.io/icon/tszb.png" group-title="地方720P",轮播-Discovery HD
+#EXTINF:-1 tvg-id="" tvg-name="Discovery展播" tvg-logo="https://sppotato.github.io/icon/tszb.png" group-title="地方高清",轮播-Discovery HD
 http://live.hcs.cmvideo.cn/wd_r2/virtuallive/5101098146/150/index.m3u8?&encrypt=
 
 
