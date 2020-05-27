@@ -942,6 +942,12 @@ http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8682
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18557
 #EXTINF:-1 tvg-id="" tvg-name="天映电影HD" tvg-logo="https://sppotato.github.io/icon/" group-title="新马泰FQ",天映频道
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18603
+#EXTINF:-1 tvg-id="" tvg-name="卫视卡式台" tvg-logo="https://sppotato.github.io/icon/starkashi.png" group-title="新马泰FQ",卫视卡式台
+https://livedoomovies.com/02_SCM_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="天映经典" tvg-logo="https://sppotato.github.io/icon/" group-title="新马泰FQ",天映经典
+https://www.livedoomovies.com/02_CCM_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://sppotato.github.io/icon/" group-title="新马泰FQ",Thrill惊悚电影
+https://livedoomovies.com/02_Thrill_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="探索频道" tvg-logo="https://sppotato.github.io/icon/" group-title="新马泰FQ",探索频道
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18600
 #EXTINF:-1 tvg-id="" tvg-name="DreamWorks梦工厂" tvg-logo="https://sppotato.github.io/icon/" group-title="新马泰FQ",梦工厂
@@ -1121,25 +1127,16 @@ http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9340
 
 
 #EXTINF:-1 tvg-id="" tvg-name="国家地理频道" tvg-logo="https://sppotato.github.io/icon/ngo.png" group-title="英美德FQ",越南-国家地理 HD
-http://42.119.19.142:39746/udp/225.1.2.235:30120
-#EXTINF:-1 tvg-id="" tvg-name="Fashion4K" tvg-logo="https://sppotato.github.io/icon/" group-title="英美德FQ",越南-Fashion 4K
-http://42.119.19.142:39746/udp/225.1.2.232:30120
+http://42.119.203.58:4022/udp/225.1.2.235:30120
+#EXTINF:-1 tvg-id="" tvg-name="FashionTV" tvg-logo="https://sppotato.github.io/icon/" group-title="英美德FQ",越南-FashionTV HD
+http://42.119.203.58:4022/udp/225.1.2.227:30120
 #EXTINF:-1 tvg-id="" tvg-name="BBC地球" tvg-logo="https://sppotato.github.io/icon/" group-title="英美德FQ",BBC地球 HD
-http://42.119.19.142:39746/udp/225.1.2.24:30120
+http://42.119.203.58:4022/udp/225.1.2.24:30120
 #EXTINF:-1 tvg-id="" tvg-name="BlueAnt綜藝" tvg-logo="https://sppotato.github.io/icon/" group-title="英美德FQ",BlueAnt综艺 HD
-http://42.119.19.142:39746/udp/225.1.1.203:30120
+http://42.119.203.58:4022/udp/225.1.1.203:30120
 #EXTINF:-1 tvg-id="" tvg-name="BlueAnt娛樂" tvg-logo="https://sppotato.github.io/icon/" group-title="英美德FQ",BlueAnt娱乐 HD
-http://42.119.19.142:39746/udp/225.1.1.204:30120
+http://42.119.203.58:4022/udp/225.1.1.204:30120
 
-
-#EXTINF:-1 tvg-id="" tvg-name="卫视中文" tvg-logo="https://sppotato.github.io/icon/starchinese.png" group-title="国际标清FQ",卫视中文台
-http://boyztoyz.us:80/RonDenston/15.05.19/7449
-#EXTINF:-1 tvg-id="" tvg-name="卫视卡式台" tvg-logo="https://sppotato.github.io/icon/starkashi.png" group-title="国际标清FQ",卫视卡式台
-https://livedoomovies.com/02_SCM_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="天映经典" tvg-logo="https://sppotato.github.io/icon/" group-title="国际标清FQ",天映经典
-https://www.livedoomovies.com/02_CCM_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://sppotato.github.io/icon/" group-title="国际标清FQ",Thrill惊悚电影
-https://livedoomovies.com/02_Thrill_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="花花公子" tvg-logo="https://sppotato.github.io/icon/playboy.png" group-title="特殊频道",花花公子 HD
