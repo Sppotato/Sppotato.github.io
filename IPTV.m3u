@@ -754,12 +754,6 @@ https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 http://183.98.98.136:9981/stream/channelid/1764924130ticket=241FA823A61835DBF54A827D3939F16E2284FB15&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="EBS" tvg-logo="https://sppotato.github.io/icon/ebs1.png" group-title="日韩亚洲",韩国-EBS教育放送 HD
 http://183.98.98.136:9981/stream/channelid/622397827ticket=A4AAD56188087E18371E70D171F8B63AD9559FFD&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="1HD Music TV" tvg-logo="https://sppotato.github.io/icon/music.png" group-title="日韩亚洲",俄罗斯-ONE音乐 HD
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mifa" tvg-logo="https://sppotato.github.io/icon/gemmifa.png" group-title="日韩亚洲",伊朗-GEM MIFA音乐 HD
-https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NEWSMAXTV" tvg-logo="https://sppotato.github.io/icon/newsmax.png" group-title="日韩亚洲",美国-新闻时事 HD
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNAI亚洲新闻" tvg-logo="https://sppotato.github.io/icon/cna.png" group-title="日韩亚洲",亚洲新闻台 HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="U频道" tvg-logo="https://sppotato.github.io/icon/xjpu.png" group-title="日韩亚洲",U频道 HD
@@ -773,7 +767,7 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-logo="https://sppotato.github.io/icon/Vasantham.png" group-title="日韩亚洲",斯里兰卡 HD
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ArirangTV" tvg-logo="https://sppotato.github.io/icon/arirang.png" group-title="日韩亚洲",韩国-阿里郎 HD
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDIwIDM6MTA6MDQgUE0maGFzaF92YWx1ZT1EVzNLQmNVMWpNQ2o1MHc4UGh1SmZnPT0mdmFsaWRtaW51dGVzPTQ4MA==
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KCTV" tvg-logo="https://sppotato.github.io/icon/kctv.png" group-title="日韩亚洲",韩国-KCTV HD
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-language="Korea" tvg-logo="https://sppotato.github.io/icon/cgntv2.png" group-title="日韩亚洲",韩国-CGN宗教 HD
@@ -788,34 +782,24 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WNI" tvg-logo="https://sppotato.github.io/icon/wni.png" group-title="日韩亚洲",日本-气象新闻 HD
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1HD Music TV" tvg-logo="https://sppotato.github.io/icon/music.png" group-title="日韩亚洲",ONE音乐 HD
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mifa" tvg-logo="https://sppotato.github.io/icon/gemmifa.png" group-title="日韩亚洲",GEM MIFA音乐 HD
+https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
 
 
 
 #EXTINF:-1,---------------INDIA---------------
-#EXTINF:-1 tvg-id="" tvg-name="索尼GEM" tvg-logo="https://sppotato.github.io/icon/sony.png" group-title="越南印度西班牙",印度-SONY HD
-https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="SonyBBCEarth" tvg-logo="https://sppotato.github.io/icon/sonybbc.png" group-title="越南印度西班牙",印度-SONY自然知性 HD
-https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="SonyMaxHD" tvg-logo="https://sppotato.github.io/icon/sonymax.png" group-title="越南印度西班牙",印度-SONYMAX HD
-https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="SonySABHD" tvg-logo="https://sppotato.github.io/icon/sonysab.png" group-title="越南印度西班牙",印度-SONYSAB HD
-https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="SonyYayHD" tvg-logo="https://sppotato.github.io/icon/sonyyay.png" group-title="越南印度西班牙",印度-SONYYAY HD
-https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="SonyPixHD" tvg-logo="https://sppotato.github.io/icon/sonypix.png" group-title="越南印度西班牙",印度-SONYPIX HD
-https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="SonyTen1" tvg-logo="https://sppotato.github.io/icon/sonyten1.png" group-title="越南印度西班牙",印度-SONYTEN1 HD
-https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="" tvg-name="SonyTen2" tvg-logo="https://sppotato.github.io/icon/sonyten2.png" group-title="越南印度西班牙",印度-SONYTEN2 HD
-https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="" tvg-name="SonyTen3" tvg-logo="https://sppotato.github.io/icon/sonyten3.png" group-title="越南印度西班牙",印度-SONYTEN3 HD
-https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="" tvg-name="SonySixHD" tvg-logo="https://sppotato.github.io/icon/sonysix.png" group-title="越南印度西班牙",印度-SONYSIX HD
-https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="" tvg-name="axn-HD" tvg-logo="https://sppotato.github.io/icon/axn.png" group-title="越南印度西班牙",印度-SONYAXN HD
-https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="" tvg-name="HBO电影HD" tvg-logo="https://sppotato.github.io/icon/hbo.png" group-title="越南印度西班牙",HBO家庭影院 HD
 http://42.119.203.58:4022/udp/225.1.2.233:30120
+#EXTINF:-1 tvg-id="" tvg-name="红电影" tvg-logo="https://sppotato.github.io/icon/hbo.png" group-title="越南印度西班牙",HBO红电影 HD
+http://42.119.203.58:4022/udp/225.1.1.93:30120
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX电影" tvg-logo="https://sppotato.github.io/icon/hbo.png" group-title="越南印度西班牙",CINEMAX电影 HD
+http://42.119.203.58:4022/udp/225.1.2.86:30120
+#EXTINF:-1 tvg-id="" tvg-name="KIX电影" tvg-logo="https://sppotato.github.io/icon/hbo.png" group-title="越南印度西班牙",KIX电影 HD
+http://42.119.203.58:4022/udp/225.1.2.144:30120
+#EXTINF:-1 tvg-id="" tvg-name="axn-HD" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",AXN HD
+http://42.119.203.58:4022/udp/225.1.2.225:30120
 #EXTINF:-1 tvg-id="" tvg-name="国家地理频道" tvg-logo="https://sppotato.github.io/icon/ngo.png" group-title="越南印度西班牙",国家地理 HD
 http://42.119.203.58:4022/udp/225.1.2.235:30120
 #EXTINF:-1 tvg-id="" tvg-name="FashionTV" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",FashionTV HD
@@ -826,10 +810,169 @@ http://42.119.203.58:4022/udp/225.1.2.24:30120
 http://42.119.203.58:4022/udp/225.1.1.203:30120
 #EXTINF:-1 tvg-id="" tvg-name="BlueAnt娛樂" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",BlueAnt娱乐 HD
 http://42.119.203.58:4022/udp/225.1.1.204:30120
+#EXTINF:-1 tvg-id="" tvg-name="动物星球" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",动物星球 HD
+http://42.119.203.58:4022/udp/225.1.1.231:30120
 #EXTINF:-1 tvg-id="" tvg-name="探索频道" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",探索频道 HD
 http://42.119.203.58:4022/udp/225.1.1.238:30120
-#EXTINF:-1 tvg-id="" tvg-name="探索亚洲" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",探索亚洲 HD
+#EXTINF:-1 tvg-id="" tvg-name="探索频道亚洲" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",探索亚洲 HD
 http://42.119.203.58:4022/udp/225.1.2.223:30120
+#EXTINF:-1 tvg-id="" tvg-name="Davinci达文西" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",达文西 HD
+http://42.119.203.58:4022/udp/225.1.1.197:30120
+#EXTINF:-1 tvg-id="" tvg-name="华纳电视" tvg-logo="https://sppotato.github.io/icon/tvn.png" group-title="越南印度西班牙",华纳电视 HD
+http://42.119.203.58:4022/udp/225.1.1.139:30120
+#EXTINF:-1 tvg-id="" tvg-name="旅游生活" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",旅游生活 HD
+http://42.119.203.58:4022/udp/225.1.1.236:30120
+#EXTINF:-1 tvg-id="" tvg-name="户外频道-HD" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",户外频道 HD
+http://42.119.203.58:4022/udp/225.1.2.215:30120
+#EXTINF:-1 tvg-id="" tvg-name="Food亚洲" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",亚洲美食 HD
+http://42.119.203.58:4022/udp/225.1.1.198:30120
+#EXTINF:-1 tvg-id="" tvg-name="NHK世界新闻" tvg-logo="https://sppotato.github.io/icon/nhk.png" group-title="越南印度西班牙",日本-NHK环球国际 HD
+http://42.119.203.58:4022/udp/225.1.1.47:30120
+#EXTINF:-1 tvg-id="" tvg-name="FOX频道" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",FOX频道 HD
+http://42.119.203.58:4022/udp/225.1.1.51:30120
+#EXTINF:-1 tvg-id="" tvg-name="foxmoviespremium" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",FOX电影
+http://42.119.203.58:4022/udp/225.1.2.239:30120
+#EXTINF:-1 tvg-id="" tvg-name="FOX生活" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",FOX生活 HD
+http://42.119.203.58:4022/udp/225.1.2.237:30120
+#EXTINF:-1 tvg-id="" tvg-name="fox体育1" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",FOX体育1台 HD
+http://42.119.203.58:4022/udp/225.1.2.229:30120
+#EXTINF:-1 tvg-id="" tvg-name="fox体育2" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",FOX体育2台 HD
+http://42.119.203.58:4022/udp/225.1.1.141:30120
+#EXTINF:-1 tvg-id="" tvg-name="fox体育3" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",FOX体育3台 HD
+http://42.119.203.58:4022/udp/225.1.2.242:30120
+#EXTINF:-1 tvg-id="" tvg-name="DWTV" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",德国之声 HD
+http://42.119.203.58:4022/udp/225.1.1.46:30120
+#EXTINF:-1 tvg-id="" tvg-name="CN卡通頻道亚洲" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",CN卡通 HD
+http://42.119.203.58:4022/udp/225.1.2.231:30120
+#EXTINF:-1 tvg-id="" tvg-name="迪士尼亚洲HD" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",迪士尼频道 HD
+http://42.119.203.58:4022/udp/225.1.2.158:30120
+#EXTINF:-1 tvg-id="" tvg-name="babytv" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",BABYTV HD
+http://42.119.203.58:4022/udp/225.1.2.146:30120
+#EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",CinemaWorld HD
+http://42.119.203.58:4022/udp/225.1.1.142:30120
+#EXTINF:-1 tvg-id="" tvg-name="ChannelV音乐" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",V音乐 HD
+http://42.119.203.58:4022/udp/225.1.1.188:30120
+#EXTINF:-1 tvg-id="" tvg-name="VTV1" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南1台 HD
+http://42.119.203.58:4022/udp/225.1.2.249:30120
+#EXTINF:-1 tvg-id="" tvg-name="VTV2" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南2台 HD
+http://42.119.203.58:4022/udp/225.1.2.13:30120
+#EXTINF:-1 tvg-id="" tvg-name="VTV3" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南3台 HD
+http://42.119.203.58:4022/udp/225.1.2.247:30120
+#EXTINF:-1 tvg-id="" tvg-name="VTV4" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南4台 HD
+http://42.119.203.58:4022/udp/225.1.2.20:30120
+#EXTINF:-1 tvg-id="" tvg-name="VTV5" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南5台 HD
+http://42.119.203.58:4022/udp/225.1.1.131:30120
+#EXTINF:-1 tvg-id="" tvg-name="VTV6" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南6台 HD
+http://42.119.203.58:4022/udp/225.1.2.245:30120
+#EXTINF:-1 tvg-id="" tvg-name="VTV7" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南7台 HD
+http://42.119.203.58:4022/udp/225.1.2.96:30120
+#EXTINF:-1 tvg-id="" tvg-name="VTV8" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南8台 HD
+http://42.119.203.58:4022/udp/225.1.2.166:30120
+#EXTINF:-1 tvg-id="" tvg-name="VTV9" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南9台 HD
+http://42.119.203.58:4022/udp/225.1.1.128:30120
+#EXTINF:-1 tvg-id="" tvg-name="VTC1" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南之声1台 HD
+http://42.119.203.58:4022/udp/225.1.2.254:30120
+#EXTINF:-1 tvg-id="" tvg-name="VTC3" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南之声3台 HD
+http://42.119.203.58:4022/udp/225.1.2.251:30120
+#EXTINF:-1 tvg-id="" tvg-name="VTC4" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南之声4台 HD
+http://42.119.203.58:4022/udp/225.1.2.200:30120
+#EXTINF:-1 tvg-id="" tvg-name="VTC13" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南之声13台 HD
+http://42.119.203.58:4022/udp/225.1.2.250:30120
+#EXTINF:-1 tvg-id="" tvg-name="VTC14" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南之声14台 HD
+http://42.119.203.58:4022/udp/225.1.2.88:30120
+#EXTINF:-1 tvg-id="" tvg-name="VTC16" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南之声16台 HD
+http://42.119.203.58:4022/udp/225.1.2.190:30120
+#EXTINF:-1 tvg-id="" tvg-name="HTV2" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",胡志明市2台 HD
+http://42.119.203.58:4022/udp/225.1.1.193:30120
+#EXTINF:-1 tvg-id="" tvg-name="HTV7" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",胡志明市7台 HD
+http://42.119.203.58:4022/udp/225.1.1.192:30120
+#EXTINF:-1 tvg-id="" tvg-name="HTV9" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",胡志明市9台 HD
+http://42.119.203.58:4022/udp/225.1.1.190:30120
+#EXTINF:-1 tvg-id="" tvg-name="FBNC" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南财经 HD
+http://42.119.203.58:4022/udp/225.1.1.182:30120
+#EXTINF:-1 tvg-id="" tvg-name="HTVC-Phim" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南影视 HD
+http://42.119.203.58:4022/udp/225.1.1.184:30120
+#EXTINF:-1 tvg-id="" tvg-name="HTVC" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南文化 HD
+http://42.119.203.58:4022/udp/225.1.1.186:30120
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南公安 HD
+http://42.119.203.58:4022/udp/225.1.2.169:30120
+#EXTINF:-1 tvg-id="" tvg-name="QPVN" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南国防 HD
+http://42.119.203.58:4022/udp/225.1.2.217:30120
+#EXTINF:-1 tvg-id="" tvg-name="QUỐC HỘI" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南国会 HD
+http://42.119.203.58:4022/udp/225.1.2.148:30120
+#EXTINF:-1 tvg-id="" tvg-name="VNEWS" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",越南新闻 HD
+http://42.119.203.58:4022/udp/225.1.1.43:30120
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",平阳电视台 HD
+http://42.119.203.58:4022/udp/225.1.1.145:30120
+#EXTINF:-1 tvg-id="" tvg-name="BTV1" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",平阳1台 HD
+http://42.119.203.58:4022/udp/225.1.1.150:30120
+#EXTINF:-1 tvg-id="" tvg-name="BTV2" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",平阳2台 HD
+http://42.119.203.58:4022/udp/225.1.1.149:30120
+#EXTINF:-1 tvg-id="" tvg-name="BTV3" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",平阳3台 HD
+http://42.119.203.58:4022/udp/225.1.1.31:30120
+#EXTINF:-1 tvg-id="" tvg-name="BTV4" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",平阳4台 HD
+http://42.119.203.58:4022/udp/225.1.1.30:30120
+#EXTINF:-1 tvg-id="" tvg-name="BTV9" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",平阳9台 HD
+http://42.119.203.58:4022/udp/225.1.2.189:30120
+#EXTINF:-1 tvg-id="" tvg-name="TTV" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",宣光电视台 HD
+http://42.119.203.58:4022/udp/225.1.2.188:30120
+#EXTINF:-1 tvg-id="" tvg-name="BGTV" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",北江电视台 HD
+http://42.119.203.58:4022/udp/225.1.1.164:30120
+#EXTINF:-1 tvg-id="" tvg-name="H1" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",河内1台 HD
+http://42.119.203.58:4022/udp/225.1.2.186:30120
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",河内2台 HD
+http://42.119.203.58:4022/udp/225.1.1.125:30120
+#EXTINF:-1 tvg-id="" tvg-name="THP" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",海防电视台 HD
+http://42.119.203.58:4022/udp/225.1.1.44:30120
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",乂安电视台 HD
+http://42.119.203.58:4022/udp/225.1.2.183:30120
+#EXTINF:-1 tvg-id="" tvg-name="HTTV" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",河静电视台 HD
+http://42.119.203.58:4022/udp/225.1.1.75:30120
+#EXTINF:-1 tvg-id="" tvg-name="DaNangTV1" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",岘港1台 HD
+http://42.119.203.58:4022/udp/225.1.1.147:30120
+#EXTINF:-1 tvg-id="" tvg-name="DaNangTV2" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",岘港2台 HD
+http://42.119.203.58:4022/udp/225.1.1.146:30120
+#EXTINF:-1 tvg-id="" tvg-name="QRT" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",广南电视台 HD
+http://42.119.203.58:4022/udp/225.1.2.50:30120
+#EXTINF:-1 tvg-id="" tvg-name="KRT" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",崑嵩电视台 HD
+http://42.119.203.58:4022/udp/225.1.1.36:30120
+#EXTINF:-1 tvg-id="" tvg-name="ĐNRTV1" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",同奈1台 HD
+http://42.119.203.58:4022/udp/225.1.1.152:30120
+#EXTINF:-1 tvg-id="" tvg-name="ĐNRTV2" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",同奈2台 HD
+http://42.119.203.58:4022/udp/225.1.1.151:30120
+#EXTINF:-1 tvg-id="" tvg-name="THVL1" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",永隆1台 HD
+http://42.119.203.58:4022/udp/225.1.1.155:30120
+#EXTINF:-1 tvg-id="" tvg-name="THVL2" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",永隆2台 HD
+http://42.119.203.58:4022/udp/225.1.1.154:30120
+#EXTINF:-1 tvg-id="" tvg-name="THVL3" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",永隆3台 HD
+http://42.119.203.58:4022/udp/225.1.1.235:30120
+#EXTINF:-1 tvg-id="" tvg-name="THVL4" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",永隆4台 HD
+http://42.119.203.58:4022/udp/225.1.1.32:30120
+#EXTINF:-1 tvg-id="" tvg-name="索尼GEM" tvg-logo="https://sppotato.github.io/icon/sony.png" group-title="越南印度西班牙",SONY HD
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="" tvg-name="SonyBBCEarth" tvg-logo="https://sppotato.github.io/icon/sonybbc.png" group-title="越南印度西班牙",SONY自然知性 HD
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="" tvg-name="SonyMaxHD" tvg-logo="https://sppotato.github.io/icon/sonymax.png" group-title="越南印度西班牙",SONYMAX HD
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="" tvg-name="SonySABHD" tvg-logo="https://sppotato.github.io/icon/sonysab.png" group-title="越南印度西班牙",SONYSAB HD
+https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="" tvg-name="SonyYayHD" tvg-logo="https://sppotato.github.io/icon/sonyyay.png" group-title="越南印度西班牙",SONYYAY HD
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="" tvg-name="SonyPixHD" tvg-logo="https://sppotato.github.io/icon/sonypix.png" group-title="越南印度西班牙",SONYPIX HD
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="" tvg-name="SonyTen1" tvg-logo="https://sppotato.github.io/icon/sonyten1.png" group-title="越南印度西班牙",SONYTEN1 HD
+https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 tvg-id="" tvg-name="SonyTen2" tvg-logo="https://sppotato.github.io/icon/sonyten2.png" group-title="越南印度西班牙",SONYTEN2 HD
+https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 tvg-id="" tvg-name="SonyTen3" tvg-logo="https://sppotato.github.io/icon/sonyten3.png" group-title="越南印度西班牙",SONYTEN3 HD
+https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 tvg-id="" tvg-name="SonySixHD" tvg-logo="https://sppotato.github.io/icon/sonysix.png" group-title="越南印度西班牙",SONYSIX HD
+https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 tvg-id="" tvg-name="axn-HD" tvg-logo="https://sppotato.github.io/icon/axn.png" group-title="越南印度西班牙",SONYAXN HD
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+
+
+
 
 
 
