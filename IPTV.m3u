@@ -802,7 +802,7 @@ http://42.119.203.58:4022/udp/225.1.2.144:30120
 http://42.119.203.58:4022/udp/225.1.2.225:30120
 #EXTINF:-1 tvg-id="" tvg-name="国家地理频道" tvg-logo="https://sppotato.github.io/icon/ngo.png" group-title="越南印度西班牙",国家地理 HD
 http://42.119.203.58:4022/udp/225.1.2.235:30120
-#EXTINF:-1 tvg-id="" tvg-name="FashionTV" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",FashionTV HD
+#EXTINF:-1 tvg-id="" tvg-name="法国时尚-HD" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",FashionTV HD
 http://42.119.203.58:4022/udp/225.1.2.227:30120
 #EXTINF:-1 tvg-id="" tvg-name="BBC地球" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",BBC地球 HD
 http://42.119.203.58:4022/udp/225.1.2.24:30120
@@ -830,7 +830,7 @@ http://42.119.203.58:4022/udp/225.1.1.198:30120
 http://42.119.203.58:4022/udp/225.1.1.47:30120
 #EXTINF:-1 tvg-id="" tvg-name="FOX频道" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",FOX频道 HD
 http://42.119.203.58:4022/udp/225.1.1.51:30120
-#EXTINF:-1 tvg-id="" tvg-name="foxmoviespremium" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",FOX电影
+#EXTINF:-1 tvg-id="" tvg-name="FOX优质电影" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",FOX电影 HD
 http://42.119.203.58:4022/udp/225.1.2.239:30120
 #EXTINF:-1 tvg-id="" tvg-name="FOX生活" tvg-logo="https://sppotato.github.io/icon/" group-title="越南印度西班牙",FOX生活 HD
 http://42.119.203.58:4022/udp/225.1.2.237:30120
@@ -1020,9 +1020,9 @@ http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62174
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62173
 #EXTINF:-1 tvg-id="" tvg-name="红电影" tvg-logo="https://sppotato.github.io/icon/hbored.png" group-title="新加坡马来泰国",HBO红电影 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62171#http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18561
-#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://sppotato.github.io/icon/" group-title="新加坡马来泰国",ANIPLUS动漫 HD
+#EXTINF:-1 tvg-id="" tvg-name="aniplus卡通" tvg-logo="https://sppotato.github.io/icon/" group-title="新加坡马来泰国",ANIPLUS动漫 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18637
-#EXTINF:-1 tvg-id="" tvg-name="bEIN MAX" tvg-logo="https://sppotato.github.io/icon/" group-title="新加坡马来泰国",bEINMAX体育 HD
+#EXTINF:-1 tvg-id="" tvg-name="BeinSportMax" tvg-logo="https://sppotato.github.io/icon/" group-title="新加坡马来泰国",bEINMAX体育 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18633
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://sppotato.github.io/icon/" group-title="新加坡马来泰国",曼联足球 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18572
@@ -1050,7 +1050,7 @@ http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18571
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18570
 #EXTINF:-1 tvg-id="" tvg-name="国家地理野生" tvg-logo="https://sppotato.github.io/icon/ngowild.png" group-title="新加坡马来泰国",国家地理野生 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18569
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA WORLD" tvg-logo="https://sppotato.github.io/icon/" group-title="新加坡马来泰国",CINEMA WORLD HD
+#EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="https://sppotato.github.io/icon/" group-title="新加坡马来泰国",CINEMA WORLD HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18601
 #EXTINF:-1 tvg-id="" tvg-name="KIX电影" tvg-logo="https://sppotato.github.io/icon/" group-title="新加坡马来泰国",KIX动作娱乐 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18575
@@ -1064,7 +1064,7 @@ http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18550
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18549
 #EXTINF:-1 tvg-id="" tvg-name="FOX频道" tvg-logo="https://sppotato.github.io/icon/" group-title="新加坡马来泰国",FOX频道
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18586
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="https://sppotato.github.io/icon/" group-title="新加坡马来泰国",FOX电影
+#EXTINF:-1 tvg-id="" tvg-name="FOX优质电影" tvg-logo="https://sppotato.github.io/icon/" group-title="新加坡马来泰国",FOX电影
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18590
 #EXTINF:-1 tvg-id="" tvg-name="FOX动作电影" tvg-logo="https://sppotato.github.io/icon/" group-title="新加坡马来泰国",FOX动作影院
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29583
@@ -1120,7 +1120,7 @@ http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18613
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18614
 #EXTINF:-1 tvg-id="" tvg-name="三立国际" tvg-logo="https://sppotato.github.io/icon/" group-title="新加坡马来泰国",三立国际
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18559
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://sppotato.github.io/icon/" group-title="新加坡马来泰国",MTV音乐台
+#EXTINF:-1 tvg-id="" tvg-name="MTV亚洲" tvg-logo="https://sppotato.github.io/icon/" group-title="新加坡马来泰国",MTV音乐台
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9122
 #EXTINF:-1 tvg-id="" tvg-name="SKY MUSIC" tvg-logo="https://sppotato.github.io/icon/" group-title="新加坡马来泰国",SKY音乐台
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9121
@@ -1144,8 +1144,46 @@ http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1356
 
 
 #EXTINF:-1,---------------United Kingdom---------------
-#EXTINF:-1 tvg-id="" tvg-name="HBO电影HD" tvg-logo="https://sppotato.github.io/icon/hbo.png" group-title="英国美国德国",HBO家庭影院 HD
+#EXTINF:-1 tvg-id="" tvg-name="CNN国际新闻" tvg-logo="https://sppotato.github.io/icon/hbo.png" group-title="英国美国德国",CNN新闻 HD
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11586
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",澎湃新闻 HD
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11594
+#EXTINF:-1 tvg-id="" tvg-name="FOX频道" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",FOX频道 HD
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11062#http://boyztoyz.us:80/RonDenston/15.05.19/4396
+#EXTINF:-1 tvg-id="" tvg-name="FOX动作电影" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",FOX动作影院 HD
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11601
+#EXTINF:-1 tvg-id="" tvg-name="FOX生活" tvg-logo="https://sppotato.github.io/icon/foxlife.png" group-title="英国美国德国",FOX生活频道 HD
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11602#http://boyztoyz.us:80/RonDenston/15.05.19/6814
+#EXTINF:-1 tvg-id="" tvg-name="FOX优质电影" tvg-logo="https://sppotato.github.io/icon/foxlife.png" group-title="英国美国德国",FOX优质电影 HD
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11603
+#EXTINF:-1 tvg-id="" tvg-name="FOX SERIES" tvg-logo="https://sppotato.github.io/icon/foxlife.png" group-title="英国美国德国",FOX优质剧集 HD
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11604
+#EXTINF:-1 tvg-id="" tvg-name="FXHD" tvg-logo="https://sppotato.github.io/icon/fx.png" group-title="英国美国德国",FX频道 HD
+http://195.181.162.217:80/090502/090502/13199
+#EXTINF:-1 tvg-id="" tvg-name="FXMovie" tvg-logo="https://sppotato.github.io/icon/fxmovie.png" group-title="英国美国德国",FX电影频道 HD
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11610#http://boyztoyz.us:80/RonDenston/15.05.19/6852
+#EXTINF:-1 tvg-id="" tvg-name="CN卡通頻道亚洲" tvg-logo="https://sppotato.github.io/icon/cartoon.png" group-title="英国美国德国",CN卡通台 HD
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11584
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX电影" tvg-logo="https://sppotato.github.io/icon/hbo.png" group-title="英国美国德国",CINEMAX电影 HD
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11585
+#EXTINF:-1 tvg-id="" tvg-name="探索频道" tvg-logo="https://sppotato.github.io/icon/discovery.png" group-title="英国美国德国",探索频道 HD
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11588
+EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",Discovery儿童 HD
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11589#http://eyplay.io:80/9pIKhA/oSs3CH/104
+EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",Discovery剧院 HD
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11590#http://eyplay.io:80/9pIKhA/oSs3CH/110
+EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",Discovery涡轮 HD
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11591#http://eyplay.io:80/9pIKhA/oSs3CH/113
+EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",Discovery特侦组 HD
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11617#http://eyplay.io:80/9pIKhA/oSs3CH/294
+EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",SONY HD
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11634
+#EXTINF:-1 tvg-id="" tvg-name="HBO电影HD" tvg-logo="https://sppotato.github.io/icon/hbo.png" group-title="英国美国德国",HBO HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4709
+#EXTINF:-1 tvg-id="" tvg-name="HBO电影HD" tvg-logo="https://sppotato.github.io/icon/hbo.png" group-title="英国美国德国",HBO2台 HD
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11334
+#EXTINF:-1 tvg-id="" tvg-name="HBOFamily" tvg-logo="https://sppotato.github.io/icon/hbo.png" group-title="英国美国德国",HBO家庭影院 HD
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11335
 #EXTINF:-1 tvg-id="" tvg-name="动物星球" tvg-logo="https://sppotato.github.io/icon/animal.png" group-title="英国美国德国",动物星球 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4408
 #EXTINF:-1 tvg-id="" tvg-name="国家地理野生频道" tvg-logo="https://sppotato.github.io/icon/ngowild.png" group-title="英国美国德国",国家地理野生 HD
@@ -1153,13 +1191,9 @@ http://boyztoyz.us:80/RonDenston/15.05.19/2848
 #EXTINF:-1 tvg-id="" tvg-name="国家地理频道" tvg-logo="https://sppotato.github.io/icon/ngo.png" group-title="英国美国德国",国家地理 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/2850
 #EXTINF:-1 tvg-id="" tvg-name="MTV音乐HD" tvg-logo="https://sppotato.github.io/icon/mtv.png" group-title="英国美国德国",MTV音乐台 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/4390
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11623#http://boyztoyz.us:80/RonDenston/15.05.19/4390
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://sppotato.github.io/icon/mtvlive.png" group-title="英国美国德国",MTV音乐现场 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4389
-#EXTINF:-1 tvg-id="" tvg-name="FOX频道" tvg-logo="https://sppotato.github.io/icon/fox.png" group-title="英国美国德国",FOX频道 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/4396
-#EXTINF:-1 tvg-id="" tvg-name="FOX生活" tvg-logo="https://sppotato.github.io/icon/foxlife.png" group-title="英国美国德国",FOX生活频道 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/6814
 #EXTINF:-1 tvg-id="" tvg-name="BBCWorldNews" tvg-logo="https://sppotato.github.io/icon/bbcnew1.png" group-title="英国美国德国",BBC一台 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/5279
 #EXTINF:-1 tvg-id="" tvg-name="BBCTWO" tvg-logo="https://sppotato.github.io/icon/bbcnew2.png" group-title="英国美国德国",BBC二台 HD
@@ -1170,24 +1204,18 @@ http://boyztoyz.us:80/RonDenston/15.05.19/5277
 http://boyztoyz.us:80/RonDenston/15.05.19/7837
 #EXTINF:-1 tvg-id="" tvg-name="BBC儿童-HD" tvg-logo="https://sppotato.github.io/icon/bbccbeebies.png" group-title="英国美国德国",BBC儿童频道 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/5276
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",澎湃新闻 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/2258
 #EXTINF:-1 tvg-id="" tvg-name="Dave" tvg-logo="https://sppotato.github.io/icon/dave.png" group-title="英国美国德国",Dave HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4403
-#EXTINF:-1 tvg-id="" tvg-name="CN卡通頻道亚洲" tvg-logo="https://sppotato.github.io/icon/cartoon.png" group-title="英国美国德国",CN卡通台 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/4407
 #EXTINF:-1 tvg-id="" tvg-name="ComedyCentral爆笑台" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",美国喜剧中心 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4404
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime娱乐" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",美国女性生活 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/4392
-#EXTINF:-1 tvg-id="" tvg-name="探索频道" tvg-logo="https://sppotato.github.io/icon/discovery.png" group-title="英国美国德国",探索频道 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/4402
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11619#http://boyztoyz.us:80/RonDenston/15.05.19/4392
 #EXTINF:-1 tvg-id="" tvg-name="旅游生活" tvg-logo="https://sppotato.github.io/icon/tlc.png" group-title="英国美国德国",TLC旅游生活 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4843
 #EXTINF:-1 tvg-id="" tvg-name="CI罪案偵緝" tvg-logo="https://sppotato.github.io/icon/crime.png" group-title="英国美国德国",犯罪侦查频道 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/5248
 #EXTINF:-1 tvg-id="" tvg-name="历史频道亚洲" tvg-logo="https://sppotato.github.io/icon/history1.png" group-title="英国美国德国",历史频道 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/1541
+http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11615#http://boyztoyz.us:80/RonDenston/15.05.19/1541
 #EXTINF:-1 tvg-id="" tvg-name="H2历史频道-HD" tvg-logo="https://sppotato.github.io/icon/history2.png" group-title="英国美国德国",历史二台 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4394
 #EXTINF:-1 tvg-id="" tvg-name="好莱坞电影" tvg-logo="https://sppotato.github.io/icon/hollywood.png" group-title="英国美国德国",Canal好莱坞 HD
@@ -1204,20 +1232,8 @@ http://boyztoyz.us:80/RonDenston/15.05.19/4406
 http://boyztoyz.us:80/RonDenston/15.05.19/4405
 #EXTINF:-1 tvg-id="" tvg-name="Seven" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",英国第7台 HD
 http://boyztoyz.us:80/RonDenston/15.05.19/4405
-#EXTINF:-1 tvg-id="" tvg-name="FXHD" tvg-logo="https://sppotato.github.io/icon/fx.png" group-title="英国美国德国",FX频道 HD
-http://195.181.162.217:80/090502/090502/13199
-#EXTINF:-1 tvg-id="" tvg-name="FXMovie" tvg-logo="https://sppotato.github.io/icon/fxmovie.png" group-title="英国美国德国",FX电影频道 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/6852
 EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://sppotato.github.io/icon/cinemax.png" group-title="英国美国德国",Cinemax HD
 http://eyplay.io:80/9pIKhA/oSs3CH/67
-EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",Discovery特侦组 HD
-http://eyplay.io:80/9pIKhA/oSs3CH/294
-EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",Discovery儿童 HD
-http://eyplay.io:80/9pIKhA/oSs3CH/104
-EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",Discovery剧院 HD
-http://eyplay.io:80/9pIKhA/oSs3CH/110
-EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",Discovery涡轮 HD
-http://eyplay.io:80/9pIKhA/oSs3CH/113
 EXTINF:-1 tvg-id="" tvg-name="Fox Premium1" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",FOX付费1台 HD
 http://eyplay.io:80/9pIKhA/oSs3CH/169
 EXTINF:-1 tvg-id="" tvg-name="Fox Premium2" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",FOX付费2台 HD
