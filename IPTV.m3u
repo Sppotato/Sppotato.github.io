@@ -743,10 +743,6 @@ http://seb.sason.top/sc/ztxw_fhd.m3u8
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="三立新闻" tvg-logo="https://sppotato.github.io/icon/sanlinew.png" group-title="港澳台高清",三立LIVE新闻 HD
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="台視財經" tvg-logo="https://sppotato.github.io/icon/taishicj.png" group-title="港澳台高清",台视财经 HD
-https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="壹電視新聞" tvg-logo="https://sppotato.github.io/icon/yxw.png" group-title="港澳台高清",壹新闻 HD
-https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="卫视电影台湾" tvg-logo="https://sppotato.github.io/icon/" group-title="港澳台高清",卫视电影台 HD
 http://live.zbjh.cc/live/ws109.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天映电影HD" tvg-logo="https://sppotato.github.io/icon/" group-title="港澳台高清",天映频道 HD
