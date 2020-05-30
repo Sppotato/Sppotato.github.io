@@ -835,12 +835,26 @@ http://211.245.55.198:1024/m2u/239.192.58.7:49220
 http://211.245.55.198:1024/m2u/239.192.69.171:49220
 #EXTINF:-1 tvg-id="" tvg-name="Asia N" tvg-logo="https://sppotato.github.io/icon/asian.png" group-title="日韩亚洲",亚洲戏剧台 HD
 http://211.245.55.198:1024/m2u/239.192.65.5:49220
+#EXTINF:-1 tvg-id="" tvg-name="tVN" tvg-logo="https://sppotato.github.io/icon/tvn.png" group-title="日韩亚洲",tvN综合娱乐台 HD
+http://211.245.55.198:1024/m2u/239.192.53.7:49220
+#EXTINF:-1 tvg-id="" tvg-name="OtVN" tvg-logo="https://sppotato.github.io/icon/otvn.png" group-title="日韩亚洲",OtvN HD
+http://211.245.55.198:1024/m2u/239.192.53.10:49220
+#EXTINF:-1 tvg-id="" tvg-name="XtVN" tvg-logo="https://sppotato.github.io/icon/xtvn.png" group-title="日韩亚洲",XtvN HD
+http://211.245.55.198:1024/m2u/239.192.57.6:49220
 #EXTINF:-1 tvg-id="" tvg-name="Anione" tvg-logo="https://sppotato.github.io/icon/anione.png" group-title="日韩亚洲",Anione动漫台 HD
 http://211.245.55.198:1024/m2u/239.192.69.44:49220
 #EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="https://sppotato.github.io/icon/aniplus.png" group-title="日韩亚洲",Aniplus动漫台 HD
 http://211.245.55.198:1024/m2u/239.192.65.14:49220
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://sppotato.github.io/icon/boomerang.png" group-title="日韩亚洲",Boomerang卡通台 HD
 http://211.245.55.198:1024/m2u/239.192.65.12:49220
+#EXTINF:-1 tvg-id="" tvg-name="Tooniverse" tvg-logo="https://sppotato.github.io/icon/toon.png" group-title="日韩亚洲",Tooniverse卡通台 HD
+http://211.245.55.198:1024/m2u/239.192.45.5:49220
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="https://sppotato.github.io/icon/disney.png" group-title="日韩亚洲",Disney HD
+http://211.245.55.198:1024/m2u/239.192.54.5:49220
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr" tvg-logo="https://sppotato.github.io/icon/disneyjr.png" group-title="日韩亚洲",Disney Jr HD
+http://211.245.55.198:1024/m2u/239.192.54.8:49220
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://sppotato.github.io/icon/nick.png" group-title="日韩亚洲",Nick卡通台 HD
+http://211.245.55.198:1024/m2u/239.192.65.17:49220
 #EXTINF:-1 tvg-id="" tvg-name="Btv" tvg-logo="https://sppotato.github.io/icon/btvk.png" group-title="日韩亚洲",韩国BTV HD
 http://211.245.55.198:1024/m2u/239.192.67.34:49220
 #EXTINF:-1 tvg-id="" tvg-name="Channel A" tvg-logo="https://sppotato.github.io/icon/channela.png" group-title="日韩亚洲",付费综合台 HD
@@ -859,7 +873,26 @@ http://211.245.55.198:1024/m2u/239.192.67.133:49220
 http://211.245.55.198:1024/m2u/239.192.67.162:49220
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV3" tvg-logo="https://sppotato.github.io/icon/spotv3.png" group-title="日韩亚洲",SPOTV高尔夫台 HD
 http://211.245.55.198:1024/m2u/239.192.67.163:49220
-
+#EXTINF:-1 tvg-id="" tvg-name="Fashion N" tvg-logo="https://sppotato.github.io/icon/fashinn.png" group-title="日韩亚洲",Fashion N HD
+http://211.245.55.198:1024/m2u/239.192.69.140:49220
+#EXTINF:-1 tvg-id="" tvg-name="KoreaTV" tvg-logo="https://sppotato.github.io/icon/korea.png" group-title="日韩亚洲",韩国电视台 HD
+http://211.245.55.198:1024/m2u/239.192.55.6:49220
+#EXTINF:-1 tvg-id="" tvg-name="MBN" tvg-logo="https://sppotato.github.io/icon/mbn.png" group-title="日韩亚洲",MBN每日广播 HD
+http://211.245.55.198:1024/m2u/239.192.45.5:49220
+#EXTINF:-1 tvg-id="" tvg-name="연합뉴스TV" tvg-logo="https://sppotato.github.io/icon/hls.png" group-title="日韩亚洲",韩联社 HD
+http://211.245.55.198:1024/m2u/239.192.57.3:49220
+#EXTINF:-1 tvg-id="" tvg-name="OCN" tvg-logo="https://sppotato.github.io/icon/ocn.png" group-title="日韩亚洲",OCN戏剧台 HD
+http://211.245.55.198:1024/m2u/239.192.52.8:49220
+#EXTINF:-1 tvg-id="" tvg-name="OCN Movie" tvg-logo="https://sppotato.github.io/icon/ocnmovie.png" group-title="日韩亚洲",OCN电影台 HD
+http://211.245.55.198:1024/m2u/239.192.51.7:49220
+#EXTINF:-1 tvg-id="" tvg-name="OCN Thrills" tvg-logo="https://sppotato.github.io/icon/ocnmovie2.png" group-title="日韩亚洲",OCN惊悚台 HD
+http://211.245.55.198:1024/m2u/239.192.53.9:49220
+#EXTINF:-1 tvg-id="" tvg-name="OnStyle" tvg-logo="https://sppotato.github.io/icon/onstyle.png" group-title="日韩亚洲",OnStyle时尚台 HD
+http://211.245.55.198:1024/m2u/239.192.54.9:49220
+#EXTINF:-1 tvg-id="" tvg-name="Olive" tvg-logo="https://sppotato.github.io/icon/olive.png" group-title="日韩亚洲",Olive生活台 HD
+http://211.245.55.198:1024/m2u/239.192.58.10:49220
+#EXTINF:-1 tvg-id="" tvg-name="Screen" tvg-logo="https://sppotato.github.io/icon/screen.png" group-title="日韩亚洲",SCREEN HD
+http://211.245.55.198:1024/m2u/239.192.67.229:49220
 #EXTINF:-1 tvg-id="" tvg-name="EBS" tvg-logo="https://sppotato.github.io/icon/ebs1.png" group-title="日韩亚洲",EBS教育放送 HD
 http://183.98.98.136:9981/stream/channelid/622397827ticket=A4AAD56188087E18371E70D171F8B63AD9559FFD&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="CNAI亚洲新闻" tvg-logo="https://sppotato.github.io/icon/cna.png" group-title="日韩亚洲",亚洲新闻台 HD
@@ -870,30 +903,18 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="5频道" tvg-logo="https://sppotato.github.io/icon/xjp5.png" group-title="日韩亚洲",5频道 HD
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Suria" tvg-logo="https://sppotato.github.io/icon/xjps.png" group-title="日韩亚洲",叙利亚 HD
+#EXTINF:-1 tvg-id="" tvg-name="Suria" tvg-logo="https://sppotato.github.io/icon/xjps.png" group-title="日韩亚洲",Suria HD
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-logo="https://sppotato.github.io/icon/Vasantham.png" group-title="日韩亚洲",斯里兰卡 HD
+#EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-logo="https://sppotato.github.io/icon/Vasantham.png" group-title="日韩亚洲",Vasantham HD
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ArirangTV" tvg-logo="https://sppotato.github.io/icon/arirang.png" group-title="日韩亚洲",阿里郎 HD
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KCTV" tvg-logo="https://sppotato.github.io/icon/kctv.png" group-title="日韩亚洲",KCTV HD
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-language="Korea" tvg-logo="https://sppotato.github.io/icon/cgntv2.png" group-title="日韩亚洲",CGN宗教 HD
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGNTV中文" tvg-logo="https://sppotato.github.io/icon/cgntv1.png" group-title="日韩亚洲",CGN中文 HD
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/chunklist_w1705401687.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGNTV日本" tvg-logo="https://sppotato.github.io/icon/cgntv3.png" group-title="日韩亚洲",CGN日语 HD
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK华语视界" tvg-logo="https://sppotato.github.io/icon/nhk2.png" group-title="日韩亚洲",NHK华语视界 HD
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK世界新闻" tvg-logo="https://sppotato.github.io/icon/nhk.png" group-title="日韩亚洲",NHK环球国际 HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WNI" tvg-logo="https://sppotato.github.io/icon/wni.png" group-title="日韩亚洲",气象新闻 HD
-http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="1HD Music TV" tvg-logo="https://sppotato.github.io/icon/music.png" group-title="日韩亚洲",ONE音乐 HD
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mifa" tvg-logo="https://sppotato.github.io/icon/gemmifa.png" group-title="日韩亚洲",GEM MIFA音乐 HD
-https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
 
 
 
