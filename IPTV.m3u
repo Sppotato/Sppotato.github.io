@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" group-title="4K专区",CCTV-4K超高清
 http://111.161.121.212/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8#http://111.161.121.214/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" group-title="4K专区",CCTV-4K超高清(备用)
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://sppotato.github.io/icon/gdzy.png" group-title="4K专区",CCTV-4K超高清(备用)
 http://116.26.10.28:9981/stream/channelid/2047707814
 #EXTINF:-1 tvg-id="" tvg-name="广东综艺4K" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" group-title="4K专区",广东综艺4K(备用)
 http://116.26.10.28:9981/stream/channelid/683467656
@@ -29,7 +29,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-3(综艺)" tvg-logo="https://sppotato.github.io/icon/cctv3.png" group-title="卫视高清",CCTV-3综艺 HD
 http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4(国际)" tvg-logo="https://sppotato.github.io/icon/cctv4.png" group-title="卫视高清",CCTV-4中文国际 HD
-http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4(国际)" tvg-logo="https://sppotato.github.io/icon/cctv4.png" group-title="卫视高清",CCTV-4中文国际欧洲 HD
 http://live.hcs.cmvideo.cn/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4(国际)" tvg-logo="https://sppotato.github.io/icon/cctv4.png" group-title="卫视高清",CCTV-4中文国际美洲 HD
@@ -619,7 +619,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225895/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV精品纪录" tvg-logo="https://sppotato.github.io/icon/jpjl.png" group-title="数字高清",NewTV精品纪录 HD
 http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑莓电影" tvg-logo="https://sppotato.github.io/icon/hmdy.png" group-title="数字高清",黑莓电影 HD
-http://39.135.140.14:6610/PLTV/88888888/224/3221225718/2/index.m3u8?fmt=ts2hls
+http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑莓动画" tvg-logo="https://sppotato.github.io/icon/hmdh.png" group-title="数字高清",黑莓动画 HD
 http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑莓电竞" tvg-logo="https://sppotato.github.io/icon/hmdj.png" group-title="数字高清",黑莓电竞 HD
@@ -803,12 +803,65 @@ http://live.zbjh.cc/live/ws145.m3u8
 
 
 #EXTINF:-1,---------------JAPAN---------------
-#EXTINF:-1 tvg-id="" tvg-name="KBS1" tvg-logo="https://sppotato.github.io/icon/kbs1.png" group-title="日韩亚洲",韩国-KBS放送公社1台 HD
-http://183.98.98.136:9981/stream/channelid/1764924130ticket=241FA823A61835DBF54A827D3939F16E2284FB15&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="EBS" tvg-logo="https://sppotato.github.io/icon/ebs1.png" group-title="日韩亚洲",韩国-EBS教育放送 HD
+#EXTINF:-1 tvg-id="" tvg-name="KBS1" tvg-logo="https://sppotato.github.io/icon/kbs1.png" group-title="日韩亚洲",KBS放送公社1台 HD
+http://211.245.55.198:1024/m2u/239.192.67.100:49220#http://183.98.98.136:9981/stream/channelid/1764924130ticket=241FA823A61835DBF54A827D3939F16E2284FB15&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="KBS2" tvg-logo="https://sppotato.github.io/icon/kbs1.png" group-title="日韩亚洲",KBS放送公社2台 HD
+http://211.245.55.198:1024/m2u/239.192.67.99:49220
+#EXTINF:-1 tvg-id="" tvg-name="KBS Drama" tvg-logo="https://sppotato.github.io/icon/kbs3.png" group-title="日韩亚洲",KBS戏剧台 HD
+http://211.245.55.198:1024/m2u/239.192.49.6:49220
+#EXTINF:-1 tvg-id="" tvg-name="KBS Joy" tvg-logo="https://sppotato.github.io/icon/kbsjoy.png" group-title="日韩亚洲",KBS综艺台 HD
+http://211.245.55.198:1024/m2u/239.192.56.6:49220
+#EXTINF:-1 tvg-id="" tvg-name="KBS N Sports" tvg-logo="https://sppotato.github.io/icon/kbsn.png" group-title="日韩亚洲",KBS体育台 HD
+http://211.245.55.198:1024/m2u/239.192.67.132:49220
+#EXTINF:-1 tvg-id="" tvg-name="KBS W" tvg-logo="https://sppotato.github.io/icon/kbsw.png" group-title="日韩亚洲",KBS女性生活台 HD
+http://211.245.55.198:1024/m2u/239.192.57.8:49220
+#EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-logo="https://sppotato.github.io/icon/sbs.png" group-title="日韩亚洲",SBS首尔放送 HD
+http://211.245.55.198:1024/m2u/239.192.41.2:49220
+#EXTINF:-1 tvg-id="" tvg-name="SBS PLUS" tvg-logo="https://sppotato.github.io/icon/sbsplus.png" group-title="日韩亚洲",SBS戏剧娱乐台 HD
+http://211.245.55.198:1024/m2u/239.192.49.7:49220
+#EXTINF:-1 tvg-id="" tvg-name="SBS GOLF" tvg-logo="https://sppotato.github.io/icon/sbsgolf.png" group-title="日韩亚洲",SBS高尔夫台 HD
+http://211.245.55.198:1024/m2u/239.192.67.164:49220
+#EXTINF:-1 tvg-id="" tvg-name="SBS Fun E" tvg-logo="https://sppotato.github.io/icon/sbsfune.png" group-title="日韩亚洲",SBS综艺娱乐台 HD
+http://211.245.55.198:1024/m2u/239.192.55.3:49220
+#EXTINF:-1 tvg-id="" tvg-name="SBS MTV" tvg-logo="https://sppotato.github.io/icon/sbsmtv.png" group-title="日韩亚洲",SBS音乐台 HD
+http://211.245.55.198:1024/m2u/239.192.55.4:49220
+#EXTINF:-1 tvg-id="" tvg-name="SBS Sports" tvg-logo="https://sppotato.github.io/icon/sbssport.png" group-title="日韩亚洲",SBS体育台 HD
+http://211.245.55.198:1024/m2u/239.192.67.130:49220
+#EXTINF:-1 tvg-id="" tvg-name="SBS CNBC" tvg-logo="https://sppotato.github.io/icon/sbsnew.png" group-title="日韩亚洲",SBS新闻台 HD
+http://211.245.55.198:1024/m2u/239.192.53.8:49220
+#EXTINF:-1 tvg-id="" tvg-name="JTBC" tvg-logo="https://sppotato.github.io/icon/jtbc.png" group-title="日韩亚洲",JTBC中央东洋放送 HD
+http://211.245.55.198:1024/m2u/239.192.58.7:49220
+#EXTINF:-1 tvg-id="" tvg-name="JTBC4" tvg-logo="https://sppotato.github.io/icon/jtbc4.png" group-title="日韩亚洲",JTBC潮流生活台 HD
+http://211.245.55.198:1024/m2u/239.192.69.171:49220
+#EXTINF:-1 tvg-id="" tvg-name="Asia N" tvg-logo="https://sppotato.github.io/icon/asian.png" group-title="日韩亚洲",亚洲戏剧台 HD
+http://211.245.55.198:1024/m2u/239.192.65.5:49220
+#EXTINF:-1 tvg-id="" tvg-name="Anione" tvg-logo="https://sppotato.github.io/icon/anione.png" group-title="日韩亚洲",Anione动漫台 HD
+http://211.245.55.198:1024/m2u/239.192.69.44:49220
+#EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="https://sppotato.github.io/icon/aniplus.png" group-title="日韩亚洲",Aniplus动漫台 HD
+http://211.245.55.198:1024/m2u/239.192.65.14:49220
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://sppotato.github.io/icon/boomerang.png" group-title="日韩亚洲",Boomerang卡通台 HD
+http://211.245.55.198:1024/m2u/239.192.65.12:49220
+#EXTINF:-1 tvg-id="" tvg-name="Btv" tvg-logo="https://sppotato.github.io/icon/btvk.png" group-title="日韩亚洲",韩国BTV HD
+http://211.245.55.198:1024/m2u/239.192.67.34:49220
+#EXTINF:-1 tvg-id="" tvg-name="Channel A" tvg-logo="https://sppotato.github.io/icon/channela.png" group-title="日韩亚洲",付费综合台 HD
+http://211.245.55.198:1024/m2u/239.192.47.4:49220
+#EXTINF:-1 tvg-id="" tvg-name="Channel China" tvg-logo="https://sppotato.github.io/icon/cchina.png" group-title="日韩亚洲",付费中文台 HD
+http://211.245.55.198:1024/m2u/239.192.64.9:49220
+#EXTINF:-1 tvg-id="" tvg-name="M-NET" tvg-logo="https://sppotato.github.io/icon/mnet.png" group-title="日韩亚洲",MNET音乐台 HD
+http://211.245.55.198:1024/m2u/239.192.48.5:49220
+#EXTINF:-1 tvg-id="" tvg-name="M-PLEX" tvg-logo="https://sppotato.github.io/icon/mplex.png" group-title="日韩亚洲",MPLEX娱乐台 HD
+http://211.245.55.198:1024/m2u/239.192.64.10:49220
+#EXTINF:-1 tvg-id="" tvg-name="IB Sports" tvg-logo="https://sppotato.github.io/icon/ibsports.png" group-title="日韩亚洲",IB体育台 HD
+http://211.245.55.198:1024/m2u/239.192.57.7:49220
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="https://sppotato.github.io/icon/spotv.png" group-title="日韩亚洲",SPOTV一台 HD
+http://211.245.55.198:1024/m2u/239.192.67.133:49220
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV2" tvg-logo="https://sppotato.github.io/icon/spotv2.png" group-title="日韩亚洲",SPOTV二台 HD
+http://211.245.55.198:1024/m2u/239.192.67.162:49220
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV3" tvg-logo="https://sppotato.github.io/icon/spotv3.png" group-title="日韩亚洲",SPOTV高尔夫台 HD
+http://211.245.55.198:1024/m2u/239.192.67.163:49220
+
+#EXTINF:-1 tvg-id="" tvg-name="EBS" tvg-logo="https://sppotato.github.io/icon/ebs1.png" group-title="日韩亚洲",EBS教育放送 HD
 http://183.98.98.136:9981/stream/channelid/622397827ticket=A4AAD56188087E18371E70D171F8B63AD9559FFD&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="EBS" tvg-logo="https://sppotato.github.io/icon/ebs1.png" group-title="日韩亚洲",韩国-测试 HD
-http://175.117.21.45:9981/stream/channelid/1008111236
 #EXTINF:-1 tvg-id="" tvg-name="CNAI亚洲新闻" tvg-logo="https://sppotato.github.io/icon/cna.png" group-title="日韩亚洲",亚洲新闻台 HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="U频道" tvg-logo="https://sppotato.github.io/icon/xjpu.png" group-title="日韩亚洲",U频道 HD
@@ -821,21 +874,21 @@ https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-logo="https://sppotato.github.io/icon/Vasantham.png" group-title="日韩亚洲",斯里兰卡 HD
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ArirangTV" tvg-logo="https://sppotato.github.io/icon/arirang.png" group-title="日韩亚洲",韩国-阿里郎 HD
+#EXTINF:-1 tvg-id="" tvg-name="ArirangTV" tvg-logo="https://sppotato.github.io/icon/arirang.png" group-title="日韩亚洲",阿里郎 HD
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KCTV" tvg-logo="https://sppotato.github.io/icon/kctv.png" group-title="日韩亚洲",韩国-KCTV HD
+#EXTINF:-1 tvg-id="" tvg-name="KCTV" tvg-logo="https://sppotato.github.io/icon/kctv.png" group-title="日韩亚洲",KCTV HD
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-language="Korea" tvg-logo="https://sppotato.github.io/icon/cgntv2.png" group-title="日韩亚洲",韩国-CGN宗教 HD
+#EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-language="Korea" tvg-logo="https://sppotato.github.io/icon/cgntv2.png" group-title="日韩亚洲",CGN宗教 HD
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGNTV中文" tvg-logo="https://sppotato.github.io/icon/cgntv1.png" group-title="日韩亚洲",韩国-CGN中文 HD
+#EXTINF:-1 tvg-id="" tvg-name="CGNTV中文" tvg-logo="https://sppotato.github.io/icon/cgntv1.png" group-title="日韩亚洲",CGN中文 HD
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/chunklist_w1705401687.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGNTV日本" tvg-logo="https://sppotato.github.io/icon/cgntv3.png" group-title="日韩亚洲",韩国-CGN日语 HD
+#EXTINF:-1 tvg-id="" tvg-name="CGNTV日本" tvg-logo="https://sppotato.github.io/icon/cgntv3.png" group-title="日韩亚洲",CGN日语 HD
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK华语视界" tvg-logo="https://sppotato.github.io/icon/nhk2.png" group-title="日韩亚洲",日本-NHK华语视界 HD
+#EXTINF:-1 tvg-id="" tvg-name="NHK华语视界" tvg-logo="https://sppotato.github.io/icon/nhk2.png" group-title="日韩亚洲",NHK华语视界 HD
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK世界新闻" tvg-logo="https://sppotato.github.io/icon/nhk.png" group-title="日韩亚洲",日本-NHK环球国际 HD
+#EXTINF:-1 tvg-id="" tvg-name="NHK世界新闻" tvg-logo="https://sppotato.github.io/icon/nhk.png" group-title="日韩亚洲",NHK环球国际 HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WNI" tvg-logo="https://sppotato.github.io/icon/wni.png" group-title="日韩亚洲",日本-气象新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="WNI" tvg-logo="https://sppotato.github.io/icon/wni.png" group-title="日韩亚洲",气象新闻 HD
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1HD Music TV" tvg-logo="https://sppotato.github.io/icon/music.png" group-title="日韩亚洲",ONE音乐 HD
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
@@ -1200,121 +1253,7 @@ http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1356
 
 
 #EXTINF:-1,---------------United Kingdom---------------
-#EXTINF:-1 tvg-id="" tvg-name="CNN国际新闻" tvg-logo="https://sppotato.github.io/icon/hbo.png" group-title="英国美国德国",CNN新闻 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/385
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",澎湃新闻 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/2258
-#EXTINF:-1 tvg-id="" tvg-name="FOX频道" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",FOX频道 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/4396
-#EXTINF:-1 tvg-id="" tvg-name="FOX动作电影" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",FOX动作影院 HD
-http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11601
-#EXTINF:-1 tvg-id="" tvg-name="FOX生活" tvg-logo="https://sppotato.github.io/icon/foxlife.png" group-title="英国美国德国",FOX生活频道 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/6814
-#EXTINF:-1 tvg-id="" tvg-name="FXHD" tvg-logo="https://sppotato.github.io/icon/fx.png" group-title="英国美国德国",FX频道 HD
-http://195.181.162.217:80/090502/090502/13199
-#EXTINF:-1 tvg-id="" tvg-name="FXMovie" tvg-logo="https://sppotato.github.io/icon/fxmovie.png" group-title="英国美国德国",FX电影频道 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/6852
-#EXTINF:-1 tvg-id="" tvg-name="CN卡通頻道亚洲" tvg-logo="https://sppotato.github.io/icon/cartoon.png" group-title="英国美国德国",CN卡通台 HD
-http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11584
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX电影" tvg-logo="https://sppotato.github.io/icon/hbo.png" group-title="英国美国德国",CINEMAX电影 HD
-http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11585
-#EXTINF:-1 tvg-id="" tvg-name="探索频道" tvg-logo="https://sppotato.github.io/icon/discovery.png" group-title="英国美国德国",探索频道 HD
-http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11588
-EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",Discovery儿童 HD
-http://eyplay.io:80/9pIKhA/oSs3CH/104
-EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",Discovery剧院 HD
-http://eyplay.io:80/9pIKhA/oSs3CH/110
-EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",SONY HD
-http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11634
-#EXTINF:-1 tvg-id="" tvg-name="HBO电影HD" tvg-logo="https://sppotato.github.io/icon/hbo.png" group-title="英国美国德国",HBO HD
-http://boyztoyz.us:80/RonDenston/15.05.19/4709
-#EXTINF:-1 tvg-id="" tvg-name="HBO电影HD" tvg-logo="https://sppotato.github.io/icon/hbo.png" group-title="英国美国德国",HBO2台 HD
-http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11334
-#EXTINF:-1 tvg-id="" tvg-name="HBOFamily" tvg-logo="https://sppotato.github.io/icon/hbo.png" group-title="英国美国德国",HBO家庭影院 HD
-http://iptvactivador.online:25461/zutvvsxtreamtv/vdSriXv1Lh/11335
-#EXTINF:-1 tvg-id="" tvg-name="动物星球" tvg-logo="https://sppotato.github.io/icon/animal.png" group-title="英国美国德国",动物星球 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/4408
-#EXTINF:-1 tvg-id="" tvg-name="国家地理野生频道" tvg-logo="https://sppotato.github.io/icon/ngowild.png" group-title="英国美国德国",国家地理野生 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/2848
-#EXTINF:-1 tvg-id="" tvg-name="国家地理频道" tvg-logo="https://sppotato.github.io/icon/ngo.png" group-title="英国美国德国",国家地理 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/2850
-#EXTINF:-1 tvg-id="" tvg-name="MTV音乐HD" tvg-logo="https://sppotato.github.io/icon/mtv.png" group-title="英国美国德国",MTV音乐台 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/4390
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://sppotato.github.io/icon/mtvlive.png" group-title="英国美国德国",MTV音乐现场 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/4389
-#EXTINF:-1 tvg-id="" tvg-name="BBCWorldNews" tvg-logo="https://sppotato.github.io/icon/bbcnew1.png" group-title="英国美国德国",BBC一台 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/5279
-#EXTINF:-1 tvg-id="" tvg-name="BBCTWO" tvg-logo="https://sppotato.github.io/icon/bbcnew2.png" group-title="英国美国德国",BBC二台 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/5278
-#EXTINF:-1 tvg-id="" tvg-name="CBBC" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",BBC三台 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/5277
-#EXTINF:-1 tvg-id="" tvg-name="BBCScotland" tvg-logo="https://sppotato.github.io/icon/bbcscot.png" group-title="英国美国德国",BBC苏格兰 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/7837
-#EXTINF:-1 tvg-id="" tvg-name="BBC儿童-HD" tvg-logo="https://sppotato.github.io/icon/bbccbeebies.png" group-title="英国美国德国",BBC儿童频道 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/5276
-#EXTINF:-1 tvg-id="" tvg-name="Dave" tvg-logo="https://sppotato.github.io/icon/dave.png" group-title="英国美国德国",Dave HD
-http://boyztoyz.us:80/RonDenston/15.05.19/4403
-#EXTINF:-1 tvg-id="" tvg-name="ComedyCentral爆笑台" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",美国喜剧中心 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/4404
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime娱乐" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",美国女性生活 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/4392
-#EXTINF:-1 tvg-id="" tvg-name="旅游生活" tvg-logo="https://sppotato.github.io/icon/tlc.png" group-title="英国美国德国",TLC旅游生活 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/4843
-#EXTINF:-1 tvg-id="" tvg-name="CI罪案偵緝" tvg-logo="https://sppotato.github.io/icon/crime.png" group-title="英国美国德国",犯罪侦查频道 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/5248
-#EXTINF:-1 tvg-id="" tvg-name="历史频道亚洲" tvg-logo="https://sppotato.github.io/icon/history1.png" group-title="英国美国德国",历史频道 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/1541
-#EXTINF:-1 tvg-id="" tvg-name="H2历史频道-HD" tvg-logo="https://sppotato.github.io/icon/history2.png" group-title="英国美国德国",历史二台 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/4394
-#EXTINF:-1 tvg-id="" tvg-name="好莱坞电影" tvg-logo="https://sppotato.github.io/icon/hollywood.png" group-title="英国美国德国",Canal好莱坞 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/2828
-#EXTINF:-1 tvg-id="" tvg-name="axn-HD" tvg-logo="https://sppotato.github.io/icon/axn.png" group-title="英国美国德国",AXN HD
-http://boyztoyz.us:80/RonDenston/15.05.19/2822
-#EXTINF:-1 tvg-id="" tvg-name="AXN White" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",AXN White HD
-http://boyztoyz.us:80/RonDenston/15.05.19/2820
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://sppotato.github.io/icon/amc.png" group-title="英国美国德国",AMC HD
-http://boyztoyz.us:80/RonDenston/15.05.19/2823
-#EXTINF:-1 tvg-id="" tvg-name="Channel4" tvg-logo="https://sppotato.github.io/icon/channel4.png" group-title="英国美国德国",英国第4台 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/4406
-#EXTINF:-1 tvg-id="" tvg-name="Channel5" tvg-logo="https://sppotato.github.io/icon/channel5.png" group-title="英国美国德国",英国第5台 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/4405
-#EXTINF:-1 tvg-id="" tvg-name="Seven" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",英国第7台 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/4405
-EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://sppotato.github.io/icon/cinemax.png" group-title="英国美国德国",Cinemax HD
-http://eyplay.io:80/9pIKhA/oSs3CH/67
-EXTINF:-1 tvg-id="" tvg-name="Fox Premium1" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",FOX付费1台 HD
-http://eyplay.io:80/9pIKhA/oSs3CH/169
-EXTINF:-1 tvg-id="" tvg-name="Fox Premium2" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",FOX付费2台 HD
-http://eyplay.io:80/9pIKhA/oSs3CH/172
-#EXTINF:-1 tvg-id="" tvg-name="FCTV" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",FC体育台 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/2388
-#EXTINF:-1 tvg-id="" tvg-name="欧洲体育-HD" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",欧洲体育1台 HD
-http://tv2ip.nl:80/9205011494/9205011494/85823
-#EXTINF:-1 tvg-id="" tvg-name="EuroSport2" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",欧洲体育2台 HD
-http://tv2ip.nl:80/9205011494/9205011494/67223
-#EXTINF:-1 tvg-id="" tvg-name="SkySport2K" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",Sky体育1台 2K
-http://tv2ip.nl:80/9205011494/9205011494/67227
-#EXTINF:-1 tvg-id="" tvg-name="SkySport2" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",Sky体育2台 HD
-http://tv2ip.nl:80/9205011494/9205011494/67225
-#EXTINF:-1 tvg-id="" tvg-name="LIGA" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",LIGA足球频道 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/2770
-#EXTINF:-1 tvg-id="" tvg-name="Premier Sports1" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",Premier体育1台 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/805
-#EXTINF:-1 tvg-id="" tvg-name="Premier Sports2" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",Premier体育2台 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/7828
-#EXTINF:-1 tvg-id="" tvg-name="Racing" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",Racing赛车频道 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/202
-#EXTINF:-1 tvg-id="" tvg-name="BT Sports1" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",BT体育1台 HD
-http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/5716
-#EXTINF:-1 tvg-id="" tvg-name="BT Sports2" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",BT体育2台 HD
-http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/367
-#EXTINF:-1 tvg-id="" tvg-name="BT Sports3" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",BT体育3台 HD
-http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/5714
-#EXTINF:-1 tvg-id="" tvg-name="BT ESPN" tvg-logo="https://sppotato.github.io/icon/g" group-title="英国美国德国",BT ESPN体育台 HD
-http://boyztoyz.us:80/RonDenston/15.05.19/4367
-#EXTINF:-1 tvg-id="" tvg-name="Eir Sport1" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",Eir体育1台 HD
-http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1804
-#EXTINF:-1 tvg-id="" tvg-name="Eir Sport2" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",Eir体育2台 HD
+#EXTINF:-1 tvg-id="" tvg-name="Eir Sport" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",Eir体育台 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/5713
 #EXTINF:-1 tvg-id="" tvg-name="Sky Arena" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",Sky板球 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6202
@@ -1326,39 +1265,31 @@ http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10130
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/562
 #EXTINF:-1 tvg-id="" tvg-name="NBA HD" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",NBA HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/533
-#EXTINF:-1 tvg-id="" tvg-name="GOLF HD" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",GOLF HD
-http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8986
-#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",NFL HD
-http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9010
-#EXTINF:-1 tvg-id="" tvg-name="DAZN1Bar" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",DAZN体育1台 HD
-http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18392
-#EXTINF:-1 tvg-id="" tvg-name="DAZN2Bar" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",DAZN体育2台 HD
-http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/16045
-#EXTINF:-1 tvg-id="" tvg-name="fox体育1" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",FOX体育1台 HD
-http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8996
-#EXTINF:-1 tvg-id="" tvg-name="fox体育2" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",FOX体育2台 HD
-http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8995
-#EXTINF:-1 tvg-id="" tvg-name="Auto Motor und Sport" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",汽车与体育 HD
-http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9340
 #EXTINF:-1 tvg-id="" tvg-name="花花公子" tvg-logo="https://sppotato.github.io/icon/playboy.png" group-title="英国美国德国",花花公子 HD
 http://195.181.162.217:80/090502/090502/39432
-#EXTINF:-1 tvg-id="" tvg-name="SexPrive" tvg-logo="https://sppotato.github.io/icon/sexp.png" group-title="英国美国德国",SexPrive HD
-http://195.181.162.217:80/090502/090502/39408
+#EXTINF:-1 tvg-id="" tvg-name="SexPrivate" tvg-logo="https://sppotato.github.io/icon/sexp.png" group-title="英国美国德国",SexPrivate HD
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/13577
 #EXTINF:-1 tvg-id="" tvg-name="SexHot" tvg-logo="https://sppotato.github.io/icon/sexhot.png" group-title="英国美国德国",SexHot HD
-http://195.181.162.217:80/090502/090502/39434
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/74250
 #EXTINF:-1 tvg-id="" tvg-name="REDLIGHT" tvg-logo="" group-title="英国美国德国",REDLIGHT HD
-http://195.181.162.217:80/239923/239923/35615
-#EXTINF:-1 tvg-id="" tvg-name="BISEXUAL" tvg-logo="" group-title="英国美国德国",BISEXUAL HD
-http://195.181.162.217:80/239923/239923/44778
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/13576
+#EXTINF:-1 tvg-id="" tvg-name="DorcelTV" tvg-logo="" group-title="英国美国德国",DorcelTV HD
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/13587
 #EXTINF:-1 tvg-id="" tvg-name="VIVID RED" tvg-logo="" group-title="英国美国德国",VIVID RED HD
-http://195.181.162.217:80/239923/239923/35622
-#EXTINF:-1 tvg-id="" tvg-name="CANDY" tvg-logo="" group-title="英国美国德国",CANDY HD
-http://195.181.162.217:80/239923/239923/35605
-#EXTINF:-1 tvg-id="" tvg-name="HUSTLER" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",HUSTLER HD
-http://195.181.162.217:80/239923/239923/35619
-#EXTINF:-1 tvg-id="" tvg-name="SEXT6SENSO" tvg-logo="https://sppotato.github.io/icon/" group-title="英国美国德国",SEXT6SENSO
-http://195.181.162.217:25461/090502/090502/35618
-
-
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/13565
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse1" tvg-logo="" group-title="英国美国德国",Penthouse一台 HD
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/13581
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse2" tvg-logo="" group-title="英国美国德国",Penthouse二台 HD
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/13580
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse GOLD" tvg-logo="" group-title="英国美国德国",Penthouse GOLD HD
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/13582
+#EXTINF:-1 tvg-id="" tvg-name="XYPlus" tvg-logo="" group-title="英国美国德国",XYPlus HD
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/13563
+#EXTINF:-1 tvg-id="" tvg-name="XYMix" tvg-logo="" group-title="英国美国德国",XYMix HD
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/78711
+#EXTINF:-1 tvg-id="" tvg-name="Shalun" tvg-logo="" group-title="英国美国德国",Shalun HD
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/78720
+#EXTINF:-1 tvg-id="" tvg-name="Babes" tvg-logo="" group-title="英国美国德国",Babes HD
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/78721
 
 
