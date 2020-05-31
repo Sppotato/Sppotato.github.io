@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" group-title="4K专区",CCTV-4K超高清
 http://111.161.121.212/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8#http://111.161.121.214/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://sppotato.github.io/icon/gdzy.png" group-title="4K专区",CCTV-4K超高清(备用)
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" group-title="4K专区",CCTV-4K超高清(备用)
 http://116.26.10.28:9981/stream/channelid/2047707814
-#EXTINF:-1 tvg-id="" tvg-name="广东综艺4K" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" group-title="4K专区",广东综艺4K(备用)
+#EXTINF:-1 tvg-id="" tvg-name="广东综艺4K" tvg-logo="https://sppotato.github.io/icon/gdzy.png" group-title="4K专区",广东综艺4K(备用)
 http://116.26.10.28:9981/stream/channelid/683467656
 #EXTINF:-1 tvg-id="" tvg-name="百视通4K" tvg-logo="https://sppotato.github.io/icon/bestv4k.png" group-title="4K专区",百视通4K
 http://117.148.187.46/PLTV/88888888/224/3221226718/index.m3u8
@@ -137,11 +137,11 @@ http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-logo="https://sppotato.github.io/icon/sdjy.png" group-title="卫视高清",山东教育 HD
 http://120.221.5.102:8089/PLTV/88888888/224/3221226049/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://sppotato.github.io/icon/chc1.png" group-title="卫视高清",CHC高清电影
-http://s5117133.m.awhost.cn/dl/gz.php?id=chcgqdy
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://sppotato.github.io/icon/chc2.png" group-title="卫视高清",CHC动作电影
-http://s5117133.m.awhost.cn/dl/gz.php?id=chcdzdy
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://sppotato.github.io/icon/chc3.png" group-title="卫视高清",CHC家庭影院
-http://s5117133.m.awhost.cn/dl/gz.php?id=chcjtyy
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰卫视" tvg-logo="https://sppotato.github.io/icon/fhzw.png" group-title="卫视高清",凤凰中文 HD
 http://zzq12345.gearhostpreview.com/11/ifeng.php?id=zwhd
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://sppotato.github.io/icon/fhzx.png" group-title="卫视高清",凤凰资讯 HD
