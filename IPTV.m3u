@@ -136,6 +136,8 @@ http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-logo="https://sppotato.github.io/icon/sdjy.png" group-title="卫视高清",山东教育 HD
 http://120.221.5.102:8089/PLTV/88888888/224/3221226049/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-logo="https://sppotato.github.io/icon/kbtv.png" group-title="卫视高清",康巴卫视 HD
+http://yun168.ddns.net:34040/udp/239.93.0.41:5140#http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://sppotato.github.io/icon/chc1.png" group-title="卫视高清",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://sppotato.github.io/icon/chc2.png" group-title="卫视高清",CHC动作电影
@@ -454,19 +456,25 @@ http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="新华中文" tvg-logo="https://sppotato.github.io/icon/xhzw.png" group-title="地方高清",北京-新华中文 HD
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="峨眉电影频道" tvg-logo="https://sppotato.github.io/icon/emdy.png" group-title="地方高清",四川-峨眉电影 HD
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51008/index.m3u8
+http://yun168.ddns.net:34040/udp/239.93.1.18:5140#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51008/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川文化旅游" tvg-logo="https://sppotato.github.io/icon/sctv2.png" group-title="地方高清",四川-文化旅游 HD
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51001/index.m3u8
+http://yun168.ddns.net:34040/udp/239.93.1.20:5140#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51001/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川经济频道" tvg-logo="https://sppotato.github.io/icon/sctv3.png" group-title="地方高清",四川-经济频道 HD
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51002/index.m3u8
+http://yun168.ddns.net:34040/udp/239.93.1.16:5140#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51002/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川新闻资讯" tvg-logo="https://sppotato.github.io/icon/sctv4.png" group-title="地方高清",四川-新闻资讯 HD
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51003/index.m3u8
+http://yun168.ddns.net:34040/udp/239.93.0.47:5140#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51003/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川影视文艺" tvg-logo="https://sppotato.github.io/icon/sctv5.png" group-title="地方高清",四川-影视文艺 HD
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51004/index.m3u8
+http://yun168.ddns.net:34040/udp/239.93.1.195:5140#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51004/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川公共乡村" tvg-logo="https://sppotato.github.io/icon/sctv7.png" group-title="地方高清",四川-妇女儿童 HD
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51005/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-logo="https://sppotato.github.io/icon/kbtv.png" group-title="地方高清",四川-康巴卫视 HD
-http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
+http://yun168.ddns.net:34040/udp/239.93.0.219:5140#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51005/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="四川公共乡村" tvg-logo="https://sppotato.github.io/icon/sctv9.png" group-title="地方高清",四川-公共乡村 HD
+http://yun168.ddns.net:34040/udp/239.93.0.52:5140
+#EXTINF:-1 tvg-id="" tvg-name="成都新闻综合" tvg-logo="https://sppotato.github.io/icon/chengdu1.png" group-title="地方高清",四川-成都新闻综合 HD
+http://yun168.ddns.net:34040/udp/239.93.1.210:2178
+#EXTINF:-1 tvg-id="" tvg-name="成都公共" tvg-logo="https://sppotato.github.io/icon/chengdu2.png" group-title="地方高清",四川-成都公共 HD
+http://yun168.ddns.net:34040/udp/239.93.1.231:5140
+#EXTINF:-1 tvg-id="" tvg-name="绵阳新闻综合" tvg-logo="https://sppotato.github.io/icon/myzh.png" group-title="地方高清",四川-绵阳新闻综合 HD
+http://yun168.ddns.net:34040/udp/239.93.1.60:5140
 #EXTINF:-1 tvg-id="" tvg-name="遂宁综合" tvg-logo="https://sppotato.github.io/icon/suining1.png" group-title="地方高清",四川-遂宁综合 HD
 http://snlive.scsntv.com:8091/live/xwzh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="遂宁公共" tvg-logo="https://sppotato.github.io/icon/suining2.png" group-title="地方高清",四川-遂宁公共 HD
