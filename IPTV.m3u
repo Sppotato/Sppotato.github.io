@@ -109,7 +109,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225947/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://sppotato.github.io/icon/cqtv.png" group-title="卫视高清",重庆卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225949/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://sppotato.github.io/icon/gxtv.png" group-title="卫视高清",广西卫视 HD
-http://183.232.184.143/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294203.m3u8#http://ivi.bupt.edu.cn/hls/gxhd.m3u8
+http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://sppotato.github.io/icon/jltv.png" group-title="卫视高清",吉林卫视 HD
 http://101.71.255.229:6610/zjhs/2/10096/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://ivi.bupt.edu.cn/hls/jlhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="https://sppotato.github.io/icon/yntv.png" group-title="卫视高清",云南卫视 HD
@@ -123,7 +123,7 @@ http://39.135.34.134:8080/000000001000/5000000004000006211/index.m3u8?channel-id
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://sppotato.github.io/icon/qhtv.png" group-title="卫视高清",青海卫视 HD
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="https://sppotato.github.io/icon/xjtv.png" group-title="卫视高清",新疆卫视 HD
-http://s5117133.m.awhost.cn/dl/xinjiang.php?id=1
+http://tv.boye.ml/iptv/xjtv.php?id=1
 #EXTINF:-1 tvg-id="" tvg-name="炫动卡通" tvg-logo="https://sppotato.github.io/icon/xdkt.png" group-title="卫视高清",哈哈炫动卫视 HD
 http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="https://sppotato.github.io/icon/jyjs.png" group-title="卫视高清",金鹰纪实 HD
@@ -716,11 +716,15 @@ http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港亚视" tvg-logo="https://sppotato.github.io/icon/hkys.png" group-title="港澳台高清",香港亚视 HD
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港开电视" tvg-logo="https://sppotato.github.io/icon/kaidianshi.png" group-title="港澳台高清",香港开电视 HD
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+http://183.179.246.16:9981/stream/channelid/2082755636#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="香港国际财经台" tvg-logo="https://sppotato.github.io/icon/hkibc.png" group-title="港澳台高清",香港国际财经台 HD
+http://183.179.246.16:9981/stream/channelid/1282614114
 #EXTINF:-1 tvg-id="" tvg-name="亚旅卫视" tvg-logo="https://sppotato.github.io/icon/yltv.png" group-title="港澳台高清",亚旅卫视 HD
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港C+" tvg-logo="https://sppotato.github.io/icon/hkc+.png" group-title="港澳台高清",香港C+频道 HD
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="now新闻台" tvg-logo="https://sppotato.github.io/icon/nownew.png" group-title="港澳台高清",NOW新闻 HD
+http://video.0058.com:80/RoomVideoChat/d64bbb8a1fadf16bf6c870d3915ea917/playlist.m3u8?wsSession=5805b1bd0079afb82e0cfb11-159110021241110&wsIPSercert=4ca498a03a07ea684f413c4d8a0c7c6c&wsMonitor=0
 #EXTINF:-1 tvg-id="" tvg-name="澳门澳视" tvg-logo="https://sppotato.github.io/icon/aomen1.png" group-title="港澳台高清",澳视澳门 HD
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳视葡文" tvg-logo="https://sppotato.github.io/icon/aomen2.png" group-title="港澳台高清",澳视葡文 HD
