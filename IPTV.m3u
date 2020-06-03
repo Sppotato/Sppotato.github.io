@@ -61,7 +61,7 @@ http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" group-title="卫视高清",CCTV-4K HD
 http://183.232.184.143/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://sppotato.github.io/icon/cgtn.png" group-title="卫视高清",CGTN-环球国际 HD
-http://183.232.184.143/outlivecloud-cdn.ysp.cctv.cn/cctv/2001656803.m3u8
+http://39.130.206.213:6410/gitv_live/G_CGTN-HD/G_CGTN-HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-9(国际)" tvg-logo="https://sppotato.github.io/icon/cgtnd.png" group-title="卫视高清",CGTN-纪录 HD
 http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国教育台" tvg-logo="https://sppotato.github.io/icon/cetv1.png" group-title="卫视高清",中国教育一台 HD
@@ -107,7 +107,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225947/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://sppotato.github.io/icon/cqtv.png" group-title="卫视高清",重庆卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225949/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://sppotato.github.io/icon/gxtv.png" group-title="卫视高清",广西卫视 HD
-http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
+http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294203.m3u8#http://ivi.bupt.edu.cn/hls/gxhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://sppotato.github.io/icon/jltv.png" group-title="卫视高清",吉林卫视 HD
 http://101.71.255.229:6610/zjhs/2/10096/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://ivi.bupt.edu.cn/hls/jlhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="https://sppotato.github.io/icon/yntv.png" group-title="卫视高清",云南卫视 HD
@@ -443,6 +443,8 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225760/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南都市" tvg-logo="https://sppotato.github.io/icon/henan2.png" group-title="地方高清",河南-都市频道 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel41101/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南电视剧" tvg-logo="https://sppotato.github.io/icon/hnys.png" group-title="地方高清",河南-电视剧频道 HD
+http://39.134.230.196:9090/39.134.213.85/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="郑州新闻综合" tvg-logo="https://sppotato.github.io/icon/zhengzhou1.png" group-title="地方高清",河南-郑州综合 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel41112/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="长沙新闻" tvg-logo="https://sppotato.github.io/icon/changsha1.png" group-title="地方高清",湖南-长沙新闻 HD
