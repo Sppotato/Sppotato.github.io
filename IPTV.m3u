@@ -1,16 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" group-title="4K专区",CCTV-4K超高清
 http://111.161.121.212/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8#http://111.161.121.214/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" group-title="4K专区",CCTV-4K超高清(备用)
-http://116.26.10.134:9981/stream/channelid/2047707814
-#EXTINF:-1 tvg-id="" tvg-name="广东综艺4K" tvg-logo="https://sppotato.github.io/icon/gdzy.png" group-title="4K专区",广东综艺4K(备用)
-http://116.26.10.134:9981/stream/channelid/683467656
+#EXTINF:-1 tvg-id="" tvg-name="广东综艺4K" tvg-logo="https://sppotato.github.io/icon/gdzy.png" group-title="4K专区",广东综艺4K
+http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=17&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="百视通4K" tvg-logo="https://sppotato.github.io/icon/bestv4k.png" group-title="4K专区",百视通4K
 http://117.148.187.46/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DOX-4K" tvg-logo="https://sppotato.github.io/icon/dox4k.png" group-title="4K专区",DOX4K
 http://39.135.16.150:6610/PLTV/88888888/224/3221226019//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="爱上4K" tvg-logo="https://sppotato.github.io/icon/love4k.png" group-title="4K专区",爱上4K
-http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=092&Provider_id=&Pcontent_id=index.m3u8
+http://lsiptv.tpddns.cn:88/udp/239.93.15.113:5140
 #EXTINF:-1 tvg-id="" tvg-name="纯享4K" tvg-logo="https://sppotato.github.io/icon/cx4k.png" group-title="4K专区",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4K音乐现场" tvg-logo="https://sppotato.github.io/icon/jxiptv.png" group-title="4K专区",江西4K音乐现场
@@ -137,7 +135,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-logo="https://sppotato.github.io/icon/sdjy.png" group-title="卫视高清",山东教育 HD
 http://120.221.5.102:8089/PLTV/88888888/224/3221226049/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-logo="https://sppotato.github.io/icon/kbtv.png" group-title="卫视高清",康巴卫视 HD
-http://yun168.ddns.net:34040/udp/239.93.0.41:5140#http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
+http://lsiptv.tpddns.cn:88/udp/239.93.14.41:5140#http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://sppotato.github.io/icon/chc1.png" group-title="卫视高清",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://sppotato.github.io/icon/chc2.png" group-title="卫视高清",CHC动作电影
@@ -456,25 +454,19 @@ http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="新华中文" tvg-logo="https://sppotato.github.io/icon/xhzw.png" group-title="地方高清",北京-新华中文 HD
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="峨眉电影频道" tvg-logo="https://sppotato.github.io/icon/emdy.png" group-title="地方高清",四川-峨眉电影 HD
-http://yun168.ddns.net:34040/udp/239.93.1.18:5140#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51008/index.m3u8
+http://scgctvshow.sctv.com/hdlive/emei/1.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51008/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川文化旅游" tvg-logo="https://sppotato.github.io/icon/sctv2.png" group-title="地方高清",四川-文化旅游 HD
-http://yun168.ddns.net:34040/udp/239.93.1.20:5140#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51001/index.m3u8
+http://lsiptv.tpddns.cn:88/udp/239.93.15.101:5140#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51001/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川经济频道" tvg-logo="https://sppotato.github.io/icon/sctv3.png" group-title="地方高清",四川-经济频道 HD
-http://yun168.ddns.net:34040/udp/239.93.1.16:5140#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51002/index.m3u8
+http://lsiptv.tpddns.cn:88/udp/239.93.15.102:5140#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51002/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川新闻资讯" tvg-logo="https://sppotato.github.io/icon/sctv4.png" group-title="地方高清",四川-新闻资讯 HD
-http://yun168.ddns.net:34040/udp/239.93.0.47:5140#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51003/index.m3u8
+http://lsiptv.tpddns.cn:88/udp/239.93.14.47:5140#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51003/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川影视文艺" tvg-logo="https://sppotato.github.io/icon/sctv5.png" group-title="地方高清",四川-影视文艺 HD
-http://yun168.ddns.net:34040/udp/239.93.1.195:5140#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51004/index.m3u8
+http://lsiptv.tpddns.cn:88/udp/239.93.15.195:5140#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51004/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川公共乡村" tvg-logo="https://sppotato.github.io/icon/sctv7.png" group-title="地方高清",四川-妇女儿童 HD
-http://yun168.ddns.net:34040/udp/239.93.0.219:5140#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51005/index.m3u8
+http://lsiptv.tpddns.cn:88/udp/239.93.14.219:5140#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51005/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川公共乡村" tvg-logo="https://sppotato.github.io/icon/sctv9.png" group-title="地方高清",四川-公共乡村 HD
-http://yun168.ddns.net:34040/udp/239.93.0.52:5140
-#EXTINF:-1 tvg-id="" tvg-name="成都新闻综合" tvg-logo="https://sppotato.github.io/icon/chengdu1.png" group-title="地方高清",四川-成都新闻综合 HD
-http://yun168.ddns.net:34040/udp/239.93.1.210:2178
-#EXTINF:-1 tvg-id="" tvg-name="成都公共" tvg-logo="https://sppotato.github.io/icon/chengdu2.png" group-title="地方高清",四川-成都公共 HD
-http://yun168.ddns.net:34040/udp/239.93.1.231:5140
-#EXTINF:-1 tvg-id="" tvg-name="绵阳新闻综合" tvg-logo="https://sppotato.github.io/icon/myzh.png" group-title="地方高清",四川-绵阳新闻综合 HD
-http://yun168.ddns.net:34040/udp/239.93.1.60:5140
+http://lsiptv.tpddns.cn:88/udp/239.93.14.52:5140
 #EXTINF:-1 tvg-id="" tvg-name="遂宁综合" tvg-logo="https://sppotato.github.io/icon/suining1.png" group-title="地方高清",四川-遂宁综合 HD
 http://snlive.scsntv.com:8091/live/xwzh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="遂宁公共" tvg-logo="https://sppotato.github.io/icon/suining2.png" group-title="地方高清",四川-遂宁公共 HD
@@ -815,10 +807,6 @@ http://live.zbjh.cc/live/ws145.m3u8
 
 
 #EXTINF:-1,---------------JAPAN---------------
-#EXTINF:-1 tvg-id="" tvg-name="KBS1" tvg-logo="https://sppotato.github.io/icon/kbs1.png" group-title="日韩亚洲",KBS放送公社 HD
-http://183.98.98.136:9981/stream/channelid/1764924130ticket=241FA823A61835DBF54A827D3939F16E2284FB15&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="EBS" tvg-logo="https://sppotato.github.io/icon/ebs1.png" group-title="日韩亚洲",EBS教育放送 HD
-http://183.98.98.136:9981/stream/channelid/622397827ticket=A4AAD56188087E18371E70D171F8B63AD9559FFD&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="CNAI亚洲新闻" tvg-logo="https://sppotato.github.io/icon/cna.png" group-title="日韩亚洲",亚洲新闻台 HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="U频道" tvg-logo="https://sppotato.github.io/icon/xjpu.png" group-title="日韩亚洲",U频道 HD
@@ -1029,47 +1017,4 @@ http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1357
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18553
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",马来西亚9台
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1356
-
-
-
-#EXTINF:-1,---------------United Kingdom---------------
-#EXTINF:-1 tvg-id="" tvg-name="Eir Sport" tvg-logo="https://sppotato.github.io/icon/" group-title="英美德加",Eir体育台 HD
-http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/5713
-#EXTINF:-1 tvg-id="" tvg-name="Sky Arena" tvg-logo="https://sppotato.github.io/icon/" group-title="英美德加",Sky板球 HD
-http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6202
-#EXTINF:-1 tvg-id="" tvg-name="Sky Golf" tvg-logo="https://sppotato.github.io/icon/" group-title="英美德加",Sky高尔夫 HD
-http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10830
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight" tvg-logo="https://sppotato.github.io/icon/" group-title="英美德加",UFC Fight HD
-http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10130
-#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="https://sppotato.github.io/icon/" group-title="英美德加",WWE HD
-http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/562
-#EXTINF:-1 tvg-id="" tvg-name="NBA HD" tvg-logo="https://sppotato.github.io/icon/" group-title="英美德加",NBA HD
-http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/533
-#EXTINF:-1 tvg-id="" tvg-name="花花公子" tvg-logo="https://sppotato.github.io/icon/playboy.png" group-title="英美德加",花花公子 HD
-http://195.181.162.217:80/090502/090502/39432
-#EXTINF:-1 tvg-id="" tvg-name="SexPrivate" tvg-logo="https://sppotato.github.io/icon/sexp.png" group-title="英美德加",SexPrivate HD
-http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/13577
-#EXTINF:-1 tvg-id="" tvg-name="SexHot" tvg-logo="https://sppotato.github.io/icon/sexhot.png" group-title="英美德加",SexHot HD
-http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/74250
-#EXTINF:-1 tvg-id="" tvg-name="REDLIGHT" tvg-logo="" group-title="英美德加",REDLIGHT HD
-http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/13576
-#EXTINF:-1 tvg-id="" tvg-name="DorcelTV" tvg-logo="" group-title="英美德加",DorcelTV HD
-http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/13587
-#EXTINF:-1 tvg-id="" tvg-name="VIVID RED" tvg-logo="" group-title="英美德加",VIVID RED HD
-http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/13565
-#EXTINF:-1 tvg-id="" tvg-name="Penthouse1" tvg-logo="" group-title="英美德加",Penthouse一台 HD
-http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/13581
-#EXTINF:-1 tvg-id="" tvg-name="Penthouse2" tvg-logo="" group-title="英美德加",Penthouse二台 HD
-http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/13580
-#EXTINF:-1 tvg-id="" tvg-name="Penthouse GOLD" tvg-logo="" group-title="英美德加",Penthouse GOLD HD
-http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/13582
-#EXTINF:-1 tvg-id="" tvg-name="XYPlus" tvg-logo="" group-title="英美德加",XYPlus HD
-http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/13563
-#EXTINF:-1 tvg-id="" tvg-name="XYMix" tvg-logo="" group-title="英美德加",XYMix HD
-http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/78711
-#EXTINF:-1 tvg-id="" tvg-name="Shalun" tvg-logo="" group-title="英美德加",Shalun HD
-http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/78720
-#EXTINF:-1 tvg-id="" tvg-name="Babes" tvg-logo="" group-title="英美德加",Babes HD
-http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/78721
-
 
