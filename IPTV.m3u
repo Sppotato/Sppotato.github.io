@@ -442,7 +442,7 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨新闻综合" tvg-logo="https://sppotato.github.io/icon/haxw.png" group-title="地方高清",黑龙江-哈尔滨综合 HD
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225760/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南都市" tvg-logo="https://sppotato.github.io/icon/henan2.png" group-title="地方高清",河南-都市频道 HD
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel41101/index.m3u8
+http://39.134.230.196:9090/39.134.213.85/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221225941/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南电视剧" tvg-logo="https://sppotato.github.io/icon/hnys.png" group-title="地方高清",河南-电视剧频道 HD
 http://39.134.230.196:9090/39.134.213.85/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="郑州新闻综合" tvg-logo="https://sppotato.github.io/icon/zhengzhou1.png" group-title="地方高清",河南-郑州综合 HD
