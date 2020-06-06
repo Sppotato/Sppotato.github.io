@@ -835,190 +835,189 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 
 #EXTINF:-1,---------------MY---------------
-#EXTINF:-1 tvg-id="" tvg-name="索尼GEM" tvg-logo="https://sppotato.github.io/icon/sony.png" group-title="新马印泰",SONY HD
-https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="SonyBBCEarth" tvg-logo="https://sppotato.github.io/icon/sonybbc.png" group-title="新马印泰",SONY自然知性 HD
-https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="SonyMaxHD" tvg-logo="https://sppotato.github.io/icon/sonymax.png" group-title="新马印泰",SONYMAX HD
-https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="SonySABHD" tvg-logo="https://sppotato.github.io/icon/sonysab.png" group-title="新马印泰",SONYSAB HD
-https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="SonyYayHD" tvg-logo="https://sppotato.github.io/icon/sonyyay.png" group-title="新马印泰",SONYYAY HD
-https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="SonyPixHD" tvg-logo="https://sppotato.github.io/icon/sonypix.png" group-title="新马印泰",SONYPIX HD
-https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="SonyTen1" tvg-logo="https://sppotato.github.io/icon/sonyten1.png" group-title="新马印泰",SONYTEN1 HD
-https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="" tvg-name="SonyTen2" tvg-logo="https://sppotato.github.io/icon/sonyten2.png" group-title="新马印泰",SONYTEN2 HD
-https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="" tvg-name="SonyTen3" tvg-logo="https://sppotato.github.io/icon/sonyten3.png" group-title="新马印泰",SONYTEN3 HD
-https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="" tvg-name="SonySixHD" tvg-logo="https://sppotato.github.io/icon/sonysix.png" group-title="新马印泰",SONYSIX HD
-https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="" tvg-name="axn-HD" tvg-logo="https://sppotato.github.io/icon/axn.png" group-title="新马印泰",SONYAXN HD
-https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-id="" tvg-name="HBO电影HD" tvg-logo="https://sppotato.github.io/icon/hbo.png" group-title="新马印泰",HBO家庭影院 HD
-http://1.55.232.18:9876/udp/225.1.2.233:30120
-#EXTINF:-1 tvg-id="" tvg-name="astro全佳" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",astro全佳 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro全佳" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro全佳 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18626
-#EXTINF:-1 tvg-id="" tvg-name="astro双星" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",astro双星 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro双星" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro双星 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18624
-#EXTINF:-1 tvg-id="" tvg-name="astro Ria" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",astro马来娱乐 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro Ria" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来娱乐 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18625
-#EXTINF:-1 tvg-id="" tvg-name="astro ARENA" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",astro马来体育 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro ARENA" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来体育 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18632
-#EXTINF:-1 tvg-id="" tvg-name="astro Ceria" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",astro马来少儿 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro Ceria" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来少儿 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18630
-#EXTINF:-1 tvg-id="" tvg-name="astro CRICKET" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",astro马来板球 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro CRICKET" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来板球 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18629
-#EXTINF:-1 tvg-id="" tvg-name="astro RugbyPass" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",astro马来橄榄球 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro RugbyPass" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来橄榄球 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18593
-#EXTINF:-1 tvg-id="" tvg-name="astro OASIS" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",astro马来伊斯兰2台 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro OASIS" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来伊斯兰2台 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18628
-#EXTINF:-1 tvg-id="" tvg-name="astro NAURA" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",astro马来伊斯兰1台 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro NAURA" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来伊斯兰1台 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29535
-#EXTINF:-1 tvg-id="" tvg-name="astro PRIMA" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",astro马来综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro PRIMA" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来综合 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18627
-#EXTINF:-1 tvg-id="" tvg-name="astro VINMEEN" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",astro马来泰米尔语 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro VINMEEN" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来泰米尔语 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18617
-#EXTINF:-1 tvg-id="" tvg-name="astro WARNA" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",astro马来综艺 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro WARNA" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来综艺 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18616
-#EXTINF:-1 tvg-id="" tvg-name="astro BOLLYONE" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",astro宝莱坞 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro BOLLYONE" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro宝莱坞 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18606
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS1" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",astro超级体育1台 HD
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS1" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro超级体育1台 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18623
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS2" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",astro超级体育2台 HD
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS2" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro超级体育2台 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18622
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS3" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",astro超级体育3台 HD
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS3" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro超级体育3台 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18621
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS4" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",astro超级体育4台 HD
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS4" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro超级体育4台 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18620
-#EXTINF:-1 tvg-id="" tvg-name="HBOFamily" tvg-logo="https://sppotato.github.io/icon/hbofamily.png" group-title="新马印泰",HBO合家欢影院 HD
+#EXTINF:-1 tvg-id="" tvg-name="HBOFamily" tvg-logo="https://sppotato.github.io/icon/hbofamily.png" group-title="新马高清",HBO合家欢影院 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62172
-#EXTINF:-1 tvg-id="" tvg-name="HBOSignature" tvg-logo="https://sppotato.github.io/icon/hbosig.png" group-title="新马印泰",HBO原创巨献 HD
+#EXTINF:-1 tvg-id="" tvg-name="HBOSignature" tvg-logo="https://sppotato.github.io/icon/hbosig.png" group-title="新马高清",HBO原创巨献 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62174
-#EXTINF:-1 tvg-id="" tvg-name="HBOHits" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",HBO强档钜献 HD
+#EXTINF:-1 tvg-id="" tvg-name="HBOHits" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",HBO强档钜献 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62173
-#EXTINF:-1 tvg-id="" tvg-name="红电影" tvg-logo="https://sppotato.github.io/icon/hbored.png" group-title="新马印泰",HBO红电影 HD
+#EXTINF:-1 tvg-id="" tvg-name="红电影" tvg-logo="https://sppotato.github.io/icon/hbored.png" group-title="新马高清",HBO红电影 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62171#http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18561
-#EXTINF:-1 tvg-id="" tvg-name="aniplus卡通" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",ANIPLUS动漫 HD
+#EXTINF:-1 tvg-id="" tvg-name="aniplus卡通" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",ANIPLUS动漫 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18637
-#EXTINF:-1 tvg-id="" tvg-name="BeinSportMax" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",bEINMAX体育 HD
+#EXTINF:-1 tvg-id="" tvg-name="BeinSportMax" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",bEINMAX体育 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18633
-#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",曼联足球 HD
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",曼联足球 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18572
-#EXTINF:-1 tvg-id="" tvg-name="PARAMAUNT" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",派拉蒙电视网 HD
+#EXTINF:-1 tvg-id="" tvg-name="PARAMAUNT" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",派拉蒙电视网 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18563
-#EXTINF:-1 tvg-id="" tvg-name="COLORS" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",COLORS HD
+#EXTINF:-1 tvg-id="" tvg-name="COLORS" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",COLORS HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18615
-#EXTINF:-1 tvg-id="" tvg-name="BBC地球" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",BBC地球 HD
+#EXTINF:-1 tvg-id="" tvg-name="BBC地球" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",BBC地球 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18610
-#EXTINF:-1 tvg-id="" tvg-name="BBC生活" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",BBC生活 HD
+#EXTINF:-1 tvg-id="" tvg-name="BBC生活" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",BBC生活 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18609
-#EXTINF:-1 tvg-id="" tvg-name="BlueAnt娛樂" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",BlueAnt娱乐 HD
+#EXTINF:-1 tvg-id="" tvg-name="BlueAnt娛樂" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",BlueAnt娱乐 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18607
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang卡通" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",Boomerang卡通 HD
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang卡通" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",Boomerang卡通 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18605
-#EXTINF:-1 tvg-id="" tvg-name="GNIX SPORTS" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",GNIX体育 HD
+#EXTINF:-1 tvg-id="" tvg-name="GNIX SPORTS" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",GNIX体育 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18584
-#EXTINF:-1 tvg-id="" tvg-name="GNIX SPORTS" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",GOLF高尔夫 HD
+#EXTINF:-1 tvg-id="" tvg-name="GNIX SPORTS" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",GOLF高尔夫 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9123
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS" tvg-logo="https://sppotato.github.io/icon/skysport.png" group-title="新马印泰",SKY体育 HD
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS" tvg-logo="https://sppotato.github.io/icon/skysport.png" group-title="新马高清",SKY体育 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9113
-#EXTINF:-1 tvg-id="" tvg-name="国家地理" tvg-logo="https://sppotato.github.io/icon/ngo.png" group-title="新马印泰",国家地理 HD
+#EXTINF:-1 tvg-id="" tvg-name="国家地理" tvg-logo="https://sppotato.github.io/icon/ngo.png" group-title="新马高清",国家地理 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18571
-#EXTINF:-1 tvg-id="" tvg-name="國家地理悠人" tvg-logo="https://sppotato.github.io/icon/ngowild.png" group-title="新马印泰",国家地理悠人 HD
+#EXTINF:-1 tvg-id="" tvg-name="國家地理悠人" tvg-logo="https://sppotato.github.io/icon/ngowild.png" group-title="新马高清",国家地理悠人 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18570
-#EXTINF:-1 tvg-id="" tvg-name="国家地理野生" tvg-logo="https://sppotato.github.io/icon/ngowild.png" group-title="新马印泰",国家地理野生 HD
+#EXTINF:-1 tvg-id="" tvg-name="国家地理野生" tvg-logo="https://sppotato.github.io/icon/ngowild.png" group-title="新马高清",国家地理野生 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18569
-#EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",CINEMA WORLD HD
+#EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",CINEMA WORLD HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18601
-#EXTINF:-1 tvg-id="" tvg-name="KIX电影" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",KIX动作娱乐 HD
+#EXTINF:-1 tvg-id="" tvg-name="KIX电影" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",KIX动作娱乐 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18575
-#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://sppotato.github.io/icon/tvn.png" group-title="新马印泰",TVN娱乐 HD
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://sppotato.github.io/icon/tvn.png" group-title="新马高清",TVN娱乐 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18552
-#EXTINF:-1 tvg-id="" tvg-name="TVN MOVIES" tvg-logo="https://sppotato.github.io/icon/tvn.png" group-title="新马印泰",TVN电影 HD
+#EXTINF:-1 tvg-id="" tvg-name="TVN MOVIES" tvg-logo="https://sppotato.github.io/icon/tvn.png" group-title="新马高清",TVN电影 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18551
-#EXTINF:-1 tvg-id="" tvg-name="华纳电视" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",华纳电视 HD
+#EXTINF:-1 tvg-id="" tvg-name="华纳电视" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",华纳电视 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18550
-#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",WWE HD
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",WWE HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18549
-#EXTINF:-1 tvg-id="" tvg-name="FOX频道" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",FOX频道
+#EXTINF:-1 tvg-id="" tvg-name="FOX频道" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",FOX频道
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18586
-#EXTINF:-1 tvg-id="" tvg-name="FOX优质电影" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",FOX电影
+#EXTINF:-1 tvg-id="" tvg-name="FOX优质电影" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",FOX电影
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18590
-#EXTINF:-1 tvg-id="" tvg-name="FOX动作电影" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",FOX动作影院
+#EXTINF:-1 tvg-id="" tvg-name="FOX动作电影" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",FOX动作影院
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29583
-#EXTINF:-1 tvg-id="" tvg-name="FOX家庭影院" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",FOX家庭影院
+#EXTINF:-1 tvg-id="" tvg-name="FOX家庭影院" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",FOX家庭影院
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18592
-#EXTINF:-1 tvg-id="" tvg-name="FOXLIFE" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",FOX生活
+#EXTINF:-1 tvg-id="" tvg-name="FOXLIFE" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",FOX生活
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18591
-#EXTINF:-1 tvg-id="" tvg-name="fox体育1" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",FOX体育1台
+#EXTINF:-1 tvg-id="" tvg-name="fox体育1" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",FOX体育1台
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18589
-#EXTINF:-1 tvg-id="" tvg-name="fox体育2" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",FOX体育2台
+#EXTINF:-1 tvg-id="" tvg-name="fox体育2" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",FOX体育2台
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18588
-#EXTINF:-1 tvg-id="" tvg-name="fox体育3" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",FOX体育3台
+#EXTINF:-1 tvg-id="" tvg-name="fox体育3" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",FOX体育3台
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18587
-#EXTINF:-1 tvg-id="" tvg-name="FX频道" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",FX电影频道
+#EXTINF:-1 tvg-id="" tvg-name="FX频道" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",FX电影频道
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18585
-#EXTINF:-1 tvg-id="" tvg-name="DUNIA SINEMA" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",DUNIA电影
+#EXTINF:-1 tvg-id="" tvg-name="DUNIA SINEMA" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",DUNIA电影
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18595
-#EXTINF:-1 tvg-id="" tvg-name="CN卡通頻道亚洲" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",CN卡通
+#EXTINF:-1 tvg-id="" tvg-name="CN卡通頻道亚洲" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",CN卡通
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18604
-#EXTINF:-1 tvg-id="" tvg-name="HITS-HD" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",HITS娱乐
+#EXTINF:-1 tvg-id="" tvg-name="HITS-HD" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",HITS娱乐
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18581
-#EXTINF:-1 tvg-id="" tvg-name="Travel亚洲" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",Travel亚洲
+#EXTINF:-1 tvg-id="" tvg-name="Travel亚洲" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",Travel亚洲
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18555
-#EXTINF:-1 tvg-id="" tvg-name="SonySixHD" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",SonySix体育
+#EXTINF:-1 tvg-id="" tvg-name="SonySixHD" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",SonySix体育
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8682
-#EXTINF:-1 tvg-id="" tvg-name="卫视中文" tvg-logo="https://sppotato.github.io/icon/starchinese.png" group-title="新马印泰",卫视中文台
+#EXTINF:-1 tvg-id="" tvg-name="卫视中文" tvg-logo="https://sppotato.github.io/icon/starchinese.png" group-title="新马高清",卫视中文台
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18557
-#EXTINF:-1 tvg-id="" tvg-name="天映电影HD" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",天映频道
+#EXTINF:-1 tvg-id="" tvg-name="天映电影HD" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",天映频道
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18603
-#EXTINF:-1 tvg-id="" tvg-name="卫视卡式台" tvg-logo="https://sppotato.github.io/icon/starkashi.png" group-title="新马印泰",卫视卡式台
+#EXTINF:-1 tvg-id="" tvg-name="卫视卡式台" tvg-logo="https://sppotato.github.io/icon/starkashi.png" group-title="新马高清",卫视卡式台
 https://livedoomovies.com/02_SCM_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="天映经典" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",天映经典
+#EXTINF:-1 tvg-id="" tvg-name="天映经典" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",天映经典
 https://www.livedoomovies.com/02_CCM_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",Thrill惊悚电影
+#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",Thrill惊悚电影
 https://livedoomovies.com/02_Thrill_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="探索频道" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",探索频道
+#EXTINF:-1 tvg-id="" tvg-name="探索频道" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",探索频道
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18600
-#EXTINF:-1 tvg-id="" tvg-name="DreamWorks梦工厂" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",梦工厂
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks梦工厂" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",梦工厂
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18638
-#EXTINF:-1 tvg-id="" tvg-name="迪士尼亚洲HD" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",迪士尼亚洲
+#EXTINF:-1 tvg-id="" tvg-name="迪士尼亚洲HD" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",迪士尼亚洲
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18599
-#EXTINF:-1 tvg-id="" tvg-name="迪士尼Junior" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",迪士尼JR
+#EXTINF:-1 tvg-id="" tvg-name="迪士尼Junior" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",迪士尼JR
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18598
-#EXTINF:-1 tvg-id="" tvg-name="迪士尼XD-HD" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",迪士尼XD
+#EXTINF:-1 tvg-id="" tvg-name="迪士尼XD-HD" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",迪士尼XD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18597
-#EXTINF:-1 tvg-id="" tvg-name="SONYONE" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",索尼ONE
+#EXTINF:-1 tvg-id="" tvg-name="SONYONE" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",索尼ONE
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18558
-#EXTINF:-1 tvg-id="" tvg-name="SonySAB" tvg-logo="https://sppotato.github.io/icon/sonysab.png" group-title="新马印泰",索尼SAB
+#EXTINF:-1 tvg-id="" tvg-name="SonySAB" tvg-logo="https://sppotato.github.io/icon/sonysab.png" group-title="新马高清",索尼SAB
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18545
-#EXTINF:-1 tvg-id="" tvg-name="axn-HD" tvg-logo="https://sppotato.github.io/icon/nhk.png" group-title="新马印泰",AXN索尼动作
+#EXTINF:-1 tvg-id="" tvg-name="axn-HD" tvg-logo="https://sppotato.github.io/icon/nhk.png" group-title="新马高清",AXN索尼动作
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18613
-#EXTINF:-1 tvg-id="" tvg-name="NHK世界新闻" tvg-logo="https://sppotato.github.io/icon/nhk.png" group-title="新马印泰",NHK环球国际
+#EXTINF:-1 tvg-id="" tvg-name="NHK世界新闻" tvg-logo="https://sppotato.github.io/icon/nhk.png" group-title="新马高清",NHK环球国际
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18614
-#EXTINF:-1 tvg-id="" tvg-name="三立国际" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",三立国际
+#EXTINF:-1 tvg-id="" tvg-name="三立国际" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",三立国际
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18559
-#EXTINF:-1 tvg-id="" tvg-name="MTV亚洲" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",MTV音乐台
+#EXTINF:-1 tvg-id="" tvg-name="MTV亚洲" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",MTV音乐台
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9122
-#EXTINF:-1 tvg-id="" tvg-name="SKY MUSIC" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",SKY音乐台
+#EXTINF:-1 tvg-id="" tvg-name="SKY MUSIC" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",SKY音乐台
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9121
-#EXTINF:-1 tvg-id="" tvg-name="ZING MUSIC" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",ZING音乐台
+#EXTINF:-1 tvg-id="" tvg-name="ZING MUSIC" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",ZING音乐台
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9117
-#EXTINF:-1 tvg-id="" tvg-name="babytv" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",BABYTV
+#EXTINF:-1 tvg-id="" tvg-name="babytv" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",BABYTV
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9131
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",旅游生活
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",旅游生活
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18556
-#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="https://sppotato.github.io/icon/mlxy1.png" group-title="新马印泰",马来西亚1台
+#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="https://sppotato.github.io/icon/mlxy1.png" group-title="新马高清",马来西亚1台
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1359
-#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://sppotato.github.io/icon/mlxy2.png" group-title="新马印泰",马来西亚2台
+#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://sppotato.github.io/icon/mlxy2.png" group-title="新马高清",马来西亚2台
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1358
-#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://sppotato.github.io/icon/mlxy2.png" group-title="新马印泰",马来西亚3台
+#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://sppotato.github.io/icon/mlxy2.png" group-title="新马高清",马来西亚3台
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1357
-#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",马来西亚8台
+#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",马来西亚8台
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18553
-#EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://sppotato.github.io/icon/" group-title="新马印泰",马来西亚9台
+#EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",马来西亚9台
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1356
 
+
+#EXTINF:-1 tvg-id="" tvg-name="索尼GEM" tvg-logo="https://sppotato.github.io/icon/sony.png" group-title="印度高清",SONY HD
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="" tvg-name="SonyBBCEarth" tvg-logo="https://sppotato.github.io/icon/sonybbc.png" group-title="印度高清",SONY自然知性 HD
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="" tvg-name="SonyMaxHD" tvg-logo="https://sppotato.github.io/icon/sonymax.png" group-title="印度高清",SONYMAX HD
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="" tvg-name="SonySABHD" tvg-logo="https://sppotato.github.io/icon/sonysab.png" group-title="印度高清",SONYSAB HD
+https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="" tvg-name="SonyYayHD" tvg-logo="https://sppotato.github.io/icon/sonyyay.png" group-title="印度高清",SONYYAY HD
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="" tvg-name="SonyPixHD" tvg-logo="https://sppotato.github.io/icon/sonypix.png" group-title="印度高清",SONYPIX HD
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="" tvg-name="SonyTen1" tvg-logo="https://sppotato.github.io/icon/sonyten1.png" group-title="印度高清",SONYTEN1 HD
+https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 tvg-id="" tvg-name="SonyTen2" tvg-logo="https://sppotato.github.io/icon/sonyten2.png" group-title="印度高清",SONYTEN2 HD
+https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 tvg-id="" tvg-name="SonyTen3" tvg-logo="https://sppotato.github.io/icon/sonyten3.png" group-title="印度高清",SONYTEN3 HD
+https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 tvg-id="" tvg-name="SonySixHD" tvg-logo="https://sppotato.github.io/icon/sonysix.png" group-title="印度高清",SONYSIX HD
+https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 tvg-id="" tvg-name="axn-HD" tvg-logo="https://sppotato.github.io/icon/axn.png" group-title="印度高清",SONYAXN HD
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
