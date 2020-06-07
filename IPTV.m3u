@@ -335,6 +335,8 @@ http://113.71.138.143:9981/stream/channelid/1986850520
 http://113.71.138.143:9981/stream/channelid/549839269
 #EXTINF:-1 tvg-id="" tvg-name="汕头经济" tvg-logo="https://sppotato.github.io/icon/shantou3.png" group-title="广东IPTV",汕头经济 HD
 http://113.71.138.143:9981/stream/channelid/824046776
+#EXTINF:-1 tvg-id="" tvg-name="珠江电影" tvg-logo="https://sppotato.github.io/icon/zjdy.png" group-title="广东IPTV",珠江电影
+http://113.71.138.143:9981/stream/channelid/421594596
 
 
 
@@ -1002,6 +1004,8 @@ http://live.zbjh.cc/live/ws145.m3u8
 
 
 #EXTINF:-1,---------------AsianTV HD---------------
+#EXTINF:-1 tvg-id="" tvg-name="KBS" tvg-logo="https://sppotato.github.io/icon/" group-title="日韩亚洲",KBS HD
+http://59.28.86.246:9981/stream/channelid/92
 #EXTINF:-1 tvg-id="" tvg-name="CNAI亚洲新闻" tvg-logo="https://sppotato.github.io/icon/cna.png" group-title="日韩亚洲",亚洲新闻台 HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="U频道" tvg-logo="https://sppotato.github.io/icon/xjpu.png" group-title="日韩亚洲",U频道 HD
