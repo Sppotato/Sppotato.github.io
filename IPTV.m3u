@@ -283,10 +283,36 @@ http://113.71.138.143:9981/stream/channelid/747559038
 http://113.71.138.143:9981/stream/channelid/2051533540
 #EXTINF:-1 tvg-id="" tvg-name="珠江卫视" tvg-logo="https://sppotato.github.io/icon/gdzj.png" group-title="广东IPTV",广东珠江 HD
 http://113.71.138.143:9981/stream/channelid/924240123
+#EXTINF:-1 tvg-id="" tvg-name="深圳体育" tvg-logo="https://sppotato.github.io/icon/sztv3.png" group-title="广东IPTV",深圳体育 HD
+http://113.71.138.143:9981/stream/channelid/243404754
+#EXTINF:-1 tvg-id="" tvg-name="深圳公共" tvg-logo="https://sppotato.github.io/icon/sztv4.png" group-title="广东IPTV",深圳公共 HD
+http://113.71.138.143:9981/stream/channelid/1012911915
+#EXTINF:-1 tvg-id="" tvg-name="深圳娱乐" tvg-logo="https://sppotato.github.io/icon/sztv5.png" group-title="广东IPTV",深圳娱乐 HD
+http://113.71.138.143:9981/stream/channelid/115214070
+#EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="https://sppotato.github.io/icon/sztv6.png" group-title="广东IPTV",深圳少儿 HD
+http://113.71.138.143:9981/stream/channelid/817103473
+#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="https://sppotato.github.io/icon/sztv7.png" group-title="广东IPTV",深圳电视剧 HD
+http://113.71.138.143:9981/stream/channelid/1474546741
+#EXTINF:-1 tvg-id="" tvg-name="深圳财经" tvg-logo="https://sppotato.github.io/icon/sztv8.png" group-title="广东IPTV",深圳财经 HD
+http://113.71.138.143:9981/stream/channelid/1929590844
+#EXTINF:-1 tvg-id="" tvg-name="深圳都市" tvg-logo="https://sppotato.github.io/icon/sztv9.png" group-title="广东IPTV",深圳都市 HD
+http://113.71.138.143:9981/stream/channelid/407099431
+#EXTINF:-1 tvg-id="" tvg-name="深圳宝安" tvg-logo="https://sppotato.github.io/icon/sztv10.png" group-title="广东IPTV",深圳宝安 HD
+http://113.71.138.143:9981/stream/channelid/1308008616
+#EXTINF:-1 tvg-id="" tvg-name="深圳龙岗" tvg-logo="https://sppotato.github.io/icon/sztv11.png" group-title="广东IPTV",深圳龙岗 HD
+http://113.71.138.143:9981/stream/channelid/745175611
+#EXTINF:-1 tvg-id="" tvg-name="深圳东部" tvg-logo="https://sppotato.github.io/icon/sztv1.png" group-title="广东IPTV",深圳东部 HD
+http://113.71.138.143:9981/stream/channelid/1107204808
+#EXTINF:-1 tvg-id="" tvg-name="深圳众创" tvg-logo="https://sppotato.github.io/icon/sztv2.png" group-title="广东IPTV",深圳众创 HD
+http://113.71.138.143:9981/stream/channelid/306838866
 #EXTINF:-1 tvg-id="" tvg-name="珠海一台" tvg-logo="https://sppotato.github.io/icon/zhuhai.png" group-title="广东IPTV",珠海一台 HD
 http://113.71.138.143:9981/stream/channelid/241624326
 #EXTINF:-1 tvg-id="" tvg-name="珠海二台" tvg-logo="https://sppotato.github.io/icon/zhuhai1.png" group-title="广东IPTV",珠海二台 HD
 http://113.71.138.143:9981/stream/channelid/1705466854
+#EXTINF:-1 tvg-id="" tvg-name="惠州一台" tvg-logo="https://sppotato.github.io/icon/huizhou.png" group-title="广东IPTV",惠州一台 HD
+http://113.71.138.143:9981/stream/channelid/72702061
+#EXTINF:-1 tvg-id="" tvg-name="惠州二台" tvg-logo="https://sppotato.github.io/icon/huizhou1.png" group-title="广东IPTV",惠州二台 HD
+http://113.71.138.143:9981/stream/channelid/548783755
 #EXTINF:-1 tvg-id="" tvg-name="韶关综合" tvg-logo="https://sppotato.github.io/icon/shaoguan.png" group-title="广东IPTV",韶关综合 HD
 http://113.71.138.143:9981/stream/channelid/13065989
 #EXTINF:-1 tvg-id="" tvg-name="韶关公共" tvg-logo="https://sppotato.github.io/icon/shaoguan1.png" group-title="广东IPTV",韶关公共 HD
@@ -299,6 +325,16 @@ http://113.71.138.143:9981/stream/channelid/1771223066
 http://113.71.138.143:9981/stream/channelid/31316157
 #EXTINF:-1 tvg-id="" tvg-name="湛江公共" tvg-logo="https://sppotato.github.io/icon/zhanjiang1.png" group-title="广东IPTV",湛江公共 HD
 http://113.71.138.143:9981/stream/channelid/1465008435
+#EXTINF:-1 tvg-id="" tvg-name="河源综合" tvg-logo="https://sppotato.github.io/icon/heyuan.png" group-title="广东IPTV",河源综合 HD
+http://113.71.138.143:9981/stream/channelid/54108720
+#EXTINF:-1 tvg-id="" tvg-name="河源公共" tvg-logo="https://sppotato.github.io/icon/heyuan1.png" group-title="广东IPTV",河源公共 HD
+http://113.71.138.143:9981/stream/channelid/1041761801
+#EXTINF:-1 tvg-id="" tvg-name="汕头综合" tvg-logo="https://sppotato.github.io/icon/shantou1.png" group-title="广东IPTV",汕头综合 HD
+http://113.71.138.143:9981/stream/channelid/1986850520
+#EXTINF:-1 tvg-id="" tvg-name="汕头公共" tvg-logo="https://sppotato.github.io/icon/shantou2.png" group-title="广东IPTV",汕头公共 HD
+http://113.71.138.143:9981/stream/channelid/549839269
+#EXTINF:-1 tvg-id="" tvg-name="汕头经济" tvg-logo="https://sppotato.github.io/icon/shantou3.png" group-title="广东IPTV",汕头经济 HD
+http://113.71.138.143:9981/stream/channelid/824046776
 
 
 
@@ -386,6 +422,8 @@ http://39.135.140.14:6610/PLTV/88888888/224/3221225578/2/index.m3u8?fmt=ts2hls
 http://39.135.140.14:6610/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls
 
 
+
+#EXTINF:-1,---------------ChineseTV HD---------------
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://sppotato.github.io/icon/gdty.png" group-title="地方高清",广东-广东体育 HD
 http://116.26.10.134:9981/stream/channelid/1450340514#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="珠江卫视" tvg-logo="https://sppotato.github.io/icon/gdzj.png" group-title="地方高清",广东-珠江台 HD
@@ -688,7 +726,7 @@ http://live.hcs.cmvideo.cn/wd_r3/virtuallive/5101074616/150/index.m3u8?&encrypt=
 http://live.hcs.cmvideo.cn/wd_r2/virtuallive/5101098146/150/index.m3u8?&encrypt=
 
 
-#EXTINF:-1,---------------Digital Television---------------
+#EXTINF:-1,---------------DigitalTV HD---------------
 #EXTINF:-1 tvg-id="" tvg-name="新视觉" tvg-logo="https://sppotato.github.io/icon/xsj.png" group-title="数字高清",新视觉 HD
 http://183.207.255.190/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-logo="https://sppotato.github.io/icon/dmxc.png" group-title="数字高清",动漫秀场 HD
@@ -843,7 +881,7 @@ http://120.221.5.165:8089/PLTV/88888888/224/3221225629/index.m3u8
 http://120.221.5.113:8089/PLTV/88888888/224/3221226071/index.m3u8
 
 
-#EXTINF:-1,---------------HONGKONG TWAIAN---------------
+#EXTINF:-1,---------------HongKong Taiwan HD---------------
 #EXTINF:-1 tvg-id="" tvg-name="香港有线新聞台" tvg-logo="https://sppotato.github.io/icon/yxxw.png" group-title="港澳台高清",有线新闻 HD
 http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港有线娱乐台" tvg-logo="https://sppotato.github.io/icon/yxyl.png" group-title="港澳台高清",有线综合娱乐 HD
@@ -963,7 +1001,7 @@ http://live.zbjh.cc/live/ws145.m3u8
 
 
 
-#EXTINF:-1,---------------JAPAN---------------
+#EXTINF:-1,---------------AsianTV HD---------------
 #EXTINF:-1 tvg-id="" tvg-name="CNAI亚洲新闻" tvg-logo="https://sppotato.github.io/icon/cna.png" group-title="日韩亚洲",亚洲新闻台 HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="U频道" tvg-logo="https://sppotato.github.io/icon/xjpu.png" group-title="日韩亚洲",U频道 HD
@@ -987,7 +1025,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 
 
-#EXTINF:-1,---------------MY---------------
+#EXTINF:-1,---------------MalaysiaTV HD---------------
 #EXTINF:-1 tvg-id="" tvg-name="astro全佳" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro全佳 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18626
 #EXTINF:-1 tvg-id="" tvg-name="astro双星" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro双星 HD
@@ -1152,6 +1190,9 @@ http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18553
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1356
 
 
+
+
+#EXTINF:-1,---------------IndiaTV HD---------------
 #EXTINF:-1 tvg-id="" tvg-name="索尼GEM" tvg-logo="https://sppotato.github.io/icon/sony.png" group-title="印度高清",SONY HD
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="" tvg-name="SonyBBCEarth" tvg-logo="https://sppotato.github.io/icon/sonybbc.png" group-title="印度高清",SONY自然知性 HD
