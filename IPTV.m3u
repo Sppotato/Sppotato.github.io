@@ -905,9 +905,9 @@ http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港亚视" tvg-logo="https://sppotato.github.io/icon/hkys.png" group-title="港澳台高清",香港亚视 HD
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港开电视" tvg-logo="https://sppotato.github.io/icon/kaidianshi.png" group-title="港澳台高清",香港开电视 HD
-http://183.179.246.16:9981/stream/channelid/2082755636#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+http://138.19.127.53:9981/stream/channelid/1390210852#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港国际财经台" tvg-logo="https://sppotato.github.io/icon/hkibc.png" group-title="港澳台高清",香港国际财经台 HD
-http://183.179.246.16:9981/stream/channelid/1282614114
+http://138.19.127.53:9981/stream/channelid/1101681951
 #EXTINF:-1 tvg-id="" tvg-name="亚旅卫视" tvg-logo="https://sppotato.github.io/icon/yltv.png" group-title="港澳台高清",亚旅卫视 HD
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港C+" tvg-logo="https://sppotato.github.io/icon/hkc+.png" group-title="港澳台高清",香港C+频道 HD
@@ -944,60 +944,8 @@ http://seb.sason.top/sc/ztxw_fhd.m3u8
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="三立新闻" tvg-logo="https://sppotato.github.io/icon/sanlinew.png" group-title="港澳台高清",三立LIVE新闻 HD
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="卫视电影台湾" tvg-logo="https://sppotato.github.io/icon/weishidianying.png" group-title="港澳台高清",卫视电影台 HD
-http://live.zbjh.cc/live/ws101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="天映电影HD" tvg-logo="https://sppotato.github.io/icon/tianying.png" group-title="港澳台高清",天映频道 HD
-http://live.zbjh.cc/live/ws109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="天映经典" tvg-logo="https://sppotato.github.io/icon/tianyingjd.png" group-title="港澳台高清",天映经典 HD
-http://live.zbjh.cc/live/ws110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX频道" tvg-logo="https://sppotato.github.io/icon/fox.png" group-title="港澳台高清",FOX频道 HD
-http://live.zbjh.cc/live/ws104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX动作电影" tvg-logo="https://sppotato.github.io/icon/foxaction.png" group-title="港澳台高清",FOX动作电影 HD
-http://live.zbjh.cc/live/ws105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX家庭影院" tvg-logo="https://sppotato.github.io/icon/foxfamily.png" group-title="港澳台高清",FOX家庭影院 HD
-http://live.zbjh.cc/live/ws106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOXCRIME" tvg-logo="https://sppotato.github.io/icon/foxcrime.png" group-title="港澳台高清",FOX警匪影院 HD
-http://live.zbjh.cc/live/ws107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FX频道" tvg-logo="https://sppotato.github.io/icon/fx.png" group-title="港澳台高清",FX频道 HD
-http://live.zbjh.cc/live/ws108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="八大娛樂" tvg-logo="https://sppotato.github.io/icon/bdyl.png" group-title="港澳台高清",八大娱乐 HD
-http://live.zbjh.cc/live/ws121.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="八大第一" tvg-logo="https://sppotato.github.io/icon/bddy.png" group-title="港澳台高清",八大第一 HD
-http://live.zbjh.cc/live/ws122.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="八大戲劇" tvg-logo="https://sppotato.github.io/icon/bdxj.png" group-title="港澳台高清",八大戏剧 HD
-http://live.zbjh.cc/live/ws123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="八大綜合" tvg-logo="https://sppotato.github.io/icon/bdzh.png" group-title="港澳台高清",三立综合 HD
-http://live.zbjh.cc/live/ws124.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="三立都会" tvg-logo="https://sppotato.github.io/icon/sldh.png" group-title="港澳台高清",三立都会 HD
-http://live.zbjh.cc/live/ws125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="三立戏剧" tvg-logo="https://sppotato.github.io/icon/slxj.png" group-title="港澳台高清",三立戏剧 HD
-http://live.zbjh.cc/live/ws126.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="三立台湾" tvg-logo="https://sppotato.github.io/icon/sltw.png" group-title="港澳台高清",三立台湾 HD
-http://live.zbjh.cc/live/ws127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="東森戲劇" tvg-logo="https://sppotato.github.io/icon/dsxj.png" group-title="港澳台高清",东森戏剧 HD
-http://live.zbjh.cc/live/ws128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="東森綜合" tvg-logo="https://sppotato.github.io/icon/dszh.png" group-title="港澳台高清",东森综合 HD
-http://live.zbjh.cc/live/ws131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="緯來戲劇" tvg-logo="https://sppotato.github.io/icon/wlxj.png" group-title="港澳台高清",纬来戏剧 HD
-http://live.zbjh.cc/live/ws132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="緯來綜合" tvg-logo="https://sppotato.github.io/icon/wlzh.png" group-title="港澳台高清",纬来综合 HD
-http://live.zbjh.cc/live/ws133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="緯來育樂" tvg-logo="https://sppotato.github.io/icon/wlyl.png" group-title="港澳台高清",纬来育乐 HD
-http://live.zbjh.cc/live/ws135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="緯來日本" tvg-logo="https://sppotato.github.io/icon/wlrb.png" group-title="港澳台高清",纬来日本 HD
-http://live.zbjh.cc/live/ws136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="緯來體育" tvg-logo="https://sppotato.github.io/icon/wlty.png" group-title="港澳台高清",纬来体育 HD
-http://live.zbjh.cc/live/ws138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EYETV旅游" tvg-logo="https://sppotato.github.io/icon/eyetv.png" group-title="港澳台高清",EYE旅游 HD
-http://live.zbjh.cc/live/ws139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="爱尔达影剧" tvg-logo="https://sppotato.github.io/icon/aedyj.png" group-title="港澳台高清",爱尔达影剧 HD
-http://live.zbjh.cc/live/ws140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="美食星球台湾" tvg-logo="https://sppotato.github.io/icon/msxq.png" group-title="港澳台高清",美食星球 HD
-http://live.zbjh.cc/live/ws141.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="國家地理悠人" tvg-logo="https://sppotato.github.io/icon/ngopeople.png" group-title="港澳台高清",国家地理悠人 HD
-http://live.zbjh.cc/live/ws143.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="国家地理野生" tvg-logo="https://sppotato.github.io/icon/ngowild.png" group-title="港澳台高清",国家地理野生 HD
-http://live.zbjh.cc/live/ws145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="卫视电影香港" tvg-logo="https://sppotato.github.io/icon/weishidianying.png" group-title="港澳台高清",卫视电影台 HD
+http://182.61.4.27:85/dl/ttpm.php?id=WSDYHD
 
 
 
@@ -1028,6 +976,8 @@ http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK世界新闻" tvg-logo="https://sppotato.github.io/icon/nhk.png" group-title="日韩亚洲",NHK环球国际 HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="八度空间" tvg-logo="https://sppotato.github.io/icon/ctv8.png" group-title="日韩亚洲",CTV8八度空间 HD
+http://220.158.149.28:8180/TV00000000000000000037@HHZT;LIVE
 
 
 
@@ -1036,25 +986,25 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18626
 #EXTINF:-1 tvg-id="" tvg-name="astro双星" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro双星 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18624
-#EXTINF:-1 tvg-id="" tvg-name="astro Ria" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来娱乐 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro Ria" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro娱乐 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18625
-#EXTINF:-1 tvg-id="" tvg-name="astro ARENA" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来体育 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro ARENA" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro体育 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18632
-#EXTINF:-1 tvg-id="" tvg-name="astro Ceria" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来少儿 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro Ceria" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro少儿 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18630
-#EXTINF:-1 tvg-id="" tvg-name="astro CRICKET" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来板球 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro CRICKET" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro板球 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18629
-#EXTINF:-1 tvg-id="" tvg-name="astro RugbyPass" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来橄榄球 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro RugbyPass" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro橄榄球 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18593
-#EXTINF:-1 tvg-id="" tvg-name="astro OASIS" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来伊斯兰2台 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro OASIS" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro伊斯兰2台 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18628
-#EXTINF:-1 tvg-id="" tvg-name="astro NAURA" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来伊斯兰1台 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro NAURA" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro伊斯兰1台 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/29535
-#EXTINF:-1 tvg-id="" tvg-name="astro PRIMA" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来综合 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro PRIMA" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro综合 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18627
-#EXTINF:-1 tvg-id="" tvg-name="astro VINMEEN" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来泰米尔语 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro VINMEEN" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro泰米尔语 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18617
-#EXTINF:-1 tvg-id="" tvg-name="astro WARNA" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro马来综艺 HD
+#EXTINF:-1 tvg-id="" tvg-name="astro WARNA" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro综艺 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18616
 #EXTINF:-1 tvg-id="" tvg-name="astro BOLLYONE" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",astro宝莱坞 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18606
@@ -1080,7 +1030,7 @@ http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18637
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18633
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",曼联足球 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18572
-#EXTINF:-1 tvg-id="" tvg-name="PARAMAUNT" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",派拉蒙电视网 HD
+#EXTINF:-1 tvg-id="" tvg-name="PARAMAUNT" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",派拉蒙 HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18563
 #EXTINF:-1 tvg-id="" tvg-name="COLORS" tvg-logo="https://sppotato.github.io/icon/" group-title="新马高清",COLORS HD
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18615
