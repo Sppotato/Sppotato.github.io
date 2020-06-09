@@ -157,7 +157,7 @@ http://zzq12345.gearhostpreview.com/11/ifeng.php?id=hkhd
 
 
 #EXTINF:-1,---------------GuangDong IPTV---------------
-#EXTINF:-1 tvg-id="" tvg-name="广东综艺4K" tvg-logo="https://sppotato.github.io/icon/gdzy.png" group-title="广东IPTV",广东综艺4K
+#EXTINF:-1 tvg-id="" tvg-name="广东综艺4K" tvg-logo="https://sppotato.github.io/icon/gdzy.png" group-title="广东IPTV",广东综艺4K(本组失效)
 http://113.71.138.143:9981/stream/channelid/597081719
 #EXTINF:-1 tvg-id="" tvg-name="爱上4K" tvg-logo="https://sppotato.github.io/icon/love4k.png" group-title="广东IPTV",爱上4K
 http://113.71.138.143:9981/stream/channelid/537705178
@@ -427,7 +427,9 @@ http://39.135.140.14:6610/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1,---------------ChineseTV HD---------------
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://sppotato.github.io/icon/gdty.png" group-title="地方高清",广东-广东体育 HD
-http://116.26.10.134:9981/stream/channelid/1450340514#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+http://ak.ak5tv.com/api/gdyx.php?id=gdsportsHD_7000#http://116.26.10.134:9981/stream/channelid/1450340514
+#EXTINF:-1 tvg-id="" tvg-name="广东经视" tvg-logo="https://sppotato.github.io/icon/gdjs.png" group-title="地方高清",广东-经济科教 HD
+http://ak.ak5tv.com/api/gdyx.php?id=GDjingjikejiaoHD_7000
 #EXTINF:-1 tvg-id="" tvg-name="珠江卫视" tvg-logo="https://sppotato.github.io/icon/gdzj.png" group-title="地方高清",广东-珠江台 HD
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="https://sppotato.github.io/icon/gzzh.png" group-title="地方高清",广东-广州综合 HD
@@ -437,11 +439,11 @@ http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=9&FvSeid=1&Fsv_ctype=LI
 #EXTINF:-1 tvg-id="" tvg-name="广州影视" tvg-logo="https://sppotato.github.io/icon/gzys.png" group-title="地方高清",广东-广州影视 HD
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=11&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合" tvg-logo="https://sppotato.github.io/icon/shantou1.png" group-title="地方高清",广东-汕头新闻综合 HD
-http://116.26.10.134:9981/stream/channelid/1894904764
+http://116.26.10.134:9981/stream/channelid/1894904764#http://ak.ak5tv.com/api/gdyx.php?id=shantouyitaogaoqing_4500
 #EXTINF:-1 tvg-id="" tvg-name="汕头公共" tvg-logo="https://sppotato.github.io/icon/shantou2.png" group-title="地方高清",广东-汕头公共 HD
-http://116.26.10.134:9981/stream/channelid/384025889
+http://116.26.10.134:9981/stream/channelid/384025889#http://ak.ak5tv.com/api/gdyx.php?id=shantousantaogaoqing_4500
 #EXTINF:-1 tvg-id="" tvg-name="汕头经济生活" tvg-logo="https://sppotato.github.io/icon/shantou3.png" group-title="地方高清",广东-汕头经济生活 HD
-http://116.26.10.134:9981/stream/channelid/99452785
+http://116.26.10.134:9981/stream/channelid/99452785#http://ak.ak5tv.com/api/gdyx.php?id=shantouertaogaoqing_4500
 #EXTINF:-1 tvg-id="" tvg-name="番禺综合" tvg-logo="https://sppotato.github.io/icon/panyu.png" group-title="地方高清",广东-番禺综合 HD
 http://live.pybtv.cn/channel1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江西新闻" tvg-logo="https://sppotato.github.io/icon/jxtv7.png" group-title="地方高清",江西-江西新闻 HD
@@ -884,70 +886,90 @@ http://120.221.5.113:8089/PLTV/88888888/224/3221226071/index.m3u8
 
 
 #EXTINF:-1,---------------HongKong Taiwan HD---------------
-#EXTINF:-1 tvg-id="" tvg-name="香港有线新聞台" tvg-logo="https://sppotato.github.io/icon/yxxw.png" group-title="港澳台高清",有线新闻 HD
-http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="香港有线娱乐台" tvg-logo="https://sppotato.github.io/icon/yxyl.png" group-title="港澳台高清",有线综合娱乐 HD
+#EXTINF:-1 tvg-id="" tvg-name="香港有线新聞台" tvg-logo="https://sppotato.github.io/icon/yxxw.png" group-title="港澳台高清",有線新聞台 HD
+http://video.0058.com/RoomVideoChat/652ab4b2e21eabaf3a295233377cc249/playlist.m3u8#http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="香港有线娱乐台" tvg-logo="https://sppotato.github.io/icon/yxyl.png" group-title="港澳台高清",有線娛樂台 HD
 https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="香港有线财经台" tvg-logo="https://sppotato.github.io/icon/yxcj.png" group-title="港澳台高清",有线财经资讯 HD
-https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8#http://teslagram.com/live/channel_108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="香港有线财经台" tvg-logo="https://sppotato.github.io/icon/yxcj.png" group-title="港澳台高清",有線財經資訊台 HD
+https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="港台電視31" tvg-logo="https://sppotato.github.io/icon/rthk31.png" group-title="港澳台高清",港台電視31 HD
+http://138.19.127.53:9981/stream/channelid/2138944992
+#EXTINF:-1 tvg-id="" tvg-name="港台電視32" tvg-logo="https://sppotato.github.io/icon/rthk32.png" group-title="港澳台高清",港台電視32 HD
+http://138.19.127.53:9981/stream/channelid/1388277155
+#EXTINF:-1 tvg-id="" tvg-name="港台電視33" tvg-logo="https://sppotato.github.io/icon/rthk33.png" group-title="港澳台高清",港台電視33 HD
+http://138.19.127.53:9981/stream/channelid/1186597092
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="https://sppotato.github.io/icon/feicui.png" group-title="港澳台高清",翡翠台 HD
 http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 tvg-id="" tvg-name="ViuTVsix" tvg-logo="https://sppotato.github.io/icon/viutv6.png" group-title="港澳台高清",ViuTV6 HD
 http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="https://sppotato.github.io/icon/viutv.png" group-title="港澳台高清",ViuTV HD
 http://61.238.6.49:8000/bysid/99
-#EXTINF:-1 tvg-id="" tvg-name="TVB新闻" tvg-logo="https://sppotato.github.io/icon/wuxianxinwen.png" group-title="港澳台高清",无线新闻台 HD
-http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-#EXTINF:-1 tvg-id="" tvg-name="TVB-J5" tvg-logo="https://sppotato.github.io/icon/wuxiancaijing.png" group-title="港澳台高清",无线财经资讯台 HD
-http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
-#EXTINF:-1 tvg-id="" tvg-name="星河频道" tvg-logo="https://sppotato.github.io/icon/tvbxinghe.png" group-title="港澳台高清",TVB星河 HD
-http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="香港亚视" tvg-logo="https://sppotato.github.io/icon/hkys.png" group-title="港澳台高清",香港亚视 HD
-https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="香港开电视" tvg-logo="https://sppotato.github.io/icon/kaidianshi.png" group-title="港澳台高清",香港开电视 HD
+#EXTINF:-1 tvg-id="" tvg-name="香港开电视" tvg-logo="https://sppotato.github.io/icon/kaidianshi.png" group-title="港澳台高清",香港開電視 HD
 http://138.19.127.53:9981/stream/channelid/1390210852#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="香港国际财经台" tvg-logo="https://sppotato.github.io/icon/hkibc.png" group-title="港澳台高清",香港国际财经台 HD
+#EXTINF:-1 tvg-id="" tvg-name="香港国际财经台" tvg-logo="https://sppotato.github.io/icon/hkibc.png" group-title="港澳台高清",香港國際財經台 HD
 http://138.19.127.53:9981/stream/channelid/1101681951
-#EXTINF:-1 tvg-id="" tvg-name="亚旅卫视" tvg-logo="https://sppotato.github.io/icon/yltv.png" group-title="港澳台高清",亚旅卫视 HD
+#EXTINF:-1 tvg-id="" tvg-name="TVB新闻" tvg-logo="https://sppotato.github.io/icon/wuxianxinwen.png" group-title="港澳台高清",無線新聞台 HD
+http://138.19.127.53:9981/stream/channelid/482660476#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+#EXTINF:-1 tvg-id="" tvg-name="TVB-J5" tvg-logo="https://sppotato.github.io/icon/wuxiancaijing.png" group-title="港澳台高清",無線財經資訊台 HD
+http://138.19.127.53:9981/stream/channelid/2076112745#http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
+#EXTINF:-1 tvg-id="" tvg-name="TVB-J2" tvg-logo="https://sppotato.github.io/icon/tvbj2.png" group-title="港澳台高清",J2台 HD
+http://138.19.127.53:9981/stream/channelid/2011192701
+#EXTINF:-1 tvg-id="" tvg-name="TVB明珠" tvg-logo="https://sppotato.github.io/icon/mingzhu.png" group-title="港澳台高清",明珠台 HD
+http://138.19.127.53:9981/stream/channelid/521374115
+#EXTINF:-1 tvg-id="" tvg-name="星河频道" tvg-logo="https://sppotato.github.io/icon/tvbxinghe.png" group-title="港澳台高清",TVB星河頻道 HD
+http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="香港亚视" tvg-logo="https://sppotato.github.io/icon/hkys.png" group-title="港澳台高清",香港亞視 HD
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="亚旅卫视" tvg-logo="https://sppotato.github.io/icon/yltv.png" group-title="港澳台高清",亞旅衛視 HD
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港C+" tvg-logo="https://sppotato.github.io/icon/hkc+.png" group-title="港澳台高清",香港C+频道 HD
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="now新闻台" tvg-logo="https://sppotato.github.io/icon/nownew.png" group-title="港澳台高清",NOW新闻 HD
-http://video.0058.com:80/RoomVideoChat/d64bbb8a1fadf16bf6c870d3915ea917/playlist.m3u8?wsSession=5805b1bd0079afb82e0cfb11-159110021241110&wsIPSercert=4ca498a03a07ea684f413c4d8a0c7c6c&wsMonitor=0
-#EXTINF:-1 tvg-id="" tvg-name="澳门澳视" tvg-logo="https://sppotato.github.io/icon/aomen1.png" group-title="港澳台高清",澳视澳门 HD
-http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳视葡文" tvg-logo="https://sppotato.github.io/icon/aomen2.png" group-title="港澳台高清",澳视葡文 HD
-http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳视MACAU" tvg-logo="https://sppotato.github.io/icon/aomen1.png" group-title="港澳台高清",澳视MACAU HD
-http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门资讯" tvg-logo="https://sppotato.github.io/icon/aomen5.png" group-title="港澳台高清",澳门资讯 HD
-http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门综艺" tvg-logo="https://sppotato.github.io/icon/aomen6.png" group-title="港澳台高清",澳门综艺 HD
-http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="台視新闻" tvg-logo="https://sppotato.github.io/icon/taishinew.png" group-title="港澳台高清",台视新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="now新闻台" tvg-logo="https://sppotato.github.io/icon/nownew.png" group-title="港澳台高清",NOW新聞台 HD
+http://video.0058.com/RoomVideoChat/075d2089afcf9fb49456e71f9fb3ddf5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳门澳视" tvg-logo="https://sppotato.github.io/icon/aomen1.png" group-title="港澳台高清",澳視澳門 HD
+http://103.233.191.132:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳视葡文" tvg-logo="https://sppotato.github.io/icon/aomen2.png" group-title="港澳台高清",澳視葡文 HD
+http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳视MACAU" tvg-logo="https://sppotato.github.io/icon/aomen1.png" group-title="港澳台高清",澳視MACAU HD
+http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳门体育" tvg-logo="https://sppotato.github.io/icon/" group-title="港澳台高清",澳門體育 HD
+http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳门资讯" tvg-logo="https://sppotato.github.io/icon/aomen5.png" group-title="港澳台高清",澳門資訊 HD
+http://103.233.191.132:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳门综艺" tvg-logo="https://sppotato.github.io/icon/aomen6.png" group-title="港澳台高清",澳門綜藝 HD
+http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="台視新闻" tvg-logo="https://sppotato.github.io/icon/taishinew.png" group-title="港澳台高清",台視新聞 HD
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tvbs新闻" tvg-logo="https://sppotato.github.io/icon/tvbsnew.png" group-title="港澳台高清",TVBS新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="tvbs新闻" tvg-logo="https://sppotato.github.io/icon/tvbsnew.png" group-title="港澳台高清",TVBS新聞 HD
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="東森新聞" tvg-logo="https://sppotato.github.io/icon/dongsengnew.png" group-title="港澳台高清",东森新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="東森新聞" tvg-logo="https://sppotato.github.io/icon/dongsengnew.png" group-title="港澳台高清",東森新聞 HD
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="東森財經新聞" tvg-logo="https://sppotato.github.io/icon/dongsengnew2.png" group-title="港澳台高清",东森财经新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="東森財經新聞" tvg-logo="https://sppotato.github.io/icon/dongsengnew2.png" group-title="港澳台高清",東森財經新聞 HD
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="華視新聞資訊" tvg-logo="https://sppotato.github.io/icon/huashinew.png" group-title="港澳台高清",华视新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="華視新聞資訊" tvg-logo="https://sppotato.github.io/icon/huashinew.png" group-title="港澳台高清",華視新聞 HD
 http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://sppotato.github.io/icon/minshi4.png" group-title="港澳台高清",民视新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://sppotato.github.io/icon/minshi4.png" group-title="港澳台高清",民視新聞 HD
 http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="中視新聞" tvg-logo="https://sppotato.github.io/icon/zhongshinew.png" group-title="港澳台高清",中视新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="中視新聞" tvg-logo="https://sppotato.github.io/icon/zhongshinew.png" group-title="港澳台高清",中視新聞 HD
 http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="中天新聞" tvg-logo="https://sppotato.github.io/icon/zhongtiannew.png" group-title="港澳台高清",中天新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="中天新聞" tvg-logo="https://sppotato.github.io/icon/zhongtiannew.png" group-title="港澳台高清",中天新聞 HD
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="三立财经" tvg-logo="https://sppotato.github.io/icon/sanliinew.png" group-title="港澳台高清",三立iNEWS HD
 http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="三立新闻" tvg-logo="https://sppotato.github.io/icon/sanlinew.png" group-title="港澳台高清",三立LIVE新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="三立新闻" tvg-logo="https://sppotato.github.io/icon/sanlinew.png" group-title="港澳台高清",三立LIVE新聞 HD
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="卫视电影香港" tvg-logo="https://sppotato.github.io/icon/weishidianying.png" group-title="港澳台高清",卫视电影台 HD
-http://182.61.4.27:85/dl/ttpm.php?id=WSDYHD
-
-
+#EXTINF:-1 tvg-id="" tvg-name="大愛電視台" tvg-logo="https://sppotato.github.io/icon/daai1.png" group-title="港澳台高清",大愛海外 HD
+https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="大爱2台" tvg-logo="https://sppotato.github.io/icon/daai2.png" group-title="港澳台高清",大愛2台 HD
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports1" tvg-logo="https://sppotato.github.io/icon/bein1.png" group-title="港澳台高清",beIN体育1台 HD
+rtmp://xiaoyu.speedws.com/sat/hk011
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports2" tvg-logo="https://sppotato.github.io/icon/bein2.png" group-title="港澳台高清",beIN体育2台 HD
+rtmp://xiaoyu.speedws.com/sat/hk021
+#EXTINF:-1 tvg-id="" tvg-name="有线18台" tvg-logo="https://sppotato.github.io/icon/hk18.png" group-title="港澳台高清",有線18台 HD
+rtmp://xiaoyu.speedws.com/sat/hk041
+#EXTINF:-1 tvg-id="" tvg-name="台視频道" tvg-logo="https://sppotato.github.io/icon/taishi.png" group-title="港澳台高清",台視 HD
+rtmp://xiaoyu.speedws.com/sat/tv071
 
 
 
@@ -976,6 +998,8 @@ http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK世界新闻" tvg-logo="https://sppotato.github.io/icon/nhk.png" group-title="日韩亚洲",NHK环球国际 HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK世界新闻" tvg-logo="https://sppotato.github.io/icon/nhk.png" group-title="日韩亚洲",NHK环球国际(中文) HD
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="八度空间" tvg-logo="https://sppotato.github.io/icon/ctv8.png" group-title="日韩亚洲",CTV8八度空间 HD
 http://220.158.149.28:8180/TV00000000000000000037@HHZT;LIVE
 
