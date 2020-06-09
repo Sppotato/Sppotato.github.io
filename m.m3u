@@ -899,11 +899,11 @@ http://138.19.127.53:9981/stream/channelid/1388277155
 #EXTINF:-1 tvg-id="" tvg-name="港台電視33" tvg-logo="https://sppotato.github.io/icon/rthk33.png" group-title="港澳台高清",港台電視33 HD
 http://138.19.127.53:9981/stream/channelid/1186597092
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="https://sppotato.github.io/icon/feicui.png" group-title="港澳台高清",翡翠台 HD
-http://61.238.6.49:8000/bysid/1
+http://138.19.127.53:9981/stream/channelid/1607992587#http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 tvg-id="" tvg-name="ViuTVsix" tvg-logo="https://sppotato.github.io/icon/viutv6.png" group-title="港澳台高清",ViuTV6 HD
-http://61.238.6.49:8000/bysid/96
+http://138.19.127.53:9981/stream/channelid/1803489729#http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="https://sppotato.github.io/icon/viutv.png" group-title="港澳台高清",ViuTV HD
-http://61.238.6.49:8000/bysid/99
+http://138.19.127.53:9981/stream/channelid/573915171#http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 tvg-id="" tvg-name="香港开电视" tvg-logo="https://sppotato.github.io/icon/kaidianshi.png" group-title="港澳台高清",香港開電視 HD
 http://138.19.127.53:9981/stream/channelid/1390210852#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港国际财经台" tvg-logo="https://sppotato.github.io/icon/hkibc.png" group-title="港澳台高清",香港國際財經台 HD
@@ -990,9 +990,10 @@ http://lss.line-scdn.net/cc_tw/p/live/hMtq3_co4E1odJw1KJDIObXcfHGNkewYLcnxbbWlKT
 http://lss.line-scdn.net/cc_tw/p/live/hLujcH_D4ElsFdwxLP2IPbGxORD59KQFYPyxaPyAaTT4qelAKOyxYa3AYHml6LFMFO3xUbiASRG19b1Vea3tbNHRNU2p7NVQPYmNcPnoFTmt5IVQNanVc/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="東森新聞" tvg-logo="https://sppotato.github.io/icon/dongsengnew.png" group-title="港澳台高清",東森新聞 HD
 http://lss.line-scdn.net/cc_tw/p/live/hfPI16coMOH4kJSZuHDAlSU9LYE9ccH4qH35wEVFIZxsJKCwgTil-GAMYM05eeXl-Si5-SwNIYE1cPX97SCh2GQEbeU9YZ34qQTF2G1lXZURZeX8gSA/720/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="亚洲旅游-HD" tvg-logo="https://sppotato.github.io/icon/" group-title="港澳台高清",亞洲旅遊 HD
+#EXTINF:-1 tvg-id="" tvg-name="亚洲旅游-HD" tvg-logo="https://sppotato.github.io/icon/yzly.png" group-title="港澳台高清",亞洲旅遊 HD
 http://185.93.2.35:12012/live/359111068247FFA1/0yIFu_zXBzeEhA5SSBAHA6RqeDFhKpcltULrP_vUBelCbLbC3gBlBEjUxsb_iVIn/FBC9302A353D4673/448135.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="美亚电影台湾" tvg-logo="https://sppotato.github.io/icon/meiya.png" group-title="港澳台高清",美亚电影 HD
+http://185.93.2.35:12012/live/359111068247FFA1/OSj3tS0tajUnZzTXBDU1gVO8DxHizDKom4bWRbsXw_t3zNzRSncfy5-Pu6p80ebT/070B7F8CEDD24288/504905.ts
 
 
 
