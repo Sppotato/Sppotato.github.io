@@ -976,13 +976,13 @@ rtmp://xiaoyu.speedws.com/sat/tv771
 rtmp://xiaoyu.speedws.com/sat/tv721
 #EXTINF:-1 tvg-id="" tvg-name="緯來育樂" tvg-logo="https://sppotato.github.io/icon/wlyl.png" group-title="港澳台高清",緯來育樂 HD
 rtmp://xiaoyu.speedws.com/sat/tv701
-#EXTINF:-1 tvg-id="" tvg-name="MOMO综合" tvg-logo="https://sppotato.github.io/icon/" group-title="港澳台高清",Momo綜合台 HD
+#EXTINF:-1 tvg-id="" tvg-name="MOMO综合" tvg-logo="https://sppotato.github.io/icon/momo.png" group-title="港澳台高清",Momo綜合台 HD
 rtmp://xiaoyu.speedws.com/sat/tv761
-#EXTINF:-1 tvg-id="" tvg-name="fox体育1" tvg-logo="https://sppotato.github.io/icon/" group-title="港澳台高清",Fox體育1台 HD
+#EXTINF:-1 tvg-id="" tvg-name="fox体育1" tvg-logo="https://sppotato.github.io/icon/foxsport1.png" group-title="港澳台高清",Fox體育1台 HD
 rtmp://xiaoyu.speedws.com/sat/tv731
-#EXTINF:-1 tvg-id="" tvg-name="fox体育2" tvg-logo="https://sppotato.github.io/icon/" group-title="港澳台高清",Fox體育2台 HD
+#EXTINF:-1 tvg-id="" tvg-name="fox体育2" tvg-logo="https://sppotato.github.io/icon/foxsport2.png" group-title="港澳台高清",Fox體育2台 HD
 rtmp://xiaoyu.speedws.com/sat/tv741
-#EXTINF:-1 tvg-id="" tvg-name="爱尔达体育1" tvg-logo="https://sppotato.github.io/icon/" group-title="港澳台高清",ELTA體育1台 HD
+#EXTINF:-1 tvg-id="" tvg-name="爱尔达体育1" tvg-logo="https://sppotato.github.io/icon/elta1.png" group-title="港澳台高清",ELTA體育1台 HD
 rtmp://xiaoyu.speedws.com/sat/md041
 #EXTINF:-1 tvg-id="" tvg-name="tvbs新闻" tvg-logo="https://sppotato.github.io/icon/tvbsnew.png" group-title="港澳台高清",TVBS新聞 HD
 http://lss.line-scdn.net/cc_tw/p/live/hMtq3_co4E1odJw1KJDIObXcfHGNkewYLcnxbbWlKTD8xcgENJXtZPDlCGztmcwZYcSxVb2FKTmhjP1RfcCpeaDpJUmtgZVUOeTNdP2FVS21qelQMeSw/720/chunklist.m3u8
@@ -990,7 +990,8 @@ http://lss.line-scdn.net/cc_tw/p/live/hMtq3_co4E1odJw1KJDIObXcfHGNkewYLcnxbbWlKT
 http://lss.line-scdn.net/cc_tw/p/live/hLujcH_D4ElsFdwxLP2IPbGxORD59KQFYPyxaPyAaTT4qelAKOyxYa3AYHml6LFMFO3xUbiASRG19b1Vea3tbNHRNU2p7NVQPYmNcPnoFTmt5IVQNanVc/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="東森新聞" tvg-logo="https://sppotato.github.io/icon/dongsengnew.png" group-title="港澳台高清",東森新聞 HD
 http://lss.line-scdn.net/cc_tw/p/live/hfPI16coMOH4kJSZuHDAlSU9LYE9ccH4qH35wEVFIZxsJKCwgTil-GAMYM05eeXl-Si5-SwNIYE1cPX97SCh2GQEbeU9YZ34qQTF2G1lXZURZeX8gSA/720/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="亚洲旅游-HD" tvg-logo="https://sppotato.github.io/icon/" group-title="港澳台高清",亞洲旅遊 HD
+http://185.93.2.35:12012/live/359111068247FFA1/0yIFu_zXBzeEhA5SSBAHA6RqeDFhKpcltULrP_vUBelCbLbC3gBlBEjUxsb_iVIn/FBC9302A353D4673/448135.ts
 
 
 
