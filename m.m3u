@@ -155,13 +155,7 @@ http://zzq12345.gearhostpreview.com/11/ifeng.php?id=hkhd
 
 
 
-<<<<<<< HEAD
-=======
 
-
-
-
->>>>>>> c6006b5a5ea539b1cee66d72e42a4d5a79e52e58
 #EXTINF:-1,---------------ChinaTV SD---------------
 #EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="https://sppotato.github.io/icon/ybtv.png" group-title="卫视标清",延边卫视
 http://live.ybtvyun.com/video/s10016-bd6e048a741f/index.m3u8
@@ -241,6 +235,10 @@ http://39.135.140.14:6610/PLTV/88888888/224/3221225579/2/index.m3u8?fmt=ts2hls
 http://39.135.140.14:6610/PLTV/88888888/224/3221225578/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="江西少儿" tvg-logo="https://sppotato.github.io/icon/jxse.png" group-title="卫视标清",江西少儿
 http://39.135.140.14:6610/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls
+
+
+
+
 
 
 
@@ -549,6 +547,14 @@ http://live.hcs.cmvideo.cn/wd_r3/virtuallive/5101074616/150/index.m3u8?&encrypt=
 http://live.hcs.cmvideo.cn/wd_r2/virtuallive/5101098146/150/index.m3u8?&encrypt=
 
 
+
+
+
+
+
+
+
+
 #EXTINF:-1,---------------DigitalTV HD---------------
 #EXTINF:-1 tvg-id="" tvg-name="新视觉" tvg-logo="https://sppotato.github.io/icon/xsj.png" group-title="数字高清",新视觉 HD
 http://183.207.255.190/live/program/live/xsjhd/4000000/mnf.m3u8
@@ -704,6 +710,14 @@ http://120.221.5.165:8089/PLTV/88888888/224/3221225629/index.m3u8
 http://120.221.5.113:8089/PLTV/88888888/224/3221226071/index.m3u8
 
 
+
+
+
+
+
+
+
+
 #EXTINF:-1,---------------HongKong Taiwan HD---------------
 #EXTINF:-1 tvg-id="" tvg-name="香港有线新聞台" tvg-logo="https://sppotato.github.io/icon/yxxw.png" group-title="港澳台高清",有線新聞台 HD
 http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
@@ -816,6 +830,15 @@ http://185.93.2.35:12012/live/359111068247FFA1/OSj3tS0tajUnZzTXBDU1gVO8DxHizDKom
 
 
 
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,---------------AsianTV HD---------------
 #EXTINF:-1 tvg-id="" tvg-name="KBS1" tvg-logo="https://sppotato.github.io/icon/kbs1.png" group-title="日韩亚洲",KBS一台 HD
 http://119.207.55.114:9981/stream/channelid/1221325843
@@ -843,6 +866,10 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="八度空间" tvg-logo="https://sppotato.github.io/icon/ctv8.png" group-title="日韩亚洲",CTV8八度空间 HD
 http://220.158.149.28:8180/TV00000000000000000037@HHZT;LIVE
+
+
+
+
 
 
 
