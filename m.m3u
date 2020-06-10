@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" group-title="4K专区",CCTV-4K超高清
-http://111.161.121.212/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8#http://111.161.121.214/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
+http://111.161.121.212/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" group-title="4K专区",CCTV-4K超高清(备用)
-http://116.26.10.134:9981/stream/channelid/2047707814
+http://175.162.73.179:9001/stream/channelid/420984274
 #EXTINF:-1 tvg-id="" tvg-name="广东综艺4K" tvg-logo="https://sppotato.github.io/icon/gdzy.png" group-title="4K专区",广东综艺4K
 http://116.26.10.134:9981/stream/channelid/683467656
 #EXTINF:-1 tvg-id="" tvg-name="百视通4K" tvg-logo="https://sppotato.github.io/icon/bestv4k.png" group-title="4K专区",百视通4K
@@ -118,6 +118,8 @@ http://39.130.206.213:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
 http://117.156.28.88/270000001111/1110000072/index.m3u8?i
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="https://sppotato.github.io/icon/xmtv.png" group-title="卫视高清",厦门卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="海峡卫视" tvg-logo="https://sppotato.github.io/icon/hxtv.png" group-title="卫视高清",海峡卫视 HD
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="旅游卫视" tvg-logo="https://sppotato.github.io/icon/lytv.png" group-title="卫视高清",海南卫视 HD
 http://39.135.34.134:8080/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=00000250001B50800001B401420BC069
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://sppotato.github.io/icon/qhtv.png" group-title="卫视高清",青海卫视 HD
@@ -153,6 +155,13 @@ http://zzq12345.gearhostpreview.com/11/ifeng.php?id=hkhd
 
 
 
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> c6006b5a5ea539b1cee66d72e42a4d5a79e52e58
 #EXTINF:-1,---------------ChinaTV SD---------------
 #EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="https://sppotato.github.io/icon/ybtv.png" group-title="卫视标清",延边卫视
 http://live.ybtvyun.com/video/s10016-bd6e048a741f/index.m3u8
@@ -697,7 +706,7 @@ http://120.221.5.113:8089/PLTV/88888888/224/3221226071/index.m3u8
 
 #EXTINF:-1,---------------HongKong Taiwan HD---------------
 #EXTINF:-1 tvg-id="" tvg-name="香港有线新聞台" tvg-logo="https://sppotato.github.io/icon/yxxw.png" group-title="港澳台高清",有線新聞台 HD
-http://video.0058.com/RoomVideoChat/652ab4b2e21eabaf3a295233377cc249/playlist.m3u8#http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港有线娱乐台" tvg-logo="https://sppotato.github.io/icon/yxyl.png" group-title="港澳台高清",有線娛樂台 HD
 https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港有线财经台" tvg-logo="https://sppotato.github.io/icon/yxcj.png" group-title="港澳台高清",有線財經資訊台 HD
