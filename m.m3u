@@ -39,7 +39,7 @@ http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5+(体育)" tvg-logo="https://sppotato.github.io/icon/cctv5p.png" group-title="卫视高清",CCTV-5+体育赛事 HD
 http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-6(电影)" tvg-logo="https://sppotato.github.io/icon/cctv6.png" group-title="卫视高清",CCTV-6电影 HD
-http://39.135.140.14:6610/PLTV/88888888/224/3221225632/2/index.m3u8?fmt=ts2hls
+http://39.135.140.14:6610/PLTV/88888888/224/3221225843/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-7(国防军事)" tvg-logo="https://sppotato.github.io/icon/cctv7.png" group-title="卫视高清",CCTV-7军事 HD
 http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-8(电视剧)" tvg-logo="https://sppotato.github.io/icon/cctv8.png" group-title="卫视高清",CCTV-8电视剧 HD
@@ -53,7 +53,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-12(科教)" tvg-logo="https://sppotato.github.io/icon/cctv12.png" group-title="卫视高清",CCTV-12社会与法 HD
 http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-13(新闻)" tvg-logo="https://sppotato.github.io/icon/cctv13.png" group-title="卫视高清",CCTV-13新闻 HD
-http://183.232.184.143/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
+http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-14(少儿)" tvg-logo="https://sppotato.github.io/icon/cctv14.png" group-title="卫视高清",CCTV-14少儿 HD
 http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-15(音乐)" tvg-logo="https://sppotato.github.io/icon/cctv15.png" group-title="卫视高清",CCTV-15音乐 HD
@@ -61,7 +61,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-17(农业)" tvg-logo="https://sppotato.github.io/icon/cctv17.png" group-title="卫视高清",CCTV-17农村农业 HD
 http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://sppotato.github.io/icon/cctv4k.png" group-title="卫视高清",CCTV-4K HD
-http://183.232.184.143/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
+http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://sppotato.github.io/icon/cgtn.png" group-title="卫视高清",CGTN-环球国际 HD
 http://39.130.206.213:6410/gitv_live/G_CGTN-HD/G_CGTN-HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-9(国际)" tvg-logo="https://sppotato.github.io/icon/cgtnd.png" group-title="卫视高清",CGTN-纪录 HD
@@ -118,14 +118,14 @@ http://39.130.206.213:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
 http://117.156.28.88/270000001111/1110000072/index.m3u8?i
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="https://sppotato.github.io/icon/xmtv.png" group-title="卫视高清",厦门卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="海峡卫视" tvg-logo="https://sppotato.github.io/icon/hxtv.png" group-title="卫视高清",海峡卫视 HD
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="旅游卫视" tvg-logo="https://sppotato.github.io/icon/lytv.png" group-title="卫视高清",海南卫视 HD
 http://39.135.34.134:8080/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=00000250001B50800001B401420BC069
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://sppotato.github.io/icon/qhtv.png" group-title="卫视高清",青海卫视 HD
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="https://sppotato.github.io/icon/xjtv.png" group-title="卫视高清",新疆卫视 HD
 http://tv.boye.ml/iptv/xjtv.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="https://sppotato.github.io/icon/sxws.png" group-title="卫视高清",山西卫视 HD
+http://218.26.208.218:9981/stream/channelid/3464833#http://112.50.243.8/PLTV/88888888/224/3221225839/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="炫动卡通" tvg-logo="https://sppotato.github.io/icon/xdkt.png" group-title="卫视高清",哈哈炫动卫视 HD
 http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="https://sppotato.github.io/icon/jyjs.png" group-title="卫视高清",金鹰纪实 HD
@@ -156,9 +156,6 @@ http://zzq12345.gearhostpreview.com/11/ifeng.php?id=hkhd
 
 
 
-
-
-
 #EXTINF:-1,---------------ChinaTV SD---------------
 #EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="https://sppotato.github.io/icon/ybtv.png" group-title="卫视标清",延边卫视
 http://live.ybtvyun.com/video/s10016-bd6e048a741f/index.m3u8
@@ -170,8 +167,6 @@ http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=19&FvSeid=1&Fsv_ctype=L
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=39&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://sppotato.github.io/icon/nmgtv.png" group-title="卫视标清",内蒙古卫视
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel93/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="https://sppotato.github.io/icon/sxws.png" group-title="卫视标清",山西卫视
-http://112.50.243.8/PLTV/88888888/224/3221225839/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://sppotato.github.io/icon/sxtv.png" group-title="卫视标清",陕西卫视
 http://112.50.243.8/PLTV/88888888/224/3221225850/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://sppotato.github.io/icon/qhtv.png" group-title="卫视标清",青海卫视
@@ -241,9 +236,13 @@ http://39.135.140.14:6610/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls
 
 
 
+
+
+
+
 #EXTINF:-1,---------------ChineseTV HD---------------
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://sppotato.github.io/icon/gdty.png" group-title="地方高清",广东-广东体育 HD
-http://ak.ak5tv.com/api/gdyx.php?id=gdsportsHD_7000#http://116.26.10.134:9981/stream/channelid/1450340514
+http://ak.ak5tv.com/api/gdyx.php?id=gdsportsHD_7000
 #EXTINF:-1 tvg-id="" tvg-name="广东经视" tvg-logo="https://sppotato.github.io/icon/gdjs.png" group-title="地方高清",广东-经济科教 HD
 http://ak.ak5tv.com/api/gdyx.php?id=GDjingjikejiaoHD_7000
 #EXTINF:-1 tvg-id="" tvg-name="珠江卫视" tvg-logo="https://sppotato.github.io/icon/gdzj.png" group-title="地方高清",广东-珠江台 HD
@@ -255,11 +254,11 @@ http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=9&FvSeid=1&Fsv_ctype=LI
 #EXTINF:-1 tvg-id="" tvg-name="广州影视" tvg-logo="https://sppotato.github.io/icon/gzys.png" group-title="地方高清",广东-广州影视 HD
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=11&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合" tvg-logo="https://sppotato.github.io/icon/shantou1.png" group-title="地方高清",广东-汕头新闻综合 HD
-http://116.26.10.134:9981/stream/channelid/1894904764#http://ak.ak5tv.com/api/gdyx.php?id=shantouyitaogaoqing_4500
+http://ak.ak5tv.com/api/gdyx.php?id=shantouyitaogaoqing_4500
 #EXTINF:-1 tvg-id="" tvg-name="汕头公共" tvg-logo="https://sppotato.github.io/icon/shantou2.png" group-title="地方高清",广东-汕头公共 HD
-http://116.26.10.134:9981/stream/channelid/384025889#http://ak.ak5tv.com/api/gdyx.php?id=shantousantaogaoqing_4500
+http://ak.ak5tv.com/api/gdyx.php?id=shantousantaogaoqing_4500
 #EXTINF:-1 tvg-id="" tvg-name="汕头经济生活" tvg-logo="https://sppotato.github.io/icon/shantou3.png" group-title="地方高清",广东-汕头经济生活 HD
-http://116.26.10.134:9981/stream/channelid/99452785#http://ak.ak5tv.com/api/gdyx.php?id=shantouertaogaoqing_4500
+http://ak.ak5tv.com/api/gdyx.php?id=shantouertaogaoqing_4500
 #EXTINF:-1 tvg-id="" tvg-name="番禺综合" tvg-logo="https://sppotato.github.io/icon/panyu.png" group-title="地方高清",广东-番禺综合 HD
 http://live.pybtv.cn/channel1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江西新闻" tvg-logo="https://sppotato.github.io/icon/jxtv7.png" group-title="地方高清",江西-江西新闻 HD
@@ -520,30 +519,18 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="石家庄综合" tvg-logo="https://sppotato.github.io/icon/shijiazhuang.png" group-title="地方高清",河北-石家庄综合 HD
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel13014/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="新疆维语新闻综合" tvg-logo="https://sppotato.github.io/icon/xjtv2.png" group-title="地方高清",新疆-维语综合 HD
-http://s5117133.m.awhost.cn/dl/xinjiang.php?id=2
-#EXTINF:-1 tvg-id="" tvg-name="新疆哈语新闻综合" tvg-logo="https://sppotato.github.io/icon/xjtv3.png" group-title="地方高清",新疆-哈语综合 HD
-http://s5117133.m.awhost.cn/dl/xinjiang.php?id=3
-#EXTINF:-1 tvg-id="" tvg-name="新疆汉语综艺" tvg-logo="https://sppotato.github.io/icon/xjtv4.png" group-title="地方高清",新疆-汉语综艺 HD
-http://s5117133.m.awhost.cn/dl/xinjiang.php?id=4
-#EXTINF:-1 tvg-id="" tvg-name="新疆维语综艺" tvg-logo="https://sppotato.github.io/icon/xjtv5.png" group-title="地方高清",新疆-维语综艺 HD
-http://s5117133.m.awhost.cn/dl/xinjiang.php?id=5
-#EXTINF:-1 tvg-id="" tvg-name="新疆汉语经济生活" tvg-logo="https://sppotato.github.io/icon/xjtv7.png" group-title="地方高清",新疆-汉语经济生活 HD
-http://s5117133.m.awhost.cn/dl/xinjiang.php?id=7
-#EXTINF:-1 tvg-id="" tvg-name="新疆哈语综艺" tvg-logo="https://sppotato.github.io/icon/xjtv8.png" group-title="地方高清",新疆-哈语综艺 HD
-http://s5117133.m.awhost.cn/dl/xinjiang.php?id=8
-#EXTINF:-1 tvg-id="" tvg-name="新疆维语经济生活" tvg-logo="https://sppotato.github.io/icon/xjtv9.png" group-title="地方高清",新疆-维语经济生活 HD
-http://s5117133.m.awhost.cn/dl/xinjiang.php?id=9
-#EXTINF:-1 tvg-id="" tvg-name="新疆汉语体育健康" tvg-logo="https://sppotato.github.io/icon/xjtv10.png" group-title="地方高清",新疆-汉语体育健康 HD
-http://s5117133.m.awhost.cn/dl/xinjiang.php?id=10
-#EXTINF:-1 tvg-id="" tvg-name="新疆汉语法治信息" tvg-logo="https://sppotato.github.io/icon/xjtv11.png" group-title="地方高清",新疆-汉语法治信息 HD
-http://s5117133.m.awhost.cn/dl/xinjiang.php?id=11
-#EXTINF:-1 tvg-id="" tvg-name="新疆少儿" tvg-logo="https://sppotato.github.io/icon/xjtv12.png" group-title="地方高清",新疆-少儿频道 HD
-http://s5117133.m.awhost.cn/dl/xinjiang.php?id=12
 #EXTINF:-1 tvg-id="" tvg-name="BBC经典" tvg-logo="https://sppotato.github.io/icon/djjl.png" group-title="地方高清",轮播-BBC纪录经典 HD
 http://live.hcs.cmvideo.cn/wd_r3/virtuallive/5101074616/150/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="" tvg-name="Discovery展播" tvg-logo="https://sppotato.github.io/icon/tszb.png" group-title="地方高清",轮播-Discovery HD
 http://live.hcs.cmvideo.cn/wd_r2/virtuallive/5101098146/150/index.m3u8?&encrypt=
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1,---------------DigitalTV HD---------------
@@ -701,6 +688,14 @@ http://120.221.5.165:8089/PLTV/88888888/224/3221225629/index.m3u8
 http://120.221.5.113:8089/PLTV/88888888/224/3221226071/index.m3u8
 
 
+
+
+
+
+
+
+
+
 #EXTINF:-1,---------------HongKong Taiwan HD---------------
 #EXTINF:-1 tvg-id="" tvg-name="香港有线新聞台" tvg-logo="https://sppotato.github.io/icon/yxxw.png" group-title="港澳台高清",有線新聞台 HD
 http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
@@ -813,6 +808,15 @@ http://185.93.2.35:12012/live/359111068247FFA1/OSj3tS0tajUnZzTXBDU1gVO8DxHizDKom
 
 
 
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,---------------AsianTV HD---------------
 #EXTINF:-1 tvg-id="" tvg-name="KBS1" tvg-logo="https://sppotato.github.io/icon/kbs1.png" group-title="日韩亚洲",KBS一台 HD
 http://119.207.55.114:9981/stream/channelid/1221325843
@@ -838,11 +842,23 @@ http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK世界新闻" tvg-logo="https://sppotato.github.io/icon/nhk.png" group-title="日韩亚洲",NHK环球国际 HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="" tvg-name="八度空间" tvg-logo="https://sppotato.github.io/icon/ctv8.png" group-title="日韩亚洲",CTV8八度空间 HD
 http://220.158.149.28:8180/TV00000000000000000037@HHZT;LIVE
 
 
 
+=======
+#EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="https://sppotato.github.io/icon/ctv8.png" group-title="日韩亚洲",八度空间 HD
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaLMHUpPmuUHoTn016TV-FY)/dm/3/x6qud17/s/live-4.m3u8
+
+
+
+
+
+
+
+>>>>>>> d3d6cc3023ad6a21c3c1eb17361d922f9230fb6c
 
 
 #EXTINF:-1,---------------IndiaTV HD---------------
